@@ -26,7 +26,8 @@
     "passport-local": "~0.1.6",
     "passport-twitter": "latest",
     "serve-favicon": "~2.0.1",
-    "stripe": "^4.6.0"
+    "stripe": "^4.6.0",
+    "less": "^2.7.1"
   },
   "devDependencies": {
     "connect-livereload": "~0.4.0",
