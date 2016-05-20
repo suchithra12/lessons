@@ -1,0 +1,1766 @@
+var cs_documents = [
+  {
+    "id": 152,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "9463edb4450be9004257cf1f57bb8a42.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100004]
+  },
+  {
+    "id": 153,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "6d80de6c9a0d1065077bba5557c117ab.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100004]
+  },
+  {
+    "id": 154,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "089e281dca2d1b3903b4111c7e813ac8.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100004]
+  },
+  {
+    "id": 155,
+    "name": "BACKGROUND ESSAY",
+    "file": "36084fcf9bb045ad8c9daf194da43c40.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100004]
+  },
+  {
+    "id": 156,
+    "name": "JAMES LEMON INTERVIEW",
+    "file": "3208a82fe5034c4a97db8ad23205cfc6.pdf",
+    "description": "A short description of making candles using a candle mold. Mr. Lemon describes the process using a candle mold very similar to the object under study. \n\nCitation: American Life Histories: Manuscripts from the Federal Writers' Project, 1936 – 1940. www.memory.loc.gov/ammem. Person Interviewed: James Lemon, Lincoln, NE. Name of Interviewer: Harold J Moss. Date of interview:  September 14, 1938. Accessed  12/17/2012",
+    "artifact": [100004]
+  },
+  {
+    "id": 157,
+    "name": "WORKING EXAMPLE",
+    "file": "7cb1fcc33f7713eecbe33ca0b5bab189.pdf",
+    "description": "Photograph of tallow candles in a 6-candle mold. Metal rods around which wicks are attached sit across the top of the mold. Finished candles lie in the background.\n\nSource:  http://paleotool.com/2012/09/02/making-candles/.No date. Photographer unknown.",
+    "artifact": [100004]
+  },
+  {
+    "id": 158,
+    "name": "ELI RHONER INTERVIEW",
+    "file": "47ede5bb4533f18aace1914383a04814.pdf",
+    "description": "Description of building a “home-made” candle mold using materials from boot boxes. Completed mold made 12 candle at once, each was 10” long. Mr. Rohner also mentions the introduction and of oil lamps.\n\nParticular attention should be given to: Dimensions and construction of the \ncandle mold Mr. Rohner’s comment that oil lamps provided much better light. He \nis very proud that his family was the first to have oil lamps.\n\nCitation: American Life Histories: Manuscripts from the Federal Writers’  Project, 1936 – 1940. www.memory.loc.gov/ammem. Person Interviewed: Eli Rohner, Hastings, NE. Interviewer: L.A. Rollins. Date: January, 1939",
+    "artifact": [100004]
+  },
+  {
+    "id": 159,
+    "name": "MARY ANN MEEHAN INTERVIEW",
+    "file": "ae3a75d5e25f08f65a3f3c3295b4a7da.pdf",
+    "description": "Mary Ann Meehan’s account of making candles for sale. She made bayberry candles among others. This is a very good description of using a candle mold. She also comments on the use of candles.\n\nParticular attention should be given to: Ms. Meehan’s pride in the quality of her candles. The fact that her inventory always sold out. Ms. Meehan’s dialect (Irish) remains as it appears in the transcription.\n\nCitation: American Life Histories: Manuscripts from the Federal Writers' Project, 1936 – 1940. www.memory.loc.gov/ammem. Person Interviewed: Mary Anne Meehan - Irish Cook, Brookfield, Massachusetts. Name of Interviewer: Louise G. Bassett. Date:  January 20, 1939 pp. 6 – 7 Accessed  12/17/2012",
+    "artifact": [100004]
+  },
+  {
+    "id": 168,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "89bef07f3c00d0441e259cee5d0b0be7.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100002]
+  },
+  {
+    "id": 169,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "07f78a69440efbcbf89c12bf6203c376.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100002]
+  },
+  {
+    "id": 170,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "8e675bf118e6add3f89a3f5a13688b5a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100002]
+  },
+  {
+    "id": 171,
+    "name": "BACKGROUND ESSAY",
+    "file": "6086efe2a36ce3fd9fc0547e0eef1318.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100002]
+  },
+  {
+    "id": 172,
+    "name": "A WARNING",
+    "file": "425beaeca76b1aa291b7cf24d480dfb9.pdf",
+    "description": "This is a newspaper announcement from the 19th century concerning  the removal and transportation of human waste (night soil) in and through the town of Seaton Carrow, Southgate, England. Particular attention should be given to: The differences between summer and winter regulations; the name and title of the person listing the announcement; why would a town need a \\\"Nuisance Removal Committee\\\"?; other \\\"nuisances\\\" noted in the text Geographical details about Seaton Carrow: seaweed, beach, street, Highway.\n\nCitation: J. Proctor, Printer and Photographer, Hartlespool. Seaton Carrow, Southgate, England, 1859 www.JTR.com.  Accessed: 5/20/2013",
+    "artifact": [100002]
+  },
+  {
+    "id": 173,
+    "name": "A DIRTY BUSINESS",
+    "file": "95a43e30f000417577b239d261069dd5.pdf",
+    "description": "This is the calling card/advertisement announcing that John [Iohn] Hunt is replacing the late John [In] Brooks as the “Nightman and Rubbish Carrier” for a section of London. Particular attention should be given to: Defining the terms \\\"Nightman\\\" and \\\"Rubbish Collector\\",
+    "artifact": [100002]
+  },
+  {
+    "id": 174,
+    "name": "WATCH OUT BELOW",
+    "file": "8d7de1448e6fb1d14e80f46d8e3a4849.pdf",
+    "description": "Woodcut from the Middle Ages depicting the disposal of waste from chamber pots. Explanation of process sits above the woodcut. Particular attention should be given to: Location of the 2 \\\"chambermaids\\\" disposing of the waste; the awning over the windows on the nearest building in woodcut. It is too small to serve as shade. What is it for? (Hint: Gardez l’eau)\n\nCitation: Gardez l’eau. Image #347997 Bridgeman Art Gallery. Used by permission: 8/19/2013",
+    "artifact": [100002]
+  },
+  {
+    "id": 175,
+    "name": "WATERSPOUT",
+    "file": "31d9dd7e6ff0f7dd1042c2212ffacfeb.pdf",
+    "description": "Sculpture of a chambermaid emptying a chamber pot. It is in a wall in a public square in the Netherlands. Particular attention should be given to: Dress of the chambermaid. Is it modern? Sculpture is located in a public square. Why commemorate in public such a simple act that has negative connotations?\n\nCitation: Waterspout by Dutch sculptor Ton Mooy. Location: The Spui in Amersfoort, the Netherlands. Source: Netherlands, Wikipedia.com. Accessed: 5/25/2013",
+    "artifact": [100002]
+  },
+  {
+    "id": 184,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "e0c01d41f37d77896e4da4976c179c02.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100024]
+  },
+  {
+    "id": 185,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "2e57918335729ebae5db13096e1f0c10.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100024]
+  },
+  {
+    "id": 186,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "8512ecccf1c8e3b02bfd1eb7ea43e4d0.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100024]
+  },
+  {
+    "id": 187,
+    "name": "BACKGROUND ESSAY",
+    "file": "8c8c3c153748bdad56c6848723b2ace7.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100024]
+  },
+  {
+    "id": 188,
+    "name": "THE PARTS OF A FELLING AXE",
+    "file": "5572e8070b65edeeb457033141ef2189.pdf",
+    "description": "Drawing of the parts of an American felling axe.\n\nCitation: www.wikipedia.com. Accessed: July 15, 2013",
+    "artifact": [100024]
+  },
+  {
+    "id": 189,
+    "name": "EUROPEAN TRADE AXE HEAD",
+    "file": "40dccc4a04376976b72cd28983151d2a.pdf",
+    "description": "This is a 17th century trade axe head. It was typically made in northern Spain. The French purchased it from the Spanish and then used it as a common trade item in North America.\n\nSpecial attention should be given to the construction of the axe head. Note \tthat it has no poll at the back. See the explanation in the Background Essay. Should be used to compare and contrast with the American Felling Axe Head.\n\nCitation: www.fs.fed.us/axes. Accessed: July 15, 2013",
+    "artifact": [100024]
+  },
+  {
+    "id": 190,
+    "name": "AMERICAN FELLING AXE HEAD",
+    "file": "8ed243b545801492e3538b98be3d3749.pdf",
+    "description": "Two images of an American felling axe head. Note the heavy, flat poll on the right side of the top image. That is the first characteristic that identifies it as American. The bottom image shows the beveled edges of the blade. These were the second improvements that developed through use in the 18th and 19th centuries.\n\nSpecial attention should be given to a compare and contrast session with the European Felling Axe Head.",
+    "artifact": [100024]
+  },
+  {
+    "id": 191,
+    "name": "HEWING AXE",
+    "file": "fa4b9607870e5959e4942d91ea628f64.pdf",
+    "description": "This is a 12 1/2” Hewing Broad Axe made by Wm. Beatty and Son, Chester, PA in the latter part of the 19th century.\n\nSpecial attention should be given to the difference in the blade size and the short handle on the axe. Excellent comparisons can be made here with the European and American Felling Axe Heads.\n\nCitation: www.worthpoint.com. Accessed: June 30, 2013.",
+    "artifact": [100024]
+  },
+  {
+    "id": 192,
+    "name": "HEWING A LOG",
+    "file": "fe4ed4af46682edb229d49f461759bc2.pdf",
+    "description": "Man using a hewing axe like the one in Document D to square the edges of a large log in Pine Town, New Mexico in June, 1940.\n\nCitation: “Hewing a Log”, Photographer: Lee Russell. Date: June, 1940. Call Number: LC-USF33-012776-113. Prints and Photographs Division, US Farm Security Administration. Office of War Information. www.loc.gov/ammem. Accessed: July, 2013",
+    "artifact": [100024]
+  },
+  {
+    "id": 202,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "955b046c5caa46a57f19b16b1993428a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100003]
+  },
+  {
+    "id": 203,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "60f26ec9d7882db4399529e50eb69c69.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100003]
+  },
+  {
+    "id": 204,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "24d3c589e1d7280d96ccec83991c3144.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100003]
+  },
+  {
+    "id": 205,
+    "name": "BACKGROUND ESSAY",
+    "file": "ae241c5de7cf908256ef211a8c8f6f2a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100003]
+  },
+  {
+    "id": 206,
+    "name": "FIVE CORNISH MINING CAPTAINS",
+    "file": "c939c6a2800bc61b4e87b70ea92cc4b8.pdf",
+    "description": "1875 photograph of five miners from Cornwall, England. Each of the miners wears a miner’s coveralls, and a “hard hat” with a candle.\n\nParticular attention should be given to: Each “hard hat” is home-made like the object under study.\n\nCitation:  “Five Cornish Mining Captains”, St. Just/Redruth, Cornwall, England, 1875. Photographer: Unknown. Photograph and permission courtesy: Dave Johnson, www.miningartifacts.homestead.com. Accessed: June 25, 2013.",
+    "artifact": [100003]
+  },
+  {
+    "id": 207,
+    "name": "CALUMET AND HECLA MINERS",
+    "file": "36db3f5a87d8cf89b4df461dec4ddd20.pdf",
+    "description": "Photograph of one shift of miners at the Calumet and Hecla Iron Mine in Michigan in 1907. There are 32 miners in the photograph. Each of the miners wears a “home-made hard hat” like the object under study. Many of the miners carry lunch pails. Man in the upper left corner is holding a wick/fuse used in blasting.\n\nParticular attention should be given to: there is a mixture her of miners with candles attached to hard hats and some with carbide lamps. This would suggest advancements in lighting, but since hard hats are the same, not much development in miner safety.\n\nCitation: Calumet & Hecla Miners, Calumet, Houghton County, Michigan, 1907.    Photographer: unknown. Photograph and permission courtesy:  Dave Johnson www.miningartifacts.homestead.com. June 25, 2013.",
+    "artifact": [100003]
+  },
+  {
+    "id": 208,
+    "name": "ARAGON MINERS",
+    "file": "c9259f4bbdae8120802406068083a863.pdf",
+    "description": "A 1912 photograph of three iron miners from Dickinson, Michigan. Each wears miners’ clothing including “home-made hard hats.”\n\nParticular attention should be given to: Carbide lamps attached to hard hats. No candles are present. Method of lighting has completely changed, but not miner safety. Suggested use: with “Five Captains” and “Calumet and Hecla Miners”\n\nCitation: Miners, Aragon Mine, Dickinson, Michigan. Date: 1912. Photographer: Unknown. Photo and permission courtesy: David Johnson, www.miningartifacts.homestead.com. June 28, 2013.",
+    "artifact": [100003]
+  },
+  {
+    "id": 209,
+    "name": "PATENT SPECS",
+    "file": "a557db6d625a4fcd2ff30d88a671d845.pdf",
+    "description": "Original 1930 patent for the Bullard “Hard Boiled” Safety Hat, showing the patent application number, date of patent, the dimensions and the construction of the hat and its lining.\n\nParticular attention should be given to: Inventor’s name and date of submission; construction of outside and inside of hat; dimensions (all are in inches) of the hat. Which might be the front (side on the left) or the back (right)?\n\nCitation: Mining and Artifacts Museum at www.halslampost.com. Patent and Permission for use courtesy: Hal Post  June 25, 2013.",
+    "artifact": [100003]
+  },
+  {
+    "id": 218,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "8817fe3229e33ef154616aedd4116a1d.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100012]
+  },
+  {
+    "id": 219,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "7e1edd158ab17693bb78886b851a51d8.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100012]
+  },
+  {
+    "id": 220,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "c9512321f5d66b3bedca89122d91aeaa.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100012]
+  },
+  {
+    "id": 221,
+    "name": "BACKGROUND ESSAY",
+    "file": "d16b52c048d3a3a7cb981dd36b6bf44e.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100012]
+  },
+  {
+    "id": 222,
+    "name": "MOCCASIN MAP",
+    "file": "e9c2cdae82502f3716a8e258c55a1382.pdf",
+    "description": "This is a map of the distribution of  types and styles of “soft-soled” and “hard-\tsoled” moccasins across North America. Please note that this is a secondary source.\n\nCitation: “Distribution of Moccasin Type”. Found at: NativeTech; An Educational Website for Native American Technology and Art. http://www.nativetech.org. Map and permission courtesy: Tara Prindle, Native Tech.",
+    "artifact": [100012]
+  },
+  {
+    "id": 223,
+    "name": "ISLETA WOMAN",
+    "file": "29eaca2ed36508b3e3804d95baa5a289.pdf",
+    "description": "This is a standing portrait of an Isleta Pueblo woman wearing a belted manta \tover a striped shirt. She wears moccasins with leggings.\n\nSuggsted Use: Compare and contrast with “Shooting Star.”\n\nCitation: Originally Titled, “Isleta Squaw”. Photographer: William Henry Cobb. Date: 1880 – 1900? Call #: X-33555. Photograph and permission courtesy, Denver Public Library, Western History Department.",
+    "artifact": [100012]
+  },
+  {
+    "id": 224,
+    "name": "SHOOTING STAR",
+    "file": "2845968f2a8ed971df649a0c3e0106c8.pdf",
+    "description": "This is a standing portrait of a Lakota Sioux woman, Shooting Star. Please note the moccasins she is wearing.\n\nSpecial Attention should be given to the following: This is a Great Plains Indian woman; Compare and contrast, not only the moccasins, but also the dress with that of the Southwest Pueblo Indian woman (Isleta Woman).\n\nCitation: Originally titled: “Shooting Star, Dakota, Ornamental Beads, Full Length” Photographer: D. F. Barry. Date: 188? Photograph and permission courtesy Denver Public Library, Western History Department.",
+    "artifact": [100012]
+  },
+  {
+    "id": 225,
+    "name": "MOCCASIN COMPARISON",
+    "file": "5891a011ea4eccac227ab43bf156e48b.pdf",
+    "description": "Each of the moccasins in this document is an original creation of the Native American nation identified. Please note the following: Apache moccasin: high top, little decoration; Cherokee moccasin: ankle height with decorated cuff; Kwakiutl (American NW): simple and functional.\n\nSpecial Attention should be given to comparing the possible different uses of each of these moccasins. It should also be emphasized that moccasins for Native Americans in the 19th century were just like shoes are for us today: widely varied concerning use, style and decoration.",
+    "artifact": [100012]
+  },
+  {
+    "id": 226,
+    "name": "MOCCASIN COMPARISON",
+    "file": "b471157d5d56932b348eab6288165cc4.pdf",
+    "description": "Description: Each of the moccasins in this document is an original creation of the Native American nation identified. Please note the following: Cheyenne moccasin: rawhide and decorated on the instep; Seminole moccasin: calf-length with some decoration on the cuff; Kiowa moccasin: highly decorated. Possibly a ceremonial set of moccasins.\n\nSpecial Attention should be given to the following: Why might the Seminole moccasin not be beaded below the ankle? Why might we conclude that the Kiowa moccasin shown is for ceremonial use only?",
+    "artifact": [100012]
+  },
+  {
+    "id": 236,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "c4141bd56396453cfc3a05409411c6cc.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100001]
+  },
+  {
+    "id": 237,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "0e6b9eda0e99f23e6abf0c88497ded5b.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100001]
+  },
+  {
+    "id": 238,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "febeb99ba38a8cda18bfefd814e46a0f.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100001]
+  },
+  {
+    "id": 239,
+    "name": "BACKGROUND ESSAY",
+    "file": "1a8b3c41a78cd5ea0baa652fa3b4bf58.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100001]
+  },
+  {
+    "id": 240,
+    "name": "19th Century Artifacts",
+    "file": "8531b3fc50d52f3dea87b103fc2c55be.pdf",
+    "description": "1899 photograph of three Ute artifacts from the 19th century. They are a round pottery canteen with plant motif, cork and rope; two-sided rawhide drum with handles, and a woven water basket.\n\nParticular attention should be given to: we cannot assume that these artifacts are from 1899. They may be from a museum collection and undated. Most likely they are from the 19th century because of the condition of the three artifacts. Note also the size of the canteen in relation to the woven basket, the location of the carrying handle on the basket.\n\nSuggested Use: with “Paiute Girls”\n\nCitation: 1895 photograph originally titled, “Woven Indian Water Bottle, Drum and Pottery Canteen”. Photographer: H.S. Poley, Call Number: P-397. Photograph and permission courtesy of Denver Public Library, Western History Department. July 1, 2013.",
+    "artifact": [100001]
+  },
+  {
+    "id": 241,
+    "name": "PAIUTE GIRLS",
+    "file": "62060d9c19898b2c5ee46664550493c0.pdf",
+    "description": "1874 photograph originally titled, “The Water Carriers.” Two young Paiute women and a girl on the Kaibab Plateau, northern Arizona. The young women carry woven basket water vessels on their back by a strap that runs through the handles and over their foreheads. They wear belted, fringed buckskin dresses.\n\nParticular attention should be given to: The location of the basket handles. How does this position assist in carrying the basket? Is carrying water only women’s work?\n\nSuggested Use: with “19th Century Artifacts”\n\nCitation: “The Water Carriers”. Photographer John K. Hillers, 1899. Call Number X-32505. Photograph and permission courtesy, Denver Public Library, Western History Department. August 23, 2013.",
+    "artifact": [100001]
+  },
+  {
+    "id": 242,
+    "name": "HOPI WOMEN",
+    "file": "d0260d09e4d4e74df636636a957a336c.pdf",
+    "description": "Photograph of Hopi women carrying water in woven basket containers with cloth strings on the Waipi Pueblo, First Mesa, Arizona in August, 1899.\n\nParticular attention should be given to: Method of carrying is similar in 1899, and containers are the same. Not much has changed since 1874 for native Americans in Arizona. Water carrying is women’s work?\n\nSuggested Use: with “Paiute Girls”\n\nCitation: “Hopi Indians”. Photographer: H.S. Poley, 1899. Call Number: P-75B. Photograph and permission courtesy: Denver Public Library, Western History Department  August 23, 2013.",
+    "artifact": [100001]
+  },
+  {
+    "id": 243,
+    "name": "BOTTLE IRRIGATION",
+    "file": "be63c35eebee9e844b31a78bea3f8dce.pdf",
+    "description": "Drawing of olla irrigation method combined with explanation of how olla irrigation works. Description of basket olla and clay olla included as well as a conclusion why it was used for irrigation then and why it is effective now.\n\nParticular attention should be given to: Differences/similarities between clay pot and woven basket ollas. Carrying forward of ancient irrigation practices into today.\n\nCitation: Image of Bottle Irrigation: http://en.howtopedia.org/wiki. \tText:    www.bigpictureagriculture.com/thirty-five_water_conservation_measures. Accessed: May 8, 2013.",
+    "artifact": [100001]
+  },
+  {
+    "id": 252,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "b214634ca7f331b26af36e3ee0f6181f.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100014]
+  },
+  {
+    "id": 253,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "90c4569df8afd84957ec2a00263e3bd4.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100014]
+  },
+  {
+    "id": 254,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "4b84073312978d773723e0f847307573.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100014]
+  },
+  {
+    "id": 255,
+    "name": "BACKGROUND ESSAY",
+    "file": "195627818c4af645a26d452c59d48a35.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100014]
+  },
+  {
+    "id": 256,
+    "name": "PREPARATION FOR DINNER",
+    "file": "ebca48afc10a19c97c123f6941a41fa5.pdf",
+    "description": "Photograph is of two Indian women and a child seated on the ground by a pot on the campfire. Photograph taken by Heyn, circa 1899. Image is from the Library of Congress, Prints and Photographs Division.",
+    "artifact": [100014]
+  },
+  {
+    "id": 257,
+    "name": "DOMESTIC LIFE OF THE SIOUX",
+    "file": "1e5b872015fe64cc5fa0ceca40375270.pdf",
+    "description": "This is a stereograph picture of the inside of a tepee with open sides showing \ta Sioux woman seated inside with metal cooking pots on the left of the image. Special \n\nAttention should be given to the fact that the pots are prominently displayed. Other than the woman, herself, the pots are the only items that are clearly visible. This would indicate that the pots are not only important to her, but also a symbol of status or of wealth. They were obviously chosen to be in the picture over her other possessions.\n\nCitation:  “Domestic Life, Sioux Indians. Date: 1872 – 1880. Photographer: Charles A. Zimmerman. Call Number: X-31727. Western History Collection. Denver Public Library (used with permission).",
+    "artifact": [100014]
+  },
+  {
+    "id": 258,
+    "name": "UTE INDIANS, 1872",
+    "file": "aab76ae60903d9da7bc8b531141f351e.pdf",
+    "description": "A Ute woman with child sitting on a table. On a box in the background are two coffee pots and a brass kettle. Immediately behind the woman is a second brass kettle that is dented and weathered.\n\nCitation: “Ute Indians”. Date: 1872.  Photographer: unknown. Call Number: X-30363. Western History Collection. Denver Public Library (used with permission).",
+    "artifact": [100014]
+  },
+  {
+    "id": 259,
+    "name": "GIFTS OF PEACE",
+    "file": "4c3439cb879c916898cd590b5a296f34.pdf",
+    "description": "This is George Grinell’s account of the events surrounding the Great Peace Council in 1840 between the Cheyennes and the Kiowas that was sealed with gift giving. The Kiowas gave the Cheyennes guns and horses. The Cheyennes gave the Kiowas brass kettles filled with food.\n\nSpecial Attention should be given to the following: Nothing was more important to the Indians of the Great Plains than horses and guns. The custom and protocol for gift giving among Native Americans was that all gifts had to be equivalent in status and value. The fact that the Cheyennes gave brass kettles to the Kiowas meant that brass kettles were considered to carry the highest status; that of the equivalent to horses and guns.\n\nCitation: From George Bird Grinnell, The Cheyenne Indians, Volume 2: War, Ceremonies and Religion. Yale University Press, 1915, page 68.",
+    "artifact": [100014]
+  },
+  {
+    "id": 264,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "398af438833a47eea3c2ca47206c6f51.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 265,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "5f6c27bff0575cd1a3970daffbf054ee.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 266,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "ba6fccfc0d1783c6034b32fc38eca111.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 267,
+    "name": "BACKGROUND ESSAY",
+    "file": "34b6513a67de33afa75b3a4b8bdc6052.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 268,
+    "name": "MINNESOTA IRON MINERS",
+    "file": "ef78e07a1b0298fd8baa191b251086b2.pdf",
+    "description": "Photograph of two iron miners wearing protective suits with early version of \tboth the hardhat and candleholders. Note that the candleholders are attached to the miners’ hats.\n\nCitation: “Minnesota Iron Miners”. Photographer: Unknown. Photograph and permission courtesy: Dave Johnson, www.miningartifacts.homestead.com.     Accessed: June 23, 2013.",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 269,
+    "name": "MINERS AT WORK IN A COAL MINE",
+    "file": "55214fcb7586080f68bfef591f3cf441.pdf",
+    "description": "This is a photograph of two miners underground in an unidentified coal mine. Miners’ candlesticks are jammed into the walls of the mine shaft and stuck into a mine timber in the foreground.\n\nSpecial Attention should be given to the fact that this photo demonstrates the multiple uses of “sticking tomes.”\n\nCitation: \\\"Miners at Work in a Coal Mine.\\\" circa 1906. Library of Congress, Prints and Photographs Division. Call Number: LC-USZ62-27886. Accessed: 11/13/2013",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 270,
+    "name": "SHASTA MINERS",
+    "file": "f857e204d0f525a421ff57781a5ae93a.pdf",
+    "description": "This is a photograph of five gold miners in Shasta County, California. Each carries a lunchbox and a candle in a candlestick. Gold miners, bespattered with tallow, from the Midas Mine at Harrison Gulch, around the turn of the century. Of special interest are the candles and holders carried by the miners, as well as their lunch buckets. This is a good example of how miners used and carried the candlesticks.\n\nSpecial Attention should be given to the fact that these miners are covered with candle wax (the white spots on their clothes). This is one of the results of using candles and candlesticks that attach to a hat that is not normally mentioned. \n\nCitation: Photo courtesy, Shasta Historical Society, Shasta County, California. Used with permission.",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 271,
+    "name": "“TOMMY STICKER”",
+    "file": "abf03dc048bf52d08902b7fd8d4ae153.pdf",
+    "description": "This is a photograph of a “Tommy Sticker,” an oil lamp/candle holder that was used in the fishing industry in the Northeast and Newfoundland. The pointed ends were sharp so that a sailor could jam the candleholder into the timbers of a ship and work with both hands in the hold.\n\nSpecial Attention should be given to the fact that the Cornish were involved in the fishing industry and in the mining industry in the West. This is the possible connection to miners’ candlesticks and their nicknames as “Sticking Tommies.”\n\nCitation: Photo courtesy, Fisheries Museum of the Atlantic.",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 272,
+    "name": "BLACKSMITH DIRECTIONS",
+    "file": "7ded501837763ba964a756ab8ebcb2d5.pdf",
+    "description": "Shown here are the specifications for making a miner’s candlestick from a spike. These specifications appeared in the Appalachia Area Blacksmith’s Newsletter, Vol II, No. 12, in December, 1989.\n\nSpecial Attention should be given to the fact that this is a secondary source. It is not known if these specifications were taken from an original drawing or if they were created after an original pattern.",
+    "artifact": [100007, 100008]
+  },
+  {
+    "id": 282,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "cd393e4ee1d370e73eabc26561d606a8.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100025]
+  },
+  {
+    "id": 283,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "422b4c273c156aefcca8967dcd8cd0cf.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100025]
+  },
+  {
+    "id": 284,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "c83fb3327ea6b10b44ffae244f749ffe.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100025]
+  },
+  {
+    "id": 285,
+    "name": "BACKGROUND ESSAY",
+    "file": "1be7c33f4923cf568e3891dd524701d2.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100025]
+  },
+  {
+    "id": 286,
+    "name": "COLLIER’S MAGAZINE – DEATH LAB",
+    "file": "52e5259f609abf76de44cc47dc1873b8.pdf",
+    "description": "This is the June 3, 1905 cover of Collier’s Magazine which contains the start of the muckraking article “The Great American Fraud.” It is important to examine this document closely to see how the elements of death are arranged to form elements of the skull.\n\nCitation: No Call Number Listed. Prints and Photographs Division, Library of Congress. http://www.loc.gov/pictures/item/2005693234. Accessed: November 1, 2013.",
+    "artifact": [100025]
+  },
+  {
+    "id": 287,
+    "name": "DUNNEL INTERVIEW",
+    "file": "d5f0aeeaa435375ad22288888dd829ac.pdf",
+    "description": "This is a WPA oral history interview with Mr. Dunnel who lives in the North and dislikes those who live in the South. He comments on the contents of patent medicines. The language here is left as Mr. Dunnel talked at the time without annotation.\n\nCitation: American Life Histories: Manuscripts from the Federal Writers’ Project, 1936 – 1940. www.loc.gov/ammem. Accessed: October 25, 2013. Person Interviewed: G. O. Dunnel, Northfield, MA. Date of Interview: January 13, 1939 Interviewer: Robert Wilder.",
+    "artifact": [100025]
+  },
+  {
+    "id": 288,
+    "name": "CLEMENT FLYNN INTERVIEW",
+    "file": "132c9f5640d773af986911c9ff1bfe14.pdf",
+    "description": "Mr. Flynn sold patent medicine for 45 years. He claims his recipe is over 100 years old and that it works. He lists elements of its contents. He then reads the label verbatim. The “medicine” is touted as a remedy for everything from a toothache to cancer.\n\nSpecial Attention: It is probably best to use this in groups and have students attack only certain sections in each group. Mr. Flynn does run on a bit.\n\nCitation: American Life Histories: Manuscripts from the Federal Writers’ Project\t1936 – 1940. www.loc.gov/ammem. Accessed: October 25, 2013. Person Interviewed:  Clement Flynn, Hastings, Nebraska. Date of Interview: November, 1938. Interviewer: F.W. Karl and L.A.Rollins.",
+    "artifact": [100025]
+  },
+  {
+    "id": 289,
+    "name": "WEST’S ELECTRIC CURE",
+    "file": "784ca1a08899c07a24299160a6d365c3.pdf",
+    "description": "This is a newspaper advertisement for West’s Electric Cure that claims to place a battery in every bottle. The usual set of suspects is cured using this approach.\n\nCitation: www.antinquemedicines.com/Electric/ElectricMeds.htm. Accessed: October 22, 2013.",
+    "artifact": [100025]
+  },
+  {
+    "id": 290,
+    "name": "LONE STAR LINIMENT ADVERTISEMENT",
+    "file": "af0a4fbd0b2cf926200408c4ad5106b0.pdf",
+    "description": "This is an 1886 advertisement for Lonestar Liniment. It claims to be good for man or beast. Ad shows a man rubbing the liniment on a horse’s leg.\n\nSpecial Attention: This is an excellent example of the crossover in patent medicines between veterinarians and medical doctors. It occurs with many patent medicines; mostly among liniment dealers. Not all were bad.\n\nCitation: Lonestar Liniment Advertisement – 1886. Prints and Photographs Division, Library of Congress. Call Number: LOT 10632-7. http://www.loc.gov/pictures/item/2001701437.",
+    "artifact": [100025]
+  },
+  {
+    "id": 291,
+    "name": "WISHART’S PINE TREE TAR CORDIAL",
+    "file": "7bc6cf532e4ba51c25dede44a6b5f2ee.pdf",
+    "description": "This advertisement is a broadside from Charleston, South Carolina in 1863. It claims that the pine tree tar cordial can cure many illnesses.\n\nSpecial Attention: Special attention needs to be given to the way the ad is written here. It plays on Civil War elements in that it emphasizes Charleston and Beauregard. General Beauregard is the man who commanded the batteries in Charleston that fired on Fort Sumter. He would be a hero in Charleston at the time. Even in time of war, advertising seems to be opportunistic.\n\nCitation: Wishart’s Pine Tree Tar Cordial – 1886. Call Number: Port 158, No. 10. \tRare Books and Collections. Prints and Photographs Division. Library of Congress. http://www.loc.gov/pictures/item/2007675502.",
+    "artifact": [100025]
+  },
+  {
+    "id": 302,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "bb698a5b9d6a59e48ba02aaa4f95c314.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100028]
+  },
+  {
+    "id": 303,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "6dce917d8906305cf251dc48cd29b26d.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100028]
+  },
+  {
+    "id": 304,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "09a6c39e14d39bd7ac21d94e3eb91dd9.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100028]
+  },
+  {
+    "id": 305,
+    "name": "BACKGROUND ESSAY",
+    "file": "72c1c7fc8a121410f484569ac9c5801a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100028]
+  },
+  {
+    "id": 306,
+    "name": "DOANE INTERVIEW",
+    "file": "9ef86f1516953ba01378fb837cf73cc0.pdf",
+    "description": "Oral history of Mrs. I.E. Doane who describes how spinning thread was girls’ work and that they learned spinning early as part of their chores.\n\nCitation: From: American Life Histories: Manuscripts from the Federal Writers’ Project, 1936 – 1940. www.loc.gov/ammem. Accessed: 9/13/2013. Person Interviewed: Mrs. I. E. Doane. Interviewer: Chlotilde R. Martin. Date of Interview: June 28, 1938.",
+    "artifact": [100028]
+  },
+  {
+    "id": 307,
+    "name": "POTINOS INTERVIEW",
+    "file": "afcfc93057f9bd6d8eebf5b715e8b3b3.pdf",
+    "description": "Oral history of Mr. Dennis Potinos who describes how his grandmother carded and spun wool by hand at home.\n\nCitation: American Life Histories: Manuscripts from the Federal Writers’ Project \t1936 – 1940. www.loc.gov/ammem. Accessed: 9/13/2013. Person Interviewed: Dennis Potinos. Interviewer: Not identified. Date of Interview: August 20, 1939.",
+    "artifact": [100028]
+  },
+  {
+    "id": 308,
+    "name": "THREE GENERATIONS OF WOMEN AT HOME",
+    "file": "e2411b063f235ca122d93af7bedcd44a.pdf",
+    "description": "George Walker painting from 1814 showing three generations of women (grandmother, mother, and daughter) each engaged in one step of the spinning of cloth.\n\nSpecial Attention: Give special attention to this painting as it illustrates that spinning was women’s work. The painting also illustrates the vocabulary of spinning as it relates to women. (Distaff, spinster).\n\nCitation: Three Generations of Women at Home. Artist: George Walker. Date: 1814. Image courtesy: Heritage Images/Corbis. Accessed: August 5, 2013.",
+    "artifact": [100028]
+  },
+  {
+    "id": 309,
+    "name": "ADDIE PATTERSON INTERVIEW",
+    "file": "57c3fe42c1b621f9c825e636dfecd9e4.pdf",
+    "description": "Oral history of Addie Patterson who describes how wool cloth was dyed and assembled by hand at home.\n\nSpecial attention should be given to the many vegetable and mineral substances Ms. Patterson mentions in her discussion.\n\nCitation: American Life Histories: Manuscripts from the Federal Writers’ Project, 1936 – 1940, www.loc.gov/ammem Accessed: 09/13/2013. Person Interviewed: Mrs. Addie Patterson. Interviewer: Phoebe Faucette. Date of Interview: September 10, 1940.",
+    "artifact": [100028]
+  },
+  {
+    "id": 310,
+    "name": "HISPANIC WOMAN SPINNING WOOLEN THREAD",
+    "file": "5f465b79e7f075894f0316b5327ce393.pdf",
+    "description": "WPA photograph of an Hispanic woman using a drop spindle to weave woolen thread in 1939. Part of a WPA work project during the Great Depression.\n\nNote that teaching women to spin during the Great Depression was a nationwide project. Women of all ages and ethnicities were taught to spin, This photograph is merely an example, not the rule.\n\nCitation: Original Title: Spanish American Woman Spinning Woolen Thread at WPA Project, Costilla, New Mexico. Photographer: Lee Russell. Date of Photograph: September, 1939. Farm Security Administration, Office of War Administration. Location of Photograph: Library of Congress, Prints and Photographs. Call #: LC-USF34-034266-D. Accessed: August 15, 2013.",
+    "artifact": [100028]
+  },
+  {
+    "id": 311,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "c734b602696ec4ff4e123093296d0ef5.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100029]
+  },
+  {
+    "id": 312,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "26fb3cbefd0b49e315c3663b2b266f7e.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100029]
+  },
+  {
+    "id": 313,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "f0657a8de704a57aac28acfd8f939eb2.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100029]
+  },
+  {
+    "id": 314,
+    "name": "BACKGROUND ESSAY",
+    "file": "5e9edfef54291899c34a4cb1a6307adc.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100029]
+  },
+  {
+    "id": 315,
+    "name": "NOW IS THE TIME TO FIGHT!",
+    "file": "bdffd66db22202dca8e9ce16be3c9662.pdf",
+    "description": "Cartoon published in the Bulletin of the National Association for the Studyand Prevention of Tuberculosis in 1917. In the center of the cartoon, a skeleton (the symbol of death) rides on the back of a giant fly. The skeleton is dropping bombs on those below. In the lower right corner are two men at an anti-aircraft battery taking aim at the fly. The cartoon carries a warning that every fly can produce millions of disease-carrying offspring.\n\nSpecial attention should be given to the war theme here. The US had just entered WWI in April, 1917. The cartoon appeared in June. The Tuberculosis Association is using ads similar to wartime pleas for men, material and support for the war.\n\nCitation: www.nebi.nim.nih.gov. Accessed: October 30, 2013.",
+    "artifact": [100029]
+  },
+  {
+    "id": 316,
+    "name": "SYMPTOMS OF TUBERCULOSIS",
+    "file": "f21764e170b24a20f80a19787eb20f30.pdf",
+    "description": "This circular from 1918 shows five of the symptoms of tuberculosis and recommends that any person having one or more of these should see a doctor “at once.”\n\nCitation: www.digital.ncdr.gov/u?p24990. Accessed: October 31, 2013.",
+    "artifact": [100029]
+  },
+  {
+    "id": 317,
+    "name": "SANATORIUM SCHEDULE",
+    "file": "fd23eda52d7dda60863f65e1f6afb115.pdf",
+    "description": "Daily schedule from a sanatorium in Arkansas in the early 1920s.\n\nSpecial attention should be given to the wake up time and the “bedtime” for patients. Students should be able to correlate information from the background essay with information here to get a complete picture of tuberculosis, its effects, and sanatorium life.\n\nCitation: Arkansas Tuberculosis Sanatorium. Tuberculosis or Consumption: Its Prevention and Treatment. Booneville, Arkansas: Progressive Printing. Company, 1925, p. 4.",
+    "artifact": [100029]
+  },
+  {
+    "id": 318,
+    "name": "UNCLE JIMMIE TOLD ME NOTHING",
+    "file": "6a7d7f1ed4f2035c99c0fdd09f1ef1c1.pdf",
+    "description": "Oral history interview with John Healy of Lynn, Massachusetts concerning his Uncle Jimmie who lost four children, three of them to tuberculosis. \n\nThis is a very sad story, but it shows the effects of TB in a family. It also demonstrates what people thought about the causes of TB and how they responded to their loss.\n\nCitation: Interview of John Healy, Lynn, Massachusetts. Date: 1939. Interviewer: Edith L. Crawford. FROM: American Life Histories: Manuscripts from the Federal Writers’ Project, 1936 – 1940. www.memory.loc.gov/ammem.  Accessed: October 31, 2013.",
+    "artifact": [100029]
+  },
+  {
+    "id": 319,
+    "name": "PREVENT DISEASE",
+    "file": "e6d9acf9a141f8bb41bd3788f2974518.pdf",
+    "description": "This is a circular from 1925 from the National Association for the Study and Prevention of Tuberculosis. The circular warns against “careless spitting, coughing and sneezing.” It connects influenza (the Spanish Flu pandemic had just killed millions across the world) with tuberculosis.\n\nCitation: www.nim.nih.gov/exhibition/visualculture. Accessed: October 31, 2013.",
+    "artifact": [100029]
+  },
+  {
+    "id": 320,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "d5691849b1330ee216872d9608072bce.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100027]
+  },
+  {
+    "id": 321,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "e919059c56408fd6c490b2cded228ea6.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100027]
+  },
+  {
+    "id": 322,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "f23a89a3f232e4128f63ca79efd27471.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100027]
+  },
+  {
+    "id": 323,
+    "name": "BACKGROUND ESSAY",
+    "file": "b665d75521c8b4d65049c008cfba2f42.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100027]
+  },
+  {
+    "id": 324,
+    "name": "STYLES OF BEAVER HATS",
+    "file": "9c09de317496d359a098a8fc45459c9d.pdf",
+    "description": "Eight different styles of beaver hats circa 1820. An example of the popular uses of the beaver hat in the early 19th century.\n\nCitation: Horace T. Martin. Castorologica, Or: The History and Traditions of the Canadian Beaver, An Exhaustive Monograph. University of Michigan: January, 1892. Wikipedia Commons: Accessed 9/25/2013.",
+    "artifact": [100027]
+  },
+  {
+    "id": 325,
+    "name": "MOUNTAIN MEN AD",
+    "file": "5a686eca9c13cf6b51c26a897e22386b.pdf",
+    "description": "February 13, 1822 advertisement by William Ashley calling for adventurous young men to join the Rocky Mountain Fur Company.\n\nCitation: Historic Newspaper Archive http://newspaperarchive.com/missouri-gazette-public-advertiser/1822-02-13/page 3. Accessed: 10/02/2013.",
+    "artifact": [100027]
+  },
+  {
+    "id": 326,
+    "name": "MOUNTAIN MEN AD (II)",
+    "file": "1e4a68a8f3de0f7100134988102d293a.pdf",
+    "description": "January 13, 1823 advertisement for men to join the Rocky Mountain Fur Company.\n\nSuggestions for use: Compare and contrast ads 1 and 2. What new information is provided? What do two ads within one year, each for 100 men, indicate about the business of the fur trade?\n\nCitation: Historic Newspaper Archive http://newspaperarchive.com/missouri-gazette-public-advertiser/1823-01-13/page 3. Accessed: 10/02/2013.",
+    "artifact": [100027]
+  },
+  {
+    "id": 327,
+    "name": "WILLIAM ASHLEY LETTER",
+    "file": "346f36456ebec1381a99a8d91743c456.pdf",
+    "description": "Letter from William Ashley to General Henry Atkinson, December 1, 1825. General Atkinson was, at the time, the Indian Commissioner for the Louisiana Territory. In 1825 he negotiated treaties with several Indian tribes along the Missouri River. Ashley recounts his experiences in the areas of today’s Utah, Wyoming, and Idaho including descriptions of the topography and Native American nations. This excerpt tells of the early arrival of mountain men at the green river Rendezvous in July, 1825.\n\nSuggestions for Use: Use this document after introducing the two ads. This will also work very well with the Alfred J. Miller painting, “Green River Rendezvous”.\n\nCitation: The Ashley-Smith explorations and the discovery of a central route to the Pacific, 1822-1829, with the original journals, by Harrison Clifford Dale, Cleveland, The Arthur H. Clark Company, 1918. Library of Western Fur Trade Historical Documents (http://user.xmission.com). Accessed: October 9, 2013.\n\n(Archaic language and spelling.)",
+    "artifact": [100027]
+  },
+  {
+    "id": 328,
+    "name": "THE GREEN RIVER RENDEZVOUS - 1837",
+    "file": "0b52554a4ff9c08432398517e8f7e3cc.pdf",
+    "description": "Alfred J. Miller’s painting of the 1837 Rocky Mountain Fur Company rendezvous. An earlier rendezvous was held at this same Green River location in 1825. It is mentioned in Document E. This is a primary document as Miller actually attended the 1837 rendezvous.\n\nSuggested Use: Use with the Mountain Men ads, and William Ashley letter.\n\nCitation: “The Rendezvous Near Green River” by Alfred Jacob Miller. Everett D. Graff Collection, Collection Number 4912. American Heritage Center, University of Wyoming.",
+    "artifact": [100027]
+  },
+  {
+    "id": 329,
+    "name": "BEAVER TRAP",
+    "file": "93106c159b262e6ebb8285a91df4e8ef.pdf",
+    "description": "A beaver trap circa 1830. Note the heavy jaws of the trap and the size of the spring that snaps the trap shut. The large plate in the center of the photograph triggers the trap.\n\nCitation: Image courtesy of Corbis Images/Bettman Archive.",
+    "artifact": [100027]
+  },
+  {
+    "id": 340,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "547d9a04712e2efc338d8887f6d066f3.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100011]
+  },
+  {
+    "id": 341,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "3817997d9e202997f6ae742791a5db00.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100011]
+  },
+  {
+    "id": 342,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "d8399704525f7c554d8045a548450d77.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100011]
+  },
+  {
+    "id": 343,
+    "name": "BACKGROUND ESSAY",
+    "file": "0857fa4b9631d31f30d64b0a18294d22.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100011]
+  },
+  {
+    "id": 344,
+    "name": "THE PARTS OF A CARBIDE LAMP",
+    "file": "3f0c66b15d0526ac7dd8b1657c7886a6.pdf",
+    "description": "Diagram of a carbide lamp with the parts labeled and identified.\n\nSuggested Use: Combine this document with the background essay with the background essay in order for students to visualize and understand the workings of a carbide lamp.\n\nCitation: www.sip.ie/sip0198/carbide/carbide.htm. Accessed: 9/15/2013.",
+    "artifact": [100011]
+  },
+  {
+    "id": 345,
+    "name": "BALDWIN PATENT I",
+    "file": "df99fa16aeb37155e0b99a9a64306c05.pdf",
+    "description": "The first page of the two-page patent awarded to Frederick E. Baldwin for his carbide lamp. The patent number and date of the patent was issued are clearly identified at the top.\n\nSuggested Use: Have students try to identify the parts after reading the background essay and working with Document A. Use with Document A if students have difficulty.\n\nCitation: ACETYLENE GAS LAMP  USA656874A, Page 1. Published: August 28, 1900. www.Patft.USPTO.gov  Accessed; 9/15/2013.",
+    "artifact": [100011]
+  },
+  {
+    "id": 346,
+    "name": "BALDWIN PATENT II",
+    "file": "ac001de253d24ca362cb98ab4a63ffde.pdf",
+    "description": "Page two of the Frederick E. Baldwin patent.\n\nSuggested Use: Combine with the Balwin Patent Documents and have students try to identify the parts after reading the background essay and working with “The Parts of a Carbide Lamp”. Use with “Parts of a Carbide Lamp” if students have difficulty.\n\nCitation: ACETYLENE GAS LAMP  USA656874A, Page 2. Published: August 28, 1900. www.Patft.USPTO.gov. Accessed; 9/15/2013.",
+    "artifact": [100011]
+  },
+  {
+    "id": 347,
+    "name": "CARBIDE LAMP USE",
+    "file": "510676222dba429f7882c3b6c5588212.pdf",
+    "description": "The Justrite Manufacturing Co. of Chicago, Illinois was formed in 1906 as an industrial fabricating company making special machinery and tools. As noted on the wooden box, this lamp was advertised and sold as a camp lamp for sportsmen. It would appear that Justrite didn't limit their products to any one market sector. Over the history of Justrite production from 1912 to 1931, Justrite used at least 154 different lamp model numbers and at least 246 part numbers for a total of at least 400 number identifications. It is very clear that Justrite provided more carbide lamps over a longer period of time than any other U.S. manufacturer.\n\nSuggested Use: Use as an example of the multiple uses of carbide lamps. Miners, though important users, were not the only people to employ carbide lamps to see in the dark.\n\nCitation: “The Justrite No. 100 with Spare Bottom and Box”. circa 1912. Photo courtesy: Hal Post, www.halslamppost.com. Accessed: 9/15/2013.",
+    "artifact": [100011]
+  },
+  {
+    "id": 356,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "fcab9f54bba937ade188a98871e7009f.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 357,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "24a770d98b8427e3bfc7609610f7f562.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 358,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "c4c053fe6c9e217da7b8da80c3c5161c.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 359,
+    "name": "BACKGROUND ESSAY",
+    "file": "47d73496e862cd025c5745adf37466d5.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 360,
+    "name": "ARTILLERY SHELLS AND THEIR MANUFACTURE",
+    "file": "0c7d527da9341560e731c15494b6da54.pdf",
+    "description": "This is page 758 of the November 30, 1861 copy of Harper’s Weekly. The illustration is broken into thirds on the page as follows: The top one-third contains illustrations of a cross section of a shell, a plunger and cap (percussion fuse) and two images of a shell; one finished, the other unfinished. The center third is an illustration of the factory floor that shows the hand work necessary for completing the shells. The bottom third contains two illustrations: one that shows the size of a shell relative to a man, and a skilled worker pouring lead into a shell mold.\n\nCitation: www.sonsofthesourth.net/leefoundation/civil-war/1861. Accessed: October 25, 2013.",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 361,
+    "name": "FIRSTS OF THE CIVIL WAR",
+    "file": "684d9a618d1119c9df1c9cc020018b32.pdf",
+    "description": "This is a list of the many “firsts” of the Civil War 1861 – 1865.\n\nCitation: www.gutenberg.org/ProjectGallery/Civil_War_Centennial_Handbook. Accessed: November 4, 2013.",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 362,
+    "name": "REPLICA: TWELVE-POUNDER CIVIL WAR SHELL",
+    "file": "a165233e1adf210a096a84c1780b4dd5.pdf",
+    "description": "A non-excavated 12-pounder smoothbore, solid shot round. This is the most common solid shot projectile of any caliber used by both sides during the Civil War. The ball is secured to the sabot by two crossed-iron straps nailed to the wooden cup. The powder bag was tied to a groove cut into the base of the sabot.\n\nCitation: Still image of item in the 3D viewer. Private collection.",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 363,
+    "name": "CIVIL WAR ARTILLERY ROUND – SOLID SHOT",
+    "file": "92305774ef1e08efef84ca3ab5c4a358.pdf",
+    "description": "Round (spherical) projectiles of solid iron for smoothbores werecommonly called cannonballs or shot. When elongated for rifled weapons, the projectile was known as a bolt. Solid projectiles were used against opposing batteries, wagons, buildings, etc., as well as enemy personnel. While shot could ricochet across open ground against advancing infantry or cavalry, bolts tended to bury themselves upon impact with the ground and therefore were not used a great deal by field artillery.\n\nCitation: www.history.army.mil/StaffRide/1st%20Bull%20Run/Artillery. Accessed: November 5, 2013.",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 364,
+    "name": "CIVIL WAR ARTILLERY ROUND – SHELL",
+    "file": "bb1b8172bc72eea3f3efb7096a675f8e.pdf",
+    "description": "The shell, whether spherical or conical, was a hollow iron projectile filled with a black powder bursting charge. It was designed to break into several ragged fragments. Spherical shells were exploded by fuses set into an opening in the shell, which ignited the shell near the intended target. The time of detonation was determined by adjusting the length of the fuse. Rifled shells were detonated by similar timed fuses or by a percussion fuse detonating the shell upon impact.\n\nCitation: www.history.army.mil/StaffRide/1st%20Bull%20Run/Artillery. Accessed: November 5, 2013.",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 365,
+    "name": "CIVIL WAR ARTILLERY ROUND – CASE SHOT",
+    "file": "09d57a104304c8c5e3cf77e16507c1e3.pdf",
+    "description": "Case shot had a thinner wall than a shell and was filled with a number of small lead or iron balls (27 for a 12-pounder). A timed fuse ignited a small bursting charge inside the shell, which fragmented the casing and scattered the contents in the air. Case shot was intended to burst from 50 to 75 yards short of the target, the fragments being carried forward by the velocity of the shot.\n\nCitation: www.history.army.mil/StaffRide/1st%20Bull%20Run/Artillery. Accessed: November 5, 2013.",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 366,
+    "name": "CIVIL WAR ARTILLERY ROUND – CANISTER",
+    "file": "4d1a0fb16de7d5e0db5be3ace6cd91a8.pdf",
+    "description": "Canister consisted of a tin cylinder in which was packed a number of iron or lead balls. Upon discharge the cylinder split open and the smaller projectiles fanned out. Canister was an extremely effective antipersonnel weapon, with an effective range of 400 yards. In emergencies double loads of canister could be used at ranges less than 200 yards, using a single propelling charge.\n\nCitation: www.history.army.mil/StaffRide/1st%20Bull%20Run/Artillery. Accessed: November 5, 2013.",
+    "artifact": [100015, 100016]
+  },
+  {
+    "id": 389,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "9fce1528e4bc7d18d55869ed97cf7014.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100005]
+  },
+  {
+    "id": 390,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "3d7c45d77c9175b7cc08b4e122b165c3.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100005]
+  },
+  {
+    "id": 391,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "ae2da3848436653bd03071fb8cb336fa.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100005]
+  },
+  {
+    "id": 392,
+    "name": "BACKGROUND ESSSAY",
+    "file": "740397a821341128ff19e9e9b5cca5f8.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100005]
+  },
+  {
+    "id": 393,
+    "name": "CENTENNIAL SHOOTER",
+    "file": "2af9429d19d966e6a7454a6122d2cc88.pdf",
+    "description": "1876 advertisement for a “Centennial Shooter” that would assist in playing marbles. The ad shows four boys playing marbles and using the “shooter.” The ad proclaims the benefits of the “shooter,” among them are increased accuracy and it is “neat, strong and cannot be disarranged.”\n\nSpecial attention should be given to the fact that this advertisement is directed toward the owners of retail stores selling toys. It is not directed at boys, but at \tadults. Additionally, the addition of the word “Centennial” should be addressed, as it is 1876 and the centennial of the Declaration of Independence. Apparently holidays have been good promotional times for a long time.\n\nCitation: “Centennial Shooter”. Printing Date: 1876. Source: Advertising Ephemera Collection – Database #A0655. Emergence of Advertising On-line Project. John W. Hartman Center for Sales, Advertising & Marketing History. Duke University David M. Rubenstein Rare Book & Manuscript Library. http://library.duke.edu/digitalcollections/eaa/. Accessed: May 12, 2013.",
+    "artifact": [100005]
+  },
+  {
+    "id": 394,
+    "name": "TOY ADVERTISEMENT",
+    "file": "c2b1596225e9d03bd526ad2cf6879824.pdf",
+    "description": "This is an advertisement published by J. F. Lotts Toy Store in Boston, MA around Christmas. He mentions several items that his customers might like and lists the specials for the Christmas season.\n\nSpecial attention should be given to the toys that would be similar and different from toys available today. In addition, students should evaluate the cost of the items in today’s dollars. To accomplish this, simply divide the price listed in the ad by .043. This will convert the 19th century price into today’s dollars.\n\nCitation: “Toys, Toys, Toys”. Printing Date: November 28, 1860. Location: Boston, Massachusetts. Printer: George B. Hamilton, 131 Hamilton Street, Boston. Source: http://memory.loc.gov/rbc/rbpe/rbpe066/066602700/001da.tif. Accessed: May 15, 2013.",
+    "artifact": [100005]
+  },
+  {
+    "id": 395,
+    "name": "GREATEST TOY OF THE YEAR",
+    "file": "6cfe179ad6d4744fd65b542917d274c6.pdf",
+    "description": "This is an advertisement from The New York Times, December 10, 1916. It advertises a toy electric stove for girls.\n\nSpecial attention should be given to the fact that this is a highly “gendered” ad. It is pointed directly at girls and assumes that cooking is “women’s work.” Be careful not to judge the advertisement. It is a reflection of the “mind of the times.”. Recommendation: compare and contrast this ad with “That Boy”.\n\n(A MAGNIFYING GLASS IS RECOMMENDED FOR THIS ITEM.)\n\nCitation: “Greatest Toy of the Year”.  Printing Date: December 10, 1916. Publisher: The New York Times. Source: http://memory.loc.gov/nytimes/advertisement/greatesttoy/001da.tif. Accessed: May 10, 2013.",
+    "artifact": [100005]
+  },
+  {
+    "id": 396,
+    "name": "FOR THAT BOY!",
+    "file": "8553c61ddffab567499515db475802eb.pdf",
+    "description": "This is an advertisement from the same page of the New York Times as “Greatest Toy of the Year”. Although it mentions girls, it is obviously directed at boys. It is a gendered advertisement, and it assumes that boys will grow up to be architects, and girls will not. Be careful not to judge the advertisement. It is a reflection of the “mind of the times.” Recommendation: compare and contrast this ad with “Greatest Toy of the Year”.\n\n(A MAGNIFYING GLASS IS RECOMMENDED FOR THIS ITEM.)\n\nCitation: “For That Boy”. Printing Date: December 10, 1916. Publisher: The New York Times. Source: http://memory.loc.gov/nytimes/advertisement/greatesttoy/001da.tif. Accessed: May 10, 2013.",
+    "artifact": [100005]
+  },
+  {
+    "id": 397,
+    "name": "BOYS AND TOYS",
+    "file": "01853593f6e639807b61b6d712c8304a.pdf",
+    "description": "This is a photograph from 1909 of a boy surrounded by his toys on the front porch. His toys are carefully arranged. They are numerous. It can be assumed that his family possesses great material resources in order to have accumulated these items.\n\nSpecial attention should be given to the toys and their order on the stairs. Are those closest to him the “revered” toys? What about the ones far away? Also, how many of these toys would be available today in their modern counterparts?\n\nCitation: “Boy and Toys”. Printing Date: 1909. Publisher: Underwood and Underwood. Source: http://memory.loc.gov/advertisements/toys/001da.tif. Accessed: May, 15, 2013.",
+    "artifact": [100005]
+  },
+  {
+    "id": 398,
+    "name": "BACKGROUND ESSAY E3",
+    "file": "4f0eb2c4bebe08e48ff6b4d03d893e14.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100019]
+  },
+  {
+    "id": 399,
+    "name": "BACKGROUND ESSAY E5",
+    "file": "f342ecbdb02ceda5f5c58217cd0885fd.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100019]
+  },
+  {
+    "id": 400,
+    "name": "BACKGROUND ESSAY MS",
+    "file": "799c13588e21acd62604ad9328abd584.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100019]
+  },
+  {
+    "id": 401,
+    "name": "BACKGROUND ESSAY",
+    "file": "d68671d3502416ab7828ab67a41b268a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100019]
+  },
+  {
+    "id": 402,
+    "name": "FIRSTS OF THE CIVIL WAR",
+    "file": "a5d236d0f7f79d52699a92dcb591c6c2.pdf",
+    "description": "This is a lengthy list of the many “firsts” of the Civil War.\n\nCitation: www.gutenberg.org/ProjectGallery/Civil_War_Centennial_Handbook Accessed: October 25, 2013.",
+    "artifact": [100019]
+  },
+  {
+    "id": 403,
+    "name": "CARTRIDGE PACKET (SHARPS CARBINE)",
+    "file": "a35d4aa2dc5abef959015f5f2d498410.pdf",
+    "description": "This is a typical packet of 10 paper cartridges for a Sharp’s Carbine issued during the Civil War.\n\nCitation: Private Civil War Collection. Accessed: November 8, 2013.",
+    "artifact": [100019]
+  },
+  {
+    "id": 410,
+    "name": "BACKGROUND ESSAY E3",
+    "file": "a24b8aae4eff53cc654158e3460f94d8.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100017]
+  },
+  {
+    "id": 411,
+    "name": "BACKGROUND ESSAY E5",
+    "file": "18035d3fd40bcdb42803f5cd00c72ad3.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100017]
+  },
+  {
+    "id": 412,
+    "name": "BACKGROUND ESSAY MS",
+    "file": "a5a2f44be80956841b92e2301f9b0c63.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100017]
+  },
+  {
+    "id": 413,
+    "name": "BACKGROUND ESSAY",
+    "file": "3f2dff1e14dbba504770493d764adb7f.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100017]
+  },
+  {
+    "id": 414,
+    "name": "FIRSTS OF THE CIVIL WAR",
+    "file": "abb36ddd02025ea98a816e6bd7d47d76.pdf",
+    "description": "This is a lengthy list of the many “firsts” of the Civil War.\n\nCitation: www.gutenberg.org/ProjectGallery/Civil_War_Centennial_Handbook. Accessed: October 25, 2013.",
+    "artifact": [100017]
+  },
+  {
+    "id": 415,
+    "name": "CIVIL WAR PAPER FUSE",
+    "file": "1f2619636f06fdfc906c9ea076fe3778.pdf",
+    "description": "This is a still photograph of the fuse in the 3D viewer showing the markings for trimming.\n\nCitation: Private Civil War Collection. November 8, 2013.",
+    "artifact": [100017]
+  },
+  {
+    "id": 416,
+    "name": "CIVIL WAR BORMANN FUSE (USED)",
+    "file": "1c5055aef832f5e91be94dd2de14fee8.pdf",
+    "description": "This is a still photograph of a Civil War Bormann fuse with the hole punched in order to time the fuse. This should be used with the description.\n\nCitation: Private Civil War Collection. November 8, 2013.",
+    "artifact": [100017]
+  },
+  {
+    "id": 417,
+    "name": "TYPICAL GUNNER’S CALCULATION TABLE",
+    "file": "449da3d9d6d5938c161e80936a37c8f2.pdf",
+    "description": "This is a copy of a gunner’s calculation table that was used to determine the timing of fuses for Civil War artillery units.\n\nCitation: www.gutenberg.org/ProjectGallery/Civil_War_Centennial_Handbook. Accessed: October 25, 2013.",
+    "artifact": [100017]
+  },
+  {
+    "id": 426,
+    "name": "BACKGROUND ESSAY E3",
+    "file": "262541f8f6e5bb9da14dfb7c5899ccae.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100018, 100020]
+  },
+  {
+    "id": 427,
+    "name": "BACKGROUND ESSAY E5",
+    "file": "0dea0641aab8c13ed579d62c35be8270.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100018, 100020]
+  },
+  {
+    "id": 428,
+    "name": "BACKGROUND ESSAY MS",
+    "file": "424dbf78ab03119bbf69bfcc35ec51aa.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100018, 100020]
+  },
+  {
+    "id": 429,
+    "name": "BACKGROUND ESSAY",
+    "file": "82aeb016f1de730086927ce9df13faf6.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100018, 100020]
+  },
+  {
+    "id": 430,
+    "name": "FIRSTS OF THE CIVIL WAR",
+    "file": "749afd41a84efce0c53d91407ca4b3b2.pdf",
+    "description": "This is a lengthy list of the many “firsts” of the Civil War.\n\nCitation: www.gutenberg.org/ProjectGallery/Civil_War_Centennial_Handbook. Accessed: October 25, 2013.",
+    "artifact": [100018, 100020]
+  },
+  {
+    "id": 431,
+    "name": "CIVIL WAR WORM TOOL",
+    "file": "7195b2e4a456f85cb911ea42ee92d469.pdf",
+    "description": "This is a still photograph of a typical Musket worm tool from the Civil War.\n\nCitation: Private Civil War Collection. Accessed: November 8, 2013.",
+    "artifact": [100018, 100020]
+  },
+  {
+    "id": 438,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "5b3b1c5e97f3fe0d16c12cfde20013c0.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 439,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "7fe365007cb631de5d7821dc9b3bb2fc.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 440,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "8d830ae59008c1e357a374994716466d.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 441,
+    "name": "BACKGROUND ESSAY",
+    "file": "a495648a7bde9d075cbeed1c937b5116.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 442,
+    "name": "THE ERKER MOULD SET",
+    "file": "40b5e49c9cfc00212e209cbe4034660f.pdf",
+    "description": "Image from 1574 book (see below) of a mould set for assaying. Items are as follows: Mortar and pestle for crushing samples (A) Cupels for different tests (B – E) How to stack cupels until needed (F).\n\nSpecial Information: Image is from A Treatise on the Forensics of Mineralogy and Metallurgy, written by Lazarus Ercker von Steckenfels. Lazarus Ercker was a German metallurgist. He was the chief assayer of Dresden in Saxony. In 1567 he was appointed chief tester of coins for the state of Bohemia. This was an important position as he not only declared which coins were legal and which were counterfeit, but he also established the value of the coins. In 1574 he wrote his great work that described the first systematic review of the methods and techniques for testing alloys of precious metals. It was the first manual of analytic and metallurgical chemistry.\n\nFrom: Lazarus Ercker von Schreckenfels, Treatise an the Foremost Mineralogy and Metallurgy, LST4.",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 443,
+    "name": "THE CHEMICAL PROCESSES OF CUPPELLATION",
+    "file": "9406b846b32f7e3804ff035e93501176.pdf",
+    "description": "Diagram showing the chemical processes that occur in the cupellation (assay) process. At the top is a cupel in which an alloy of silver, copper and lead is exposed to high heat. \n\nStep 2 shows lead oxide and copper oxide ristion to the top of the amalgam and lead oxide and copper oxide being absorbed into the bone ash cupel.\n\nStep 3 shows the silver “button” that remains after cupellation with the lead and copper oxides either burned off, or absorbed into the cupel.\n\nSpecial information: this is the process that is described in the background essay.  Some teachers may want to use this as an illustration as the background is read in class.\n\nCitation: The Chemical Processes of Cuppellation. From Archeosciences : Revued'archeometrie ; Groupe des Methods Pluridisciplines Contribuant a l'archeologie. No. 32, 2008, pp. 59 - 70. Accessed at www.archeosciences.revues.org/0penEdition. August 13, 2013.",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 444,
+    "name": "ADVERTISEMENT",
+    "file": "dbc2b1450e7951e543a9cb00a6b0a951.pdf",
+    "description": "Page 230 of the 1910 Denver Fire Clay Company Catalog that advertises molds for creating cupels of various sizes and for varying uses.\n\nSpecial Attention should be given to the variety here, noting different sizes, different uses and different costs. It should also be noted that by 1910 the mass production of assay items was both required and competitive.\n\nCitation: Pouring Molds, Denver Fire and Clay Company. Annual Catalog, 1910, page 230. Source: http://halslamppost.com. Accessed: June 25, 2013.",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 445,
+    "name": "BATTERSEA ASSAY EQUIPMENT",
+    "file": "c7ea39d8ed080464e7b4c8fb82c76c09.pdf",
+    "description": "Photograph of modern Battersea crucibles and a cupel. Note the different sizes. The three at the top of the photograph are crucibles that have been used. The bottom item is a bone ash cupel before being fired/used.",
+    "artifact": [100021, 100023]
+  },
+  {
+    "id": 470,
+    "name": "BACKGROUND ESSAY E3",
+    "file": "974c93e7fa61b9caabf59cfde575e047.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 471,
+    "name": "BACKGROUND ESSAY E5",
+    "file": "88036b5bd66757c9a91bf78fcfdc71fe.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 472,
+    "name": "BACKGROUND ESSAY MS",
+    "file": "a5e5c287eda83d135d800fab861c0f92.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 473,
+    "name": "BACKGROUND ESSAY",
+    "file": "e990252e2d128f2cbcb7d97dd44e6477.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 474,
+    "name": "ANIMAL REMAINS EXAMPLE",
+    "file": "e841b562bc1477291365bf020dbe985b.pdf",
+    "description": "This is a photograph of the remains of a spider captured in amber.\n\nCitation: www.nhm.ac.uk/spider_in_amber. Accessed:  November 12, 2013.",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 475,
+    "name": "BODY FOSSIL – EXAMPLE",
+    "file": "937993bfeff23af7d2a01c003d56967d.pdf",
+    "description": "This is a photograph of an extinct bottom-feeding fish. It is an example of a body fossil. The scientific name of the fish is notogoneus osculus.\n\nCitation: www.opensourcepaleontologist.com. Accessed: November 12, 2013.",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 476,
+    "name": "TRACE FOSSIL – EXAMPLE",
+    "file": "206e95968521b271dce5f3b2c717daac.pdf",
+    "description": "This is a photograph of the four-toed bird dinosaur Saurexallopus and is an excellent example of a trace fossil.\n\nCitation: www.commons.wikimedia.org. Accessed: November 12, 2013.",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 477,
+    "name": "CHEMOFOSSIL – EXAMPLE",
+    "file": "4fe91bf60cde3df69dd4d194eeaf5e56.pdf",
+    "description": "This is a photograph of a lump of coal. It is an example of a chemofossil.\n\nCitation: www.opensourcepaleontologist.com. Accessed: November 12, 2013.",
+    "artifact": [100009, 100010]
+  },
+  {
+    "id": 486,
+    "name": "BACKGROUND ESSAY E3",
+    "file": "ba9b269533716677693d589d0a25a749.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100022]
+  },
+  {
+    "id": 487,
+    "name": "BACKGROUND ESSAY E5",
+    "file": "f0d84eadb77f834e695b9f4488803f49.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100022]
+  },
+  {
+    "id": 488,
+    "name": "BACKGROUND ESSAY MS",
+    "file": "212e36bafb3c81627e9f08223508a5e4.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100022]
+  },
+  {
+    "id": 489,
+    "name": "BACKGROUND ESSAY",
+    "file": "979558c8b80c4fdca4c3c04e5e7bdd3a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100022]
+  },
+  {
+    "id": 490,
+    "name": "MID-ATLANTIC PUNCHED TIN LANTERN",
+    "file": "cffa28cf39fd1f317942c96b50859625.pdf",
+    "description": "This is a cylindrical lantern with conical a cap and hanging ring. The hinged door is punched with a dove in flight. Circa 1860.\n\nCitation: www.liveauctioneers.com. Accessed: October 20, 2013.",
+    "artifact": [100022]
+  },
+  {
+    "id": 491,
+    "name": "PUNCHED TIN LANTERN",
+    "file": "3b7161bef66179e70ef3d3f09ddcd8a3.pdf",
+    "description": "This is a punched tin lantern with a “peephole” cut in the door. The door is open and shows how light can be concentrated.\n\nCitation: www.rubyland.com. Accessed: October 20, 2013.",
+    "artifact": [100022]
+  },
+  {
+    "id": 498,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "b9130fa6300d0883da622822072d4320.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100026]
+  },
+  {
+    "id": 499,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "8b6eec1ea0b75f4931ebf272cb17bef2.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100026]
+  },
+  {
+    "id": 500,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "b08bcd95cf295ce052fb65cb2d667bba.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100026]
+  },
+  {
+    "id": 501,
+    "name": "BACKGROUND ESSAY",
+    "file": "c86d9ebb36a21d2555aaedda1c92329e.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100026]
+  },
+  {
+    "id": 502,
+    "name": "MEASUREMENT USING AN INCLINOMETER",
+    "file": "5653882ec716dc1c4c6756d64bcbe075.pdf",
+    "description": "Describes the process foresters use to measure the height of a tree using an inclinometer. Description walks the reader through the process.\n\nCitation: http://sylva.org.uk/oneoak/tree_facts.php. Accessed: 9/15/2013.",
+    "artifact": [100026]
+  },
+  {
+    "id": 503,
+    "name": "HOW TO USE A SEXTANT",
+    "file": "f240270ffbbdf96e60383bfcd6ba3821.pdf",
+    "description": "Document shows a sextant and describes how to take a reading with a sextant.\n\nSuggested Use: Compare the similarities between measuring a tree in “Using an Inclinometer” with finding latitude in this document.\n\nCitation: www.davidarling.info/encyclopedia/S/sextant. Accessed: 9/23/2013.",
+    "artifact": [100026]
+  },
+  {
+    "id": 504,
+    "name": "USE OF AN INCLINOMETER",
+    "file": "77cae0aaec6f29569ec48b8d38fba2b1.pdf",
+    "description": "This is a list of the many uses of an inclinometer/clinometer.\n\nCitation: http://wikipedia.org/wiki/inclinometer. Accessed: 9/20/2013.",
+    "artifact": [100026]
+  },
+  {
+    "id": 505,
+    "name": "LEWIS TO JEFFERSON, A LETTER",
+    "file": "2816b0ba0600e02e17d5755777d92289.pdf",
+    "description": "This is a letter from Captain Meriwether Lewis to President Thomas Jefferson requesting that only the sextant be used during his expedition to the Louisiana Territory because of its accuracy. Lewis was a terrible speller. His spelling has been retained.\n\nCitation: Thomas Jefferson and Early Western Explorers, Transcribed and Edited by Gerard W. Gawalt, Manuscript Division, Library of Congress. www.loc.gov/ammem. Accessed: 9/23/2013.",
+    "artifact": [100026]
+  },
+  {
+    "id": 514,
+    "name": "BACKGROUND ESSAY E3",
+    "file": "fbfa628b0483dd24e6b99b992738d306.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100030]
+  },
+  {
+    "id": 515,
+    "name": "BACKGROUND ESSAY E5",
+    "file": "b9f6e9e3b36cae71773f5bb1d82ce877.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100030]
+  },
+  {
+    "id": 516,
+    "name": "BACKGROUND ESSAY MS",
+    "file": "0fb7e97d7974ae29fcb714b8f898b05d.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100030]
+  },
+  {
+    "id": 517,
+    "name": "BACKGROUND ESSAY",
+    "file": "efe9b47abd7dc97ac899d764ffadb03f.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100030]
+  },
+  {
+    "id": 518,
+    "name": "MECHANISMS OF HEAT TRANSFER",
+    "file": "1810009b38cf139d88b27080cf429946.pdf",
+    "description": "Diagram of the three mechanisms of heat transfer: conduction, convection and radiation using a pot of water held over a flame as the example. This simulates the action of a tea kettle over the open flame of a gas stove.\n\nSpecial attention should be given to the improvements in the tea kettle in order to use all three mechanisms to maximize efficiency. (Explanation in Background essay and “Description of Improvements”)\n\nCitation: www.physics.louisville.edu. Accessed: November 11, 2013.",
+    "artifact": [100030]
+  },
+  {
+    "id": 519,
+    "name": "PATENT SPECIFICATIONS. PATENT NO. 402,190. FIGURE 1 - 2",
+    "file": "78b146e4d3af4039100470fdafd28891.pdf",
+    "description": "Figure 1 of the patent for improvements to the Simplex “Quickstart” Tea Kettle issued in 1932. The diagram shows the side and bottom views. Annotations are explained in “Description of Improvements”.\n\nCitation: www.fantes.com/manuals/simplex-patent-gb-400709-402190-423201.pdf. Accessed: November 11, 2013.",
+    "artifact": [100030]
+  },
+  {
+    "id": 520,
+    "name": "PATENT SPECIFICATIONS. PATENT NO. 402,190. FIGURE 3 - 4",
+    "file": "c433a10c837dd6dc35fc17f60c1a6f2e.pdf",
+    "description": "Figure Two of the patent for improvements to the Simplex “Quickstart” Tea Kettle issued in 1932. The diagram shows specific improvements to the bottom of the tea kettle. Annotations are explained in “Description of Improvements”\n\nCitations: www.fantes.com/manuals/simplex-patent-gb-400709-402190-423201.pdf. Accessed: November 11, 2013.",
+    "artifact": [100030]
+  },
+  {
+    "id": 521,
+    "name": "DESCRIPTION OF IMPROVEMENTS",
+    "file": "8653b79fa648d4f61e9f6a95d3434307.pdf",
+    "description": "Page 2 of the patent application for the Simplex “Quickstart” Tea Kettle. This is the page that explains the modifications, their effect and provides the annotations for the “a”, “b” and so on marked on the figures in the patent specifications.\n\nNOTE: You may want to have magnifying glasses at hand to read the document.\n\nCitation: www.fantes.com/manuals/simplex-patent-gb-400709-402190-423201.pdf. Accessed: November 11, 2013.",
+    "artifact": [100030]
+  },
+  {
+    "id": 702,
+    "name": "Background Essay - E3",
+    "file": "720dd56c5b8a954327264ab5dd51de84.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100031]
+  },
+  {
+    "id": 703,
+    "name": "Background Essay - E5",
+    "file": "0e07e0a1c731bc541bb22f919dce9716.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100031]
+  },
+  {
+    "id": 704,
+    "name": "Background Essay - MS",
+    "file": "ed23bfa4fae197ef53e70b5cf1131e0a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100031]
+  },
+  {
+    "id": 705,
+    "name": "Background Essay",
+    "file": "04843b0accb96b6da0d4f734eed5b35c.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100031]
+  },
+  {
+    "id": 706,
+    "name": "FIRSTS OF THE CIVIL WAR",
+    "file": "9b800822741c06fea1e2d440eae38a15.pdf",
+    "description": "Secondary source listing the many “firsts” of the Civil War, 1861 – 1865.\n\nCitation: www.gutenberg.org/ProjectGallery/Civil_War_Centennial_Handbook. Accessed: 11/4/2013.",
+    "artifact": [100031]
+  },
+  {
+    "id": 707,
+    "name": "58 CALIBER PAPER CARTRIDGE – DRAWING",
+    "file": "c53ccd1243aef8a5429d99d80ca5a029.pdf",
+    "description": "Diagram of a 58 caliber paper cartridge. Markings would indicate a northern cartridge. Use with the background essay to match picture and description.\n\nCitation:\n[First Drawing] The Union Army. A History of Military Affairs in the Loyal States, 1861-1865. Volume IV. Federal Publishing Company, Madison, Wisconsin,1908.",
+    "artifact": [100031]
+  },
+  {
+    "id": 708,
+    "name": "58 CALIBER PAPER CARTRIDGE – PHOTOGRAPH",
+    "file": "b8274afe91b33da3b615dd225a87301c.pdf",
+    "description": "Photograph of a 58 caliber paper cartridge. Civil War era. Use in conjunction with Document B to gain clarity.\n\nCitation: Image from private (Hughes) collection.",
+    "artifact": [100031]
+  },
+  {
+    "id": 709,
+    "name": "COMPOSITION OF BLACK POWDER",
+    "file": "17ffea1a330d5a59b389d8a9f05e5fcf.pdf",
+    "description": "A short description of the chemical ingredients and interactions in black powder that was used in cartridges in the Civil War.\n\nCitation: www.en.wikipedia.org/wiki/Gunpowder#Composition_and_Characteristics",
+    "artifact": [100031]
+  },
+  {
+    "id": 719,
+    "name": "Background Essay - E3",
+    "file": "7b64c904a87edc1645d0f2ad2e096f8b.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100032]
+  },
+  {
+    "id": 720,
+    "name": "Background Essay - E5",
+    "file": "9b9e44172e605f3d9a6e7c635cc66761.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100032]
+  },
+  {
+    "id": 721,
+    "name": "Background Essay - MS",
+    "file": "a725a94e402458e8b5b1e859470e6537.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100032]
+  },
+  {
+    "id": 722,
+    "name": "Background Essay",
+    "file": "31f74bb40bbc438153dff6eb77c79d12.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100032]
+  },
+  {
+    "id": 723,
+    "name": "DAILY SCHEDULE",
+    "file": "04dbc289b62dba5f3059feeddb1bcea2.pdf",
+    "description": "Special Order No. 8, August 26, 1864, Denver, Colorado Territory. This is the daily schedule for the 3rd Colorado Cavalry while stationed at Camp Weld just outside of Denver, Colorado Territory (CT). The daily schedule lists the activity, the bugle call and the time scheduled for the activity. This should be used in conjunction with Document B which provides the explanation of the bugle call and an instrumental example.\n\nSPECIAL ATTENTION should be given to the fact that this is the same group that will attack the unarmed Cheyenne/Arapahoe camp in November, 1864 that will be called the Sand Creek Massacre.\n\nCitation: Colorado State Archives. Special and General Orders 1 – 8, Colorado Third Cavalry, 1864. Microfilm number: GR 606.",
+    "artifact": [100032]
+  },
+  {
+    "id": 724,
+    "name": "BUGLE CALLS",
+    "file": "67e83999b2a70e430eede21f0663db9e.pdf",
+    "description": "This is a list of the eight most common bugle calls used in the US Army. Each bugle call is described, the musical notation is given and a short instrumental example is provided.\n\nCitation: http://www.music.army.mil/music/buglecalls. Accessed: 12/1/2013.",
+    "artifact": [100032]
+  },
+  {
+    "id": 725,
+    "name": "BUGLE INSIGNIA",
+    "file": "9298cb57759d0ae5ae9f8de18ba6c417.pdf",
+    "description": "U.S. Infantry Officers Hat Badge Insignia, Civil War.\n\nCitation: Private (Hughes) Collection.",
+    "artifact": [100032]
+  },
+  {
+    "id": 726,
+    "name": "Background Essay - E3",
+    "file": "fd3ec6ed0531b4603b477a9d62d4932a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100034]
+  },
+  {
+    "id": 727,
+    "name": "Background Essay - E5",
+    "file": "9a2b92c0db042dbd4e08e19fb6101dbb.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100034]
+  },
+  {
+    "id": 728,
+    "name": "Background Essay - MS",
+    "file": "47b7f5416487b70bfd4be9e0728c5534.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100034]
+  },
+  {
+    "id": 729,
+    "name": "Background Essay",
+    "file": "5ceded942685197c1a98d04edb1ac1f2.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100034]
+  },
+  {
+    "id": 730,
+    "name": "FIRSTS OF THE CIVIL WAR",
+    "file": "71387855bc7926360ffc31801e328ba9.pdf",
+    "description": "This is a list of the many “firsts” of the Civil War 1861 – 1865.\n\nCitation: www.gutenberg.org/ProjectGallery/Civil_War_Centennial_Handbook. Accessed: November 4, 2013.",
+    "artifact": [100034]
+  },
+  {
+    "id": 731,
+    "name": "PATENT APPLICATION: KETCHUM HAND GRENADE",
+    "file": "9aab4267a8ac24042fc84a7cd916b076.pdf",
+    "description": "This is the approved patent application from William Ketchum for the Ketchum Hand Grenade. It includes a full description of the weapon and its intended use. The patent is Number 33,089.\n\nSpecial attention should be given to the fact that this is a two-page application. It contains the explanation of the drawings that comprise Patent Drawings I and Patent Drawings II. It should be used in conjunction with the approved application.\n\nCitation: www.patft.uspto.gov. Accessed: 12/2/2013.",
+    "artifact": [100034]
+  },
+  {
+    "id": 732,
+    "name": "PATENT DRAWINGS I",
+    "file": "d49d1a12bdb5f5c6620cc48ec2d18d2f.pdf",
+    "description": "This document contains figures 1 and 2 of the patent application showing both the Ketchum hand grenade and a cross section of the Ketchum hand grenade. Should be used with the Patent Application Document.\n\nCitation: www.patft.uspto.gov. Accessed: 12/2/2013.",
+    "artifact": [100034]
+  },
+  {
+    "id": 733,
+    "name": "PATENT DRAWINGS II",
+    "file": "7aee6076151fe44117ffd47c05faf485.pdf",
+    "description": "This document contains drawings of the Ketchum hand grenade, the percussion cap, and the plunger assembly both as separate parts and after assembly.\n\n\nCitation: www.patft.uspto.gov. Accessed: 12/2/2013.",
+    "artifact": [100034]
+  },
+  {
+    "id": 734,
+    "name": "Background Essay - E3",
+    "file": "7279ba2c38abe2735a45bc636edb9a24.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100033]
+  },
+  {
+    "id": 735,
+    "name": "Background Essay - E5",
+    "file": "7f188f9aebca35459f5a728d0cfba7ef.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100033]
+  },
+  {
+    "id": 736,
+    "name": "Background Essay - MS",
+    "file": "e778d31ce879ae46fb9145999077514a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100033]
+  },
+  {
+    "id": 737,
+    "name": "Background Essay",
+    "file": "5185b8e744daab36d47efe278d37a4e2.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100033]
+  },
+  {
+    "id": 738,
+    "name": "AMMONITE ANATOMY",
+    "file": "f32014542bba06927e645a6eb31befba.pdf",
+    "description": "Drawing of the anatomy of an ammonite with parts labeled, and definition of parts provided.\n\nCitation: www.tonmo.com/science/public/ammonites.jpg. Accessed: 12/15/2013.",
+    "artifact": [100033]
+  },
+  {
+    "id": 739,
+    "name": "CRETACEOUS SEA",
+    "file": "47d8e6be41645353e41da81351de1c4c.pdf",
+    "description": "Map of the prehistoric sea that existed in the Cretaceous Period with states marked for reference.\n\nCitation: Item compliments of the US Geological Survey, http://education.usgs.gov/maps.",
+    "artifact": [100033]
+  },
+  {
+    "id": 740,
+    "name": "Background Essay - E3",
+    "file": "ce4b74189a8c88967cbb827d267e6983.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 3)",
+    "artifact": [100035]
+  },
+  {
+    "id": 741,
+    "name": "Background Essay - E5",
+    "file": "8b7fd239e6d1565a894d30bef7bf7b21.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Grade 5)",
+    "artifact": [100035]
+  },
+  {
+    "id": 742,
+    "name": "Background Essay - MS",
+    "file": "d650e9185d23bc3d636dd0f551ca71db.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (Middle School)",
+    "artifact": [100035]
+  },
+  {
+    "id": 743,
+    "name": "Background Essay",
+    "file": "10759e49e7ec4469955c19fe221fda7a.pdf",
+    "description": "This essay contains historical information that places the artifact into context. (High School)",
+    "artifact": [100035]
+  },
+  {
+    "id": 744,
+    "name": "TRACE FOSSIL – EXAMPLE",
+    "file": "be379559299e2060bf114c43624023e3.pdf",
+    "description": "This is a photograph of the four-toed bird dinosaur Saurexallopus and is an excellent example of a trace fossil.\n\nCitation: www.commons.wikimedia.org, Accessed: November 12, 2013.",
+    "artifact": [100035]
+  },
+  {
+    "id": 745,
+    "name": "Background Essay",
+    "file": "a09caaaa7bb034fe27ac510ee6e341b9.pdf",
+    "description": "Background for fossil. Grade level 9 - 12",
+    "artifact": [100038, 100039]
+  },
+  {
+    "id": 746,
+    "name": "Background Essay - MS",
+    "file": "5641eb8f21b5e52d0938a23a9f365e6d.pdf",
+    "description": "Background for fossil. Grade level 6 - 8",
+    "artifact": [100038, 100039]
+  },
+  {
+    "id": 747,
+    "name": "Background Essay - E5",
+    "file": "922a79aab1676e53bba8a6dc5a0a4c5c.pdf",
+    "description": "Background for fossil - Grade level 5",
+    "artifact": [100038, 100039]
+  },
+  {
+    "id": 748,
+    "name": "Background Essay - E3",
+    "file": "ac13f8ad8d7536f407c2bb57d2d15cbf.pdf",
+    "description": "Background for fossil - Grade level 3 - 4",
+    "artifact": [100038, 100039]
+  },
+  {
+    "id": 749,
+    "name": "BODY FOSSIL EXAMPLE",
+    "file": "85d3ec7c9558003fe22a0d15d683dc8e.pdf",
+    "description": "This is a photograph of an extinct bottom-feeding fish. It is an example of a body fossil. The scientific name of the fish is notogoneus osculus.\n\nCitation: www.opensourcepaleontologist.com. Accessed: November 12, 2013",
+    "artifact": [100038, 100039]
+  },
+  {
+    "id": 750,
+    "name": "Background Essay",
+    "file": "70a7cc24068e93ec2db5e551db9d517d.pdf",
+    "description": "Background essay providing contextual information for grades 9 - 12",
+    "artifact": [100042]
+  },
+  {
+    "id": 751,
+    "name": "Background Essay - MS",
+    "file": "c30a43f25b36d993a949d5d38f5043f9.pdf",
+    "description": "Background essay providing contextual information for grades 6 - 8",
+    "artifact": [100042]
+  },
+  {
+    "id": 752,
+    "name": "Background Essay - E5",
+    "file": "202da8041e9eb003dbd1e908bf712db9.pdf",
+    "description": "Background essay providing contextual information for grade 5",
+    "artifact": [100042]
+  },
+  {
+    "id": 753,
+    "name": "Background Essay - E3",
+    "file": "af185f46d127efb952be39819af520d8.pdf",
+    "description": "Background essay providing contextual information for grades 3 - 4",
+    "artifact": [100042]
+  },
+  {
+    "id": 754,
+    "name": "TO ASSIST THE HEARING",
+    "file": "34912c3fe6a81c3596951f4415cb44f3.pdf",
+    "description": "This is an excerpt from the Charles Lentz & Sons Catalogue of Surgical Instruments showing thee different styles of \\\"modern\\\" ear trumpets. Note especially the \\\"cane trumpet\\\" in the center.\n\nCITATION: Charles Lentz & Sons, The Illustrated Catalogue and Price List of Surgical Instruments. London, England: circa 1885. Found at http://www.biomedicalephemera.com. Accessed: 12/19/2013",
+    "artifact": [100042]
+  },
+  {
+    "id": 755,
+    "name": "EAR TRUMPET ADVERTISEMENT",
+    "file": "adb902de473e6dba538771b5ed7f3141.pdf",
+    "description": "Advertisement from the 1897 Sears and Roebuck Catalog for \\\"Hearing Aids.\\\" The advertisement shows 3 different types with descriptions and costs for each. Note the different materials used to construct the items and the fact that some are very small.\nSPECIAL ATTENTION: In order to convert 1897 dollars into today's dollars, simply divide the 1897 amount by .043.\n\nCITATION: Sears, Roebuck and Company. 1897 Sears and Roebuck Catalogue. Chicago, Illinois, 1987. \\\"Hearing Aids.\\\"\n756,100149,\"CAESAR ERNST INTERVIEW",
+    "artifact": [100042]
+  },
+  {
+    "id": 757,
+    "name": "ROBERT LEE WRIGHT INTERVIEW",
+    "file": "aef9aa8182f4ec99ffd399a7880617bf.pdf",
+    "description": "Mr. Wright recounts a story concerning a famous North Carolina Lawyer, Stonewall Dexter. Mr. Dexter tricked a man feigning deafness and using an ear trumpet as a prop into revealing that he was not deaf at all, thus saving his client from \\\"the rope.\\",
+    "artifact": [100042]
+  },
+  {
+    "id": 758,
+    "name": "BACKGROUND ESSAY",
+    "file": "45b0bb65313cf249574db7774465fa13.pdf",
+    "description": "Background essay written for 9th - 12th grade students.",
+    "artifact": [100041]
+  },
+  {
+    "id": 759,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "93239207f4fb3dd2cdeec81acdfc2bba.pdf",
+    "description": "Background essay written for 6th - 8th grade students.",
+    "artifact": [100041]
+  },
+  {
+    "id": 760,
+    "name": "BACKGROUND ESSAY E5",
+    "file": "c1a05a77ebf9f243694d99c6724b8c40.pdf",
+    "description": "Background essay written for 5th grade students.",
+    "artifact": [100041]
+  },
+  {
+    "id": 761,
+    "name": "BACKGROUND ESSAY E3",
+    "file": "e8dda7cf0655317943df9e9443f0c464.pdf",
+    "description": "Background essay written for 3rd and 4th grade students",
+    "artifact": [100041]
+  },
+  {
+    "id": 762,
+    "name": "DOCUMENT A: TRUNDLE WHEEL",
+    "file": "2ca80d61a8feb8b4aeaf56a8cea7c4e1.pdf",
+    "description": "Modern trundle wheel marked in centimeters with moveable arrow pointer.\n\nCITATION:\nGoogle patent: www.google.com/patents/USD467189/Figure2\nAccessed: 12/19/2013",
+    "artifact": [100041]
+  },
+  {
+    "id": 763,
+    "name": "DOCUMENT B: H.B. THOMAS INTERVIEW",
+    "file": "07cb0bbb2d14c36e8093f50537b05ce8.pdf",
+    "description": "Mr. Thomas describes laying out his homestead claim using the wheel of a covered wagon as a way winder/trundle wheel. Mr. Thomas's grammar is very poor, but his methods were accurate.\nSPECIAL ATTENTION: Mr. Thomas mentions that he had two \\\"rights\\\": a homestead right and a timber right. The homestead right came from the Homestead Act of 1862 and allowed 160 acres free if the person who filed the claim live on and improved the land for five years. The timber right came from the Timber Act of 1873 and allowed another 160 acres to be added to a homestead claim if the person planted trees on the property. No residence requirement was necessary for a timber claim.\nCITATION:\nAmerican Life Histories: Manuscripts from the Federal Writers' Project, 1936 - 1940. Person interviewed: H. B. Thomas, Lincoln, Nebraska. Interviewer: George Hartman, Lincoln, Nebraska. Date of Interview: October 18, 1938. www.memory.loc.gov/ammem. Accessed: 12/10/2013",
+    "artifact": [100041]
+  },
+  {
+    "id": 764,
+    "name": "DOCUMENT C: F.H. JANTZEN PATENT USD0136953",
+    "file": "bfea5b224377a51a0d1b52fcfde02422.pdf",
+    "description": "Patent award F. H. Jantzen for a \\\"Measuring Stick or the Like\\\" issued january 4, 1944. Note the differences in style and especially the smaller wheel.\nCITATION:\nhttp://pdfw.uspto.gov/0136953\nAccessed: 12/12/2013",
+    "artifact": [100041]
+  },
+  {
+    "id": 765,
+    "name": "DOCUMENT D: CHRISTOPHER DUNN PATENT USD4176458",
+    "file": "e1c3a4ced00bf8a616d00ae4013206dd.pdf",
+    "description": "Patent awarded to Christopher H. Dunn, December 4, 1979. Note that this device has a removable wheel, an extendable handle and a digital radout display rather than a clicking device.\nCITATION:\nhttp://pdfw.uspto.gov/4176458\nAccessed: 12/10/2013",
+    "artifact": [100041]
+  },
+  {
+    "id": 771,
+    "name": "BACKGROUND ESSAY",
+    "file": "e1ca2b20fbda5f6ed3cc116b75347737.pdf",
+    "description": "Background for grades 9 - 12 that gives a short history of coins, the definitions of \\\"obverse\\\" and \\\"reverse,\\\" a short description of the types of coins, and some idea of how coins operate as a primary source.",
+    "artifact": [100043, 100044]
+  },
+  {
+    "id": 772,
+    "name": "BACKGROUND ESSAY - MS",
+    "file": "d6c2a0de84d1065dfbafaa63172f6fa3.pdf",
+    "description": "Background for grades 6 - 8 that provides some history, definitions, and an idea of what coins can tell us about the past.",
+    "artifact": [100043, 100044]
+  },
+  {
+    "id": 773,
+    "name": "BACKGROUND ESSAY - E5",
+    "file": "a7d6af05af828c15482c64bc8cd29ca9.pdf",
+    "description": "Background for grade 5 that provides a short history, definitions, and an idea of what coins can tell us about the past.",
+    "artifact": [100043, 100044]
+  },
+  {
+    "id": 774,
+    "name": "BACKGROUND ESSAY - E3",
+    "file": "d1b17f2c6613a1c30933d0073325394f.pdf",
+    "description": "Background for grades 3 - 4 that provides an idea of what a coin might tell us.",
+    "artifact": [100043, 100044]
+  },
+  {
+    "id": 775,
+    "name": "DOCUMENT A: Anatomy of a Coin",
+    "file": "0c61002a2584e9c48121dd34e150854d.pdf",
+    "description": "Diagram of a US half dollar that labels each feature of a coin. the definitions of all labelled items are listed below the diagram.\n\nCITATION:\nwww.usmint.gov/about-the-mint/collectorscorner/anatomy-of-a-coin\nAccessed: February 3, 2014",
+    "artifact": [100043, 100044]
+  },
+  {
+    "id": 776,
+    "name": "DOCUMENT B: Coin Specifications",
+    "file": "06d869cc68547d568946001e67303aed.pdf",
+    "description": "Chart that provides the specifications for each of the US Mint's legal tender coins in production. The chart delineates elements on obverse and reverse to include date of issue, designer's name, and metallic compositions.\n\nCITATION:\nwww.usmint.gov/aoubt-the-mint\nAccessed: February 1, 2014",
+    "artifact": [100043, 100044]
+  },
+  {
+    "id": 777,
+    "name": "DOCUMENT C: Metal Content of Coins",
+    "file": "74ec7fc22d9f49bf407ccac573d8c91c.pdf",
+    "description": "Chart listing the gold and silver content of all coins produced by the US Mint since 1837. The information includes total weight in grams and ounces, and silver and gold weight in ounces.\n\nCITATION:\nhttp://www.universalcoinbuyers.com/metal-content-gold-silver-coins-html.\nAccessed: February 5, 2014",
+    "artifact": [100043, 100044]
+  }
+]

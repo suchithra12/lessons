@@ -1,0 +1,1905 @@
+var cs_documents_new =[
+  {
+    "name":"China Poblana Dress",
+    "artifact":[100054],
+    "cs_docs":[
+      {
+        "cs_name":"Essay - China Poblana Dress.pdf",
+        "description":"A short background essay that provides the legend of the \"China Poblana\" and gives a description of the \"typical\" China Poblana dress."
+      },
+      {
+        "cs_name":"Clothing and Dresses.pdf",
+        "description":"An essay that provides a short background history of clothing, defines the term and places dresses within that definition."
+      },
+      {
+        "cs_name":"The China Poblana Dress - 1890.pdf",
+        "description":"This is a photograph of a woman in New Mexico wearing a China Poblana dress. She stands before an ox cart that is being pulled by one yoke of oxen. This is a standard \"China Poblana\" dress with accompanying jewelry."
+      },
+      {
+        "cs_name":"The China Poblana Dress - 1920.pdf",
+        "description":"This is a photograph of a woman in Mexico in 1920 wearing a standard \"China Poblana\" dress. She is standing in a doorway. Note the standard jewelry that accompanies the costume."
+      }
+    ]
+  },
+  {
+    "name":"Christo with Messengers",
+    "artifact":[100067],
+    "cs_docs":[
+      {
+        "cs_name":"19th Century Spanish Crucifix.pdf",
+        "description":"Photograph of an ivory crucifix created in the 19th century. Should be used to demonstrate the characteristics of post-Renaissance art in Europe."
+      },
+      {
+        "cs_name":"Characteristics of Renaissance and Medieval Art.pdf",
+        "description":"This one-page essay lists the major characteristics of both Renaissance and Medieval art. The intention here is to provide a background for comparison of bultos and santos with their European counterparts."
+      },
+      {
+        "cs_name":"Christo with Messengers Essay.pdf",
+        "description":"A brief look at the importance of the \"Christo,\" the Southwestern version of the crucifix. The one-page discussion also includes some indication of why the differences are so profound."
+      },
+      {
+        "cs_name":"Medieval Crucifix.pdf",
+        "description":"This is a photograph of a 12th or 13th century Spanish crucifix. It demonstrates the typical characteristics of medieval art."
+      },
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      }
+    ]
+  },
+  {
+    "name":"Cloverdale Milk Bottle",
+    "artifact":[100116],
+    "cs_docs":[
+      {
+        "cs_name":"Cloverdale Bottle.pdf",
+        "description":"Description of the item combined with suggestions for use in the classroom"
+      }
+    ]
+  },
+  {
+    "name":"Cochiti Pot",
+    "artifact":[100068],
+    "cs_docs":[
+      {
+        "cs_name":"Cochiti Pottery Essay.pdf",
+        "description":"This is an essay that describes, in general terms, the characteristics of Cochiti Pueblo pottery including the type of clay and slip used and the typical designs employed."
+      }
+    ]
+  },
+  {
+    "name":"Contestoga Wagon Jack",
+    "artifact":[100118],
+    "cs_docs":[
+      {
+        "cs_name":"Conestoga Wagon Jack.pdf",
+        "description":"Description of the artifact combined with suggestions for use in the classroom]"
+      }
+    ]
+  },
+  {
+    "name":"Cowhide Ladle",
+    "artifact":[100069],
+    "cs_docs":[
+      {
+        "cs_name":"Ladles Essay.pdf",
+        "description":"This is a two paragraph discussion that defines ladles and provides a brief discussion of their use."
+      },
+      {
+        "cs_name":"Ladles Photo.pdf",
+        "description":"This is a photograph of a variety of modern, steel and copper ladles of all sizes. Suggested use is for comparison with ladles in the collection."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Davis Kidder Magneto Machine",
+    "artifact":[100119],
+    "cs_docs":[
+      {
+        "cs_name":"Box Lid.pdf",
+        "description":"A photograph of the lid of the Davis & Kidder Magneto Machine on which are written the instructions and warnings. It is signed by the manufacturers."
+      },
+      {
+        "cs_name":"Davis Kidder Magneto Machine.pdf",
+        "description":"This is a transcription of the instructions and warnings written on the inside of the box lid of the Davis & Kidder Magneto Machine."
+      },
+      {
+        "cs_name":"Davis and Kidder Essay.pdf",
+        "description":"Description of the artifact c[ombined with suggestions for using the artifact i[n class.]"
+      },
+      {
+        "cs_name":"Wests Electric Cure.pdf",
+        "description":"This is a newspaper advertisement for West’s Electric Cure that claims to place a battery in every bottle. The usual set of suspects is cured using this approach. NOTE: This is an excellent example of exploiting the population’s lack of knowledge about both medicine and new technology"
+      }
+    ]
+  },
+  {
+    "name":"Dr. Fenner's Patent Medicine",
+    "artifact":[100120],
+    "cs_docs":[
+      {
+        "cs_name":"Dr. Fenners Background Essay MS.pdf",
+        "description":"This is a short essay that discusses the term \"Patent Medicine,\" its origins, and its applications, especially in the late 19th century. It reviews the elements combined to make the \"medicines\" ,and briefly discusses the end of the patent medicine industry beginning with a McCall’s article, the book, The Jungle, and the passage of the Pure Food and Drug Act. This essay is written for the Middle School level."
+      },
+      {
+        "cs_name":"Dr. Fenners Background Essay E3.pdf",
+        "description":"Essay written at third grade level that introduces the idea of \"fake\" medicines and the law that prevents making it today."
+      },
+      {
+        "cs_name":"Dr. Fenners Background Essay E5.pdf",
+        "description":"A fifth grade level essay that introduces \"Patent Medicines\" as well as the Pure Food and Drug Act of 1906."
+      },
+      {
+        "cs_name":"Dr. Fenners Background Essay.pdf",
+        "description":"This is a short essay that discusses the term \"Patent Medicine,\" its origins, and its applications, especially in the late 19th century. It reviews the elements combined to make the \"medicines\" ,and briefly discusses the end of the patent medicine industry beginning with a McCall’s article, the book, The Jungle, and the passage of the Pure Food and Drug Act. This essay is written for grades 9 – 16."
+      },
+      {
+        "cs_name":"Clement Flynn Interview.pdf",
+        "description":"Excerpt of a WPA Interview with Mr. Clement Flynn. Mr. Flynn sold patent medicine for 45 years. He claims his recipe is over 100 years old and that it works. He lists elements of its contents. He then reads the label verbatim. The \"medicine\" is touted as a remedy for everything from a toothache to cancer."
+      },
+      {
+        "cs_name":"Collier's Magazine - Death Lab.pdf",
+        "description":"This is the June 3, 1905 cover of Collier’s Magazine which contains the start of the muckraking article \"The Great American Fraud.\" It is important to examine this document closely to see how the elements of death are arranged to form elements of the skull."
+      },
+      {
+        "cs_name":"Dr. Fenners Essay.pdf",
+        "description":"A brief description of Dr. Fenner's Patent Medicine combined with suggestions for classroom use."
+      },
+      {
+        "cs_name":"Dunnel Interview.pdf",
+        "description":"This is a WPA oral history interview with Mr. Dunnel who lives in the North and dislikes those who live in the South. He comments on the contents of patent medicines. The language here is left as Mr. Dunnel talked at the time without annotation."
+      },
+      {
+        "cs_name":"LONESTAR LINIMENT.pdf",
+        "description":"This is an 1886 advertisement for Lone Star Liniment. It claims to be good for man or beast. Ad shows a man rubbing the liniment on a horse’s leg. This is an excellent example of the crossover in patent medicines between veterinarians and medical doctors. It occurred with many liniment dealers. Not all were bad."
+      },
+      {
+        "cs_name":"Wisharts Pine Tree Tar Cordial.pdf",
+        "description":"This is a broadside from Charleston, South Carolina in 1863. It claims that the pine tree tar cordial can cure many illnesses. Special attention needs to be given to the way the ad is written here. It plays on Civil War elements in that it emphasizes Charleston and Beauregard. General Beauregard is the man who commanded the batteries in Charleston that fired on Fort Sumter to start the Civil War. From: Prints and Photographs Division, Library of Congress, Call No.: Port 158, No. 10. Accessed: November 1, 2013"
+      }
+    ]
+  },
+  {
+    "name":"Egg Beater",
+    "artifact":[100121],
+    "cs_docs":[
+      {
+        "cs_name":"Egg Beater Essay.pdf",
+        "description":"A one-paragraph introduction to the egg beater combined with suggestions for use in the classroom"
+      },
+      {
+        "cs_name":"Egg Beater Patent.pdf",
+        "description":"This is the drawing required by the US Patent Office for the first egg beater patented in the United States. Originally issued in 1859 to Edwin P. Monroe, this is the drawing submitted with the reissue of the patent in 1860"
+      }
+    ]
+  },
+  {
+    "name":"Espinoza Spur",
+    "artifact":[100122],
+    "cs_docs":[
+      {
+        "cs_name":"Boots and Spurs.pdf",
+        "description":"A photograph showing a cowboy wearing boots and western riding spurs. This is a fine example of how spurs are worn. It is especially helpful for those students who are not familiar with the West, cowboys, or cowboy paraphernalia."
+      },
+      {
+        "cs_name":"Espinoza Spur.pdf",
+        "description":"This is a spur from the 1860s. It is said to have belonged to Vivian Espinosa a notorious outlaw who rampaged throughout Park County, Colorado in the summer of 1863. He was caught and killed near Cripple Creek, Colorado. Artifact c[ourtesy of the Colorado Springs Pioneers’ Museum.]"
+      },
+      {
+        "cs_name":"H S Lewis Interview.pdf",
+        "description":"WPA interview with Mr. H. S. Lewis of Texas who describes hearing the jingle of spurs and the \"clump, clump, clump\" of boots as cowboys walked along the streets of his small town in Texas."
+      },
+      {
+        "cs_name":"PARTS OF A SPUR.pdf",
+        "description":"This is a simple diagram that shows the features of a spur. Suggested use is to show this first, and then examine the spur artifacts [so that students will possess the correct terminology for use] in their explanations."
+      },
+      {
+        "cs_name":"Poppy Lady Interview.pdf",
+        "description":"WPA interview of Moina Belle Michael of Athens, Georgia. Ms. Michael, known as the \"Poppy Lady,\" discusses students from her class going to the First World War and defines the terms \"winning your spurs\" in a poignant fashion."
+      },
+      {
+        "cs_name":"Spurs Essay.pdf",
+        "description":"Short essay that discusses the evolution and development of spurs. Included here is a short description of the different types of the most popular spurs in use today."
+      },
+      {
+        "cs_name":"Types of Spurs.pdf",
+        "description":"A chart showing the four most popular types of spurs in use today. Applies to all grade levels."
+      }
+    ]
+  },
+  {
+    "name":"Eye Dazzler",
+    "artifact":[100070],
+    "cs_docs":[
+      {
+        "cs_name":"Eye Dazzler Essay.pdf",
+        "description":"This document provides a short description of the development and characteristics of \"Eye Dazzler\" textiles in the American Southwest."
+      },
+      {
+        "cs_name":"Textiles - Short Essay.pdf",
+        "description":"This is a one-page essay that quickly reviews the history and evolution of textiles in the American Southwest."
+      }
+    ]
+  },
+  {
+    "name":"Fort Orange Clay Pipe",
+    "artifact":[100123],
+    "cs_docs":[
+      {
+        "cs_name":"Fort Orange Clay Pipe.pdf",
+        "description":"Short-stemmed clay pipe from Fort Orange, New Netherlands. Fort Orange was the first permanent Dutch settlement in North America. The words, \"Fort Orange, 1620\" are inscribed on the side of the pipe. However, Fort Orange was not built until 1624. The pipe is most probably from Fort Nassau which the Dutch built earlier and had to abandon because of constant flooding. The present-day city of Albany, New York stands on the site of Fort Orange today. Artifact c[ourtesy Glorieta Private Collection.]"
+      }
+    ]
+  },
+  {
+    "name":"Goosewing Axe",
+    "artifact":[100117],
+    "cs_docs":[
+      {
+        "cs_name":"Goosewing Axe Background Essay.pdf",
+        "description":"One-page essay providing background on the evolution and development of axes in North America and includes a description of the differences between a felling axe and a hewing axe."
+      },
+      {
+        "cs_name":"European Trade Ax Head.pdf",
+        "description":"Photograph of a Colonial Era European axe head. Should be used in comparisons with North American axe heads."
+      },
+      {
+        "cs_name":"Goosewing Axe Essay.pdf",
+        "description":"This is a 17th century axe used for hewing, the process of converting a log from its rounded natural form into lumber (timber) with more or less flat surfaces. It is called a \"goosewing axe\" because the blade resembles the wing of a goose. It is of European design with a straight socket and a bent handle. It was not used to chop trees, but to finish timber into logs or furniture. Artifact c[ourtesy Glorieta Private Collection.]"
+      },
+      {
+        "cs_name":"Hewing a Log.pdf",
+        "description":"1940 Farm Security Administration photograph of a man hewing a log using a modern hewing axe."
+      },
+      {
+        "cs_name":"Modern Hewing Axe.pdf",
+        "description":"Photograph of a modern hewing axe. Included for comparative purposes."
+      }
+    ]
+  },
+  {
+    "name":"HBC Kettle",
+    "artifact":[100136],
+    "cs_docs":[
+      {
+        "cs_name":"HBC BACKGROUND ESSAY E3.pdf",
+        "description":"Grade-level essay that introduces kettles as both a trade item and an improvement in technology."
+      },
+      {
+        "cs_name":"HBC BACKGROUND ESSAY E5.pdf",
+        "description":"Grade-level essay that introduces kettles as both a trade item and an improvement in technology."
+      },
+      {
+        "cs_name":"HBC BACKGROUND ESSAY MS.pdf",
+        "description":"Grade-level essay that introduces kettles as both a trade item and an improvement in technology."
+      },
+      {
+        "cs_name":"HBC BACKGROUND ESSAY.pdf",
+        "description":"Essay that introduces kettles as both trade items and as technological advances."
+      },
+      {
+        "cs_name":"HBC Kettle.pdf",
+        "description":"Document that gives a full description of the Hudson's Bay Company brass kettle and provides suggestions for classroom use."
+      }
+    ]
+  },
+  {
+    "name":"Hopi Kachina Cape",
+    "artifact":[100075],
+    "cs_docs":[
+      {
+        "cs_name":"Hopi Bridal Costume.pdf",
+        "description":"This is a photograph of a young Hopi woman taken in 1900. She is wearing the typical bridal costume for her time which includes both the Hopi Bridal Manta and wedding moccasins."
+      },
+      {
+        "cs_name":"Hopi Kachina Cape Essay.pdf",
+        "description":"Two-paragraph essay that describes the Hopi Wedding Manta and its importance in the Hopi culture in the American Southwest."
+      },
+      {
+        "cs_name":"Textiles - Short Essay.pdf",
+        "description":"This is a one-page essay that quickly reviews the history and evolution of textiles in the American Southwest."
+      }
+    ]
+  },
+  {
+    "name":"Hopi Ladle",
+    "artifact":[100077],
+    "cs_docs":[
+      {
+        "cs_name":"Ladles Essay.pdf",
+        "description":"This is a two paragraph discussion that defines ladles and provides a brief discussion of their use."
+      },
+      {
+        "cs_name":"Ladles Photo.pdf",
+        "description":"This is a photograph of a variety of modern, steel and copper ladles of all sizes. Suggested use is for comparison with ladles in the collection."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Hopi Pot",
+    "artifact":[100074],
+    "cs_docs":[
+      {
+        "cs_name":"Hopi Pottery Essay.pdf",
+        "description":"This is an essay that describes, in general terms, the characteristics of Hopi Pueblo pottery including the type of clay and slip used and the typical designs employed."
+      }
+    ]
+  },
+  {
+    "name":"Jingle Dress",
+    "artifact":[100055],
+    "cs_docs":[
+      {
+        "cs_name":"Clothing and Dresses.pdf",
+        "description":"This is an essay that discusses the idea of clothing, its uses, and differences according to geography, culture and tradition. The essay includes a standard description of a \"dress.”"
+      },
+      {
+        "cs_name":"Essay - The Jingle Dress.pdf",
+        "description":"This is a short essay that describes the origin and history of the \"Jingle Dress\" from its beginnings in 1900 to the present day."
+      },
+      {
+        "cs_name":"Jingle Dance.mp4",
+        "cs_link":"drive.google.com/file/d/0BzHrXQfxO85oSUtTblYyVUJhVnc/view?usp=sharing",
+        "description":"This is a two-minute video of a young Taos Pueblo woman dancing the \"Jingle Dance\" wearing the \"Jingle Dress\" under consideration. The video contains the sound of the \"jingles\" as she dances."
+      }
+    ]
+  },
+  {
+    "name":"JL Spur",
+    "artifact":[100101],
+    "cs_docs":[
+      {
+        "cs_name":"Boots and Spurs.pdf",
+        "description":"This is a photograph of a cowboy wearing boots with spurs attached. It is recommended that this be used first with students who may not know or understand how boots and spurs go together."
+      },
+      {
+        "cs_name":"H S Lewis Interview.pdf",
+        "description":"In this short excerpt from a WPA interview Mr. Lewis describes the sound of cowboys walking down the street and the accompanying \"jingle\" of the spurs."
+      },
+      {
+        "cs_name":"PARTS OF A SPUR.pdf",
+        "description":"This is a diagram which demonstrates the four principal parts of a western spur."
+      },
+      {
+        "cs_name":"Poppy Lady Interview.pdf",
+        "description":"This is an excerpt from a WPA interview with Moina Lee Belle. In the interview she describes and gives examples of the term \"winning your spurs.\" It is especially poignant when she discusses those young men who went to the First World War"
+      },
+      {
+        "cs_name":"Spurs Essay.pdf",
+        "description":"This essay discusses the history of spurs, their development and their importance both in warfare and in agriculture. It also introduces the different types of spurs in use today."
+      },
+      {
+        "cs_name":"Types of Spurs.pdf",
+        "description":"This is a document that shows the four major types of spurs (other than western spurs) in use in modern times."
+      }
+    ]
+  },
+  {
+    "name":"JR Spur",
+    "artifact":[100102],
+    "cs_docs":[
+      {
+        "cs_name":"Boots and Spurs.pdf",
+        "description":"This is a photograph of a cowboy wearing boots with spurs attached. It is recommended that this be used first with students who may not know or understand how boots and spurs go together."
+      },
+      {
+        "cs_name":"H S Lewis Interview.pdf",
+        "description":"In this short excerpt from a WPA interview Mr. Lewis describes the sound of cowboys walking down the street and the accompanying \"jingle\" of the spurs."
+      },
+      {
+        "cs_name":"PARTS OF A SPUR.pdf",
+        "description":"This is a diagram which demonstrates the four principal parts of a western spur."
+      },
+      {
+        "cs_name":"Poppy Lady Interview.pdf",
+        "description":"This is an excerpt from a WPA interview with Moina Lee Belle. In the interview she describes and gives examples of the term \"winning your spurs.\" It is especially poignant when she discusses those young men who went to the First World War."
+      },
+      {
+        "cs_name":"Spurs Essay.pdf",
+        "description":"This essay discusses the history of spurs, their development and their importance both in warfare and in agriculture. It also introduces the different types of spurs in use today."
+      },
+      {
+        "cs_name":"Types of Spurs.pdf",
+        "description":"This is a document that shows the four major types of spurs (other than western spurs) in use in modern times."
+      }
+    ]
+  },
+  {
+    "name":"Kit Carson Rug",
+    "artifact":[100076],
+    "cs_docs":[
+      {
+        "cs_name":"Kit Carson Rug Essay and Description.pdf",
+        "description":"This is an extensive description and explanation of the symbolism of the \"Kit Carson Rug\" and its connections with the history of the Navajo people"
+      },
+      {
+        "cs_name":"Textiles - Short Essay.pdf",
+        "description":"This is a one-page essay that quickly reviews the history and evolution of textiles in the American Southwest."
+      }
+    ]
+  },
+  {
+    "name":"Lakeside Vacuum Cleaner",
+    "artifact":[100125],
+    "cs_docs":[
+      {
+        "cs_name":"Lakeside Vacuum Cleaner.pdf",
+        "description":"Description and explanation of a mid-19th century vacuum cleaner combined with suggestions for use in the classroom."
+      }
+    ]
+  },
+  {
+    "name":"Lantern Slide Projector",
+    "artifact":[100126],
+    "cs_docs":[
+      {
+        "cs_name":"Lantern Slide Projector.pdf",
+        "description":"Description of the artifact c[ombined with suggestions for uses in the classroom.]"
+      }
+    ]
+  },
+  {
+    "name":"Manufactured Hand Plane",
+    "artifact":[100078],
+    "cs_docs":[
+      {
+        "cs_name":"Essay and Description - Manufactured Plane.pdf",
+        "description":"This short essay describes the various parts of a hand plane and describes the particulars of the artifact u[nder consideration.]"
+      },
+      {
+        "cs_name":"Homemade Plane.pdf",
+        "description":"This is a Farm Services Administration photograph that shows an Hispanic farmer from Chamisal, New Mexico holding a hand plane that he has just completed. The plane and the tools used to make it are on display in the photograph."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Matachines Flowered Trident",
+    "artifact":[100081],
+    "cs_docs":[
+      {
+        "cs_name":"Matachines 2.pdf",
+        "description":"Photograph of an Hispanic Matachines troupe including dancers with Palmas and La Malinche."
+      },
+      {
+        "cs_name":"Matachines Essay.pdf",
+        "description":"This is an extensive essay that considers the origins and importance of the Matachines Dance that is an important part of both Native American and Hispanic communities in the"
+      },
+      {
+        "cs_name":"Matachines.pdf",
+        "description":"This is a photograph of Native American Matachines dancers in costume surrounding La Malinche, the young heroine of the dance."
+      }
+    ]
+  },
+  {
+    "name":"Matachines Mitre",
+    "artifact":[100079],
+    "cs_docs":[
+      {
+        "cs_name":"Matachines 2.pdf",
+        "description":"Photograph of an Hispanic Matachines troupe including dancers with Palmas and La Malinche."
+      },
+      {
+        "cs_name":"Matachines Essay.pdf",
+        "description":"This is an extensive essay that considers the origins and importance of the Matachines Dance that is an important part of both Native American and Hispanic communities in the"
+      },
+      {
+        "cs_name":"Matachines.pdf",
+        "description":"This is a photograph of Native American Matachines dancers in costume surrounding La Malinche, the young heroine of the dance."
+      }
+    ]
+  },
+  {
+    "name":"Matachines Wooden Trident",
+    "artifact":[100080],
+    "cs_docs":[
+      {
+        "cs_name":"Matachines 2.pdf",
+        "description":"Photograph of an Hispanic Matachines troupe including dancers with Palmas and La Malinche."
+      },
+      {
+        "cs_name":"Matachines Essay.pdf",
+        "description":"This is an extensive essay that considers the origins and importance of the Matachines Dance that is an important part of both Native American and Hispanic communities in the"
+      },
+      {
+        "cs_name":"Matachines.pdf",
+        "description":"This is a photograph of Native American Matachines dancers in costume surrounding La Malinche, the young heroine of the dance."
+      }
+    ]
+  },
+  {
+    "name":"Mickey Mouse Ring",
+    "artifact":[100082],
+    "cs_docs":[
+      {
+        "cs_name":"Hopi Eagle Dance.pdf",
+        "description":"This 1920 photograph shows a crowd gathered around several Hopi Eagle Dancers as they perform. The suggested use for this photograph is to open a discussion concerning \"staged authenticity\" in tourism."
+      },
+      {
+        "cs_name":"Mickey Mouse Ring Essay.pdf",
+        "description":"This essay provides a short description of the meaning of traditional stones used in Zuni jewelry and describes how they are used in the ring under consideration."
+      },
+      {
+        "cs_name":"Tourism and Culture Essay.pdf",
+        "description":"This essay introduces and briefly discusses the potential loss of cultural identity, the emergence of staged authenticity, and the advent of commodification that can all result from tourism. It also introduces the idea that cultural interaction which is built on equality of demand can strengthen culture and society."
+      },
+      {
+        "cs_name":"Tourism Essay.pdf",
+        "description":"This essay introduces the idea that tourism is a \"double-edged sword\" for the destinations involved. While it makes no judgments, it does offer food for thought."
+      },
+      {
+        "cs_name":"Traditional Zuni Inlay Ring.pdf",
+        "description":"This is a photograph of a traditional men’s Zuni inlay ring that contains the standard Zuni stones in the proper order and construction."
+      }
+    ]
+  },
+  {
+    "name":"Mimbres Pot",
+    "artifact":[100083],
+    "cs_docs":[
+      {
+        "cs_name":"Mimbres Pottery Essay.pdf",
+        "description":"This is an essay that describes, in general terms, the characteristics of the Mimbres culture pottery including the type of clay and slip used and the typical designs employed. Included is an explanation of the so-called \"kill hole.\""
+      }
+    ]
+  },
+  {
+    "name":"Morion Helmet",
+    "artifact":[100053],
+    "cs_docs":[
+      {
+        "cs_name":"Burgonet Helmet.pdf",
+        "description":"A photograph of a 1560 German Burgonet Helmet that shows the open face, high crown, wide brim, and protective armoring on the neck and at the front."
+      },
+      {
+        "cs_name":"Conquistadors Essay.pdf",
+        "description":"This is an essay that describes the origin and nature of the Spanish and Portuguese conquistadors who came to the Western Hemisphere seeking fame and fortune. The essay also includes a discussion of the armor that conquistadors brought with them."
+      },
+      {
+        "cs_name":"Coronado Muster List.pdf",
+        "description":"This is the list of equipment and materials that Francisco Vasquez Coronado requested for his journey into the American Southwest in 1540. It includes the requests for armor, weapons and the numbers of infantrymen and cavalrymen Coronado felt were needed."
+      }
+    ]
+  },
+  {
+    "name":"Murray Pill Box",
+    "artifact":[100127],
+    "cs_docs":[
+      {
+        "cs_name":"Murray Pill Box.pdf",
+        "description":"A description of a pill box from the 1960s combined with suggested uses for use of this item in the classroom"
+      }
+    ]
+  },
+  {
+    "name":"Native American Drum",
+    "artifact":[100084],
+    "cs_docs":[
+      {
+        "cs_name":"Demasio Colmenero Interview.pdf",
+        "description":"WPA interview with Demasio Colmenero a \"keeper of the drum\" who describes the responsibilities of a \"keeper\" and the importance of drums in Native American culture."
+      },
+      {
+        "cs_name":"Native Amverican Drums - Essay.pdf",
+        "description":"A short essay that introduces the importance of drums and drumming as well as describes the materials that comprise a Native American Drum. The essay also provides a short introduction to the Native American Water Drum and the importance of the Native American Church."
+      }
+    ]
+  },
+  {
+    "name":"Navajo Dress",
+    "artifact":[100056],
+    "cs_docs":[
+      {
+        "cs_name":"Clothing and Dresses.pdf",
+        "description":"This is an essay that discusses the idea of clothing, its uses, and differences according to geography, culture and tradition. The essay includes a standard description of a \"dress.”"
+      },
+      {
+        "cs_name":"Essay - The Navajo Dress.pdf",
+        "description":"This is a short essay that describes the history and composition of the traditional Navajo dress, the biil [pronounced bee –eel]."
+      },
+      {
+        "cs_name":"Two Navajo Girls.pdf",
+        "description":"This is a photograph of two Navajo girls taken in 1914. One is seated and the other is kneeling and resting against her sister’s knee. Both young girls are wearing the traditional Navajo biil."
+      }
+    ]
+  },
+  {
+    "name":"Navajo Wearing Blanket",
+    "artifact":[100108],
+    "cs_docs":[
+      {
+        "cs_name":"Textiles - Short Essay.pdf",
+        "description":"This is a one-page essay that quickly reviews the history and evolution of textiles in the American Southwest."
+      },
+      {
+        "cs_name":"Wearing Blanket Essay.pdf",
+        "description":"A short essay describing the characteristics of a \"Fourth Phase Transitional Wearing Blanket\" from the late 19th century"
+      }
+    ]
+  },
+  {
+    "name":"Opthalmophantome",
+    "artifact":[100128],
+    "cs_docs":[
+      {
+        "cs_name":"Opthalomothome.pdf",
+        "description":"Description of a 19th century device used to train opthamologists. Essay contains suggestions for use of the artifact i[n the classroom.]"
+      }
+    ]
+  },
+  {
+    "name":"Our Lady of Guadalupe",
+    "artifact":[100085],
+    "cs_docs":[
+      {
+        "cs_name":"Characteristics of Renaissance and Medieval Art.pdf",
+        "description":"This one-page essay lists the major characteristics of both Renaissance and Medieval art. The intention here is to provide a background for comparison of bultos and santos with their European counterparts."
+      },
+      {
+        "cs_name":"Italian Our Lady of Guadalupe.pdf",
+        "description":"This is a photograph of a 20th century image of Our Lady of Guadalupe. The figurine clearly demonstrates post-Renaissance characteristics."
+      },
+      {
+        "cs_name":"Our Lady of Guadalupe 17th Century.pdf",
+        "description":"This is a photograph of a 17th century image of Our Lady of Guadalupe. The figurine demonstrates the characteristics of medieval art."
+      },
+      {
+        "cs_name":"Our Lady of Guadalupe Essay.pdf",
+        "description":"This short essay introduces the legend of Our Lady of Guadalupe in North America and addresses the importance of this santo in Southwestern religion."
+      },
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      }
+    ]
+  },
+  {
+    "name":"Our Lady of Solitude",
+    "artifact":[100086],
+    "cs_docs":[
+      {
+        "cs_name":"19th Century Our Lady of Solitude.pdf",
+        "description":"This icon from Mexico provides an example of the standard representation of Mary as Our Lady of Solitude dressed as a nun with hands folded and head bowed."
+      },
+      {
+        "cs_name":"Characteristics of Renaissance and Medieval Art.pdf",
+        "description":"This one-page essay lists the major characteristics of both Renaissance and Medieval art. The intention here is to provide a background for comparison of bultos and santos with their European counterparts."
+      },
+      {
+        "cs_name":"Our Lady of Solitude Essay.pdf",
+        "description":"This two paragraph description of the image of Our Lady of Solitude provides an explanation of the typical representation of Mary at Easter."
+      },
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      },
+      {
+        "cs_name":"Ukrainian Our Lady of Solitude.pdf",
+        "description":"European icon of \"Our Lady of Solitude.\" While dressed in a nun’s habit and with head bowed, this is a typical post-Renaissance, modern image of this saint."
+      }
+    ]
+  },
+  {
+    "name":"Our Lady of Sorrows",
+    "artifact":[100087],
+    "cs_docs":[
+      {
+        "cs_name":"Characteristics of Renaissance and Medieval Art.pdf",
+        "description":"This one-page essay lists the major characteristics of both Renaissance and Medieval art. The intention here is to provide a background for comparison of bultos and santos with their European counterparts."
+      },
+      {
+        "cs_name":"Italian Our Lady of Sorrows.pdf",
+        "description":"This is a photograph of a 21st century figurine of Mary as Our Lady of Sorrows. Note that she is holding the \"Crown of Thorns\" and is looking upward rather than downward as she ponders her loss."
+      },
+      {
+        "cs_name":"Our Lady of Sorrows Essay.pdf",
+        "description":"This is a one paragraph description of the image of Mary as Our Lady of Sorrows, the mother who has lost her son."
+      },
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      },
+      {
+        "cs_name":"Swiss Our Lady of Sorrows.pdf",
+        "description":"This is a 13th icon of Mary as Our Lady of Sorrows and is a fine example of the medieval presentation of this saint."
+      }
+    ]
+  },
+  {
+    "name":"Ox Yoke",
+    "artifact":[100060],
+    "cs_docs":[
+      {
+        "cs_name":"Ox Yoke Background Essay E3.pdf",
+        "description":"Background essay that describes an ox yoke and discusses its general use and terminology. Written at grade level"
+      },
+      {
+        "cs_name":"Ox Yoke Background Essay E5.pdf",
+        "description":"Background essay that describes an ox yoke and discusses its general use and terminology. Written at grade level"
+      },
+      {
+        "cs_name":"Ox Yoke Background Essay MS.pdf",
+        "description":"Background essay that describes an ox yoke and discusses its general use and terminology. Written at grade level"
+      },
+      {
+        "cs_name":"Ox Yoke Background Essay.pdf",
+        "description":"Background essay that describes an ox yoke and discusses its general use and terminology. Written at grade level"
+      },
+      {
+        "cs_name":"Carleton Interview.pdf",
+        "description":"WPA interview in which Mr. Carleton discusses the advantages of oxen over draft horses, raising and replacing oxen, and how his grandfather used oxen to clear the land."
+      },
+      {
+        "cs_name":"Freighting in the Black Hills.pdf",
+        "description":"Photograph of four yoke of oxen pulling freight wagons in the Black Hills of South Dakota. Date is estimated at 1890."
+      },
+      {
+        "cs_name":"Graftenreid interview.pdf",
+        "description":"WPA interview in which Mr Graftenreid discusses using oxen in the freighting business, circling the wagons for protection on the trail, and hitching oxen in the mornings."
+      },
+      {
+        "cs_name":"Hitching Oxen.pdf",
+        "description":"This is a secondary source that explains how oxen are teamed and hitched. It also touches on the advantages of oxen over draft horses."
+      },
+      {
+        "cs_name":"James Sharp Interview.pdf",
+        "description":"WPA interview in which Mr. Sharp discusses preparing for a cross-country trip using oxen to pull the wagons. Good description of ox yokes here including the wood used to build them."
+      },
+      {
+        "cs_name":"Power of Oxen.pdf",
+        "description":"The final paragraph of Mr. A.A. Carrleton’s interview. Mr. Carrleton plays a joke on the interviewer and spins quite a yarn here."
+      },
+      {
+        "cs_name":"Wood Haulers on the Rio Grande.pdf",
+        "description":"Photograph of several yoke of oxen pulling wood carts along the rio Grande in New Mexico circa 1890."
+      }
+    ]
+  },
+  {
+    "name":"Paiute Winnowing Tray",
+    "artifact":[100088],
+    "cs_docs":[
+      {
+        "cs_name":"Paiute Winnowing Tray Essay.pdf",
+        "description":"This essay discusses both the skill of Paiute women in basket weaving and the nature of winnowing baskets. Included here is a short discussion of the winnowing process."
+      },
+      {
+        "cs_name":"Woman Winnowing Wheat.pdf",
+        "description":"Photograph of a San Juan Pueblo woman with a winnowing basket pouring wheat onto a blanket as part of the winnowing process. The photo is from 1905."
+      },
+      {
+        "cs_name":"Women Winnowing Wheat.pdf",
+        "description":"Photograph of three San Juan Pueblo women in the process of winnowing wheat. They use winnowing baskets and pour the wheat onto blankets in order to remove the chaff."
+      }
+    ]
+  },
+  {
+    "name":"Pipe Bag",
+    "artifact":[100058],
+    "cs_docs":[
+      {
+        "cs_name":"Pipe Bag - Essay.pdf",
+        "description":"This is an essay that discusses the nature and importance of pipes in Native American culture. It also includes a discussion of the importance of the pipe bag and the \"pipe keeper\" in the ,spiritual life of Native Americans"
+      }
+    ]
+  },
+  {
+    "name":"Pitchfork",
+    "artifact":[100089],
+    "cs_docs":[
+      {
+        "cs_name":"Farmer Pitching Hay.pdf",
+        "description":"In this 1939 photograph from the Farm Service Administration, a farmer in New Mexico is shown using a pitchfork to stack hay on the back of a hay wagon."
+      },
+      {
+        "cs_name":"Hayforks.pdf",
+        "description":"In this 1939 Farm Service Administration photograph, three different hay forks are shown leaning against the back porch of a farmhouse in Oregon."
+      },
+      {
+        "cs_name":"Pitchfork Essay.pdf",
+        "description":"This brief, two-paragraph essay defines a pitchfork and presents a brief discussion of its history and current use."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Post Road Marker",
+    "artifact":[100061],
+    "cs_docs":[
+      {
+        "cs_name":"Airmail Poster.pdf",
+        "description":"1927 poster that advertises the new rate of 10 cents per ounce for air mail. The original price was 24 cents per ounce, but the American public did not think that the faster delivery justified the extra cost. The normal rate for mail was 3 cents per ounce. The US Postal Service reduced the rate in order to gain more airmail business."
+      },
+      {
+        "cs_name":"Airmail Stamp.pdf",
+        "description":"1913 stamp that was issued 2 years after the first \"official\" air mail delivery in 1911."
+      },
+      {
+        "cs_name":"Post Road Marker Background Essay E3.pdf",
+        "description":"This essay summarizes the establishment of the postal service in North America before the Revolution, and the Post Road System after. The essay covers the years 1639 through 1838. Essay is at ,grade level."
+      },
+      {
+        "cs_name":"Post Road Marker Background Essay E5.pdf",
+        "description":"This essay summarizes the establishment of the postal service in North America before the Revolution, and the Post Road System after. The essay covers the years 1639 through 1838. Essay is at ,grade level."
+      },
+      {
+        "cs_name":"Post Road Marker Background Essay MS.pdf",
+        "description":"This essay summarizes the establishment of the postal service in North America before the Revolution, and the Post Road System after. The essay covers the years 1639 through 1838. Essay is at ,grade level."
+      },
+      {
+        "cs_name":"Post Road Marker Background Essay.pdf",
+        "description":"This essay summarizes the establishment of the postal service in North America before the Revolution, and the Post Road System after. The essay covers the years 1639 through 1838. Essay is at ,grade level."
+      },
+      {
+        "cs_name":"Email Icon.pdf",
+        "description":"Current email icon found on computers and phones made in the US. SPECIAL NOTE: If all the documents are lined up, they tell the story of the advance of mail delivery in the United States. Each ,step allowed for faster mail delivery. The email icon is listed last as it is probably the last \"mail\" that will exist. As of 2013 email is becoming obsolete."
+      },
+      {
+        "cs_name":"Pony Express Poster.pdf",
+        "description":"This is a poster from the Pony Express advertising the first express mail delivery from New York to San Francisco. Note that all express charges are over and above regular postage. The poster also contains the seeds of its own demise as it advertises the delivery of telegrams west of Fort Kearney. The telegraph will replace the Pony Express just 18 months after its inception."
+      },
+      {
+        "cs_name":"Post Road Marker Diagram.pdf",
+        "description":"Scale drawing of an original post road marker from the Albany to New York Post Road. It is number \"89\" indicating that there are 89 miles to go to New York. Pay special attention to the written information that will indicate the location of the item and its composition."
+      },
+      {
+        "cs_name":"Railroad Mail Delivery Stamp.pdf",
+        "description":"1912 stamp that celebrates the delivery of mail via rail. It is important to note the device on the right hand side of the stamp. This was known as a \"postal crane.\" The stationmaster would affix an outgoing bag of mail to the crane. When the mail train came through, a postal employee tossed the incoming mail out the window of the train, and snatched the outgoing mail from the \"postal crane\" with a large hook. The train never had to stop"
+      }
+    ]
+  },
+  {
+    "name":"Ration Card Pouch",
+    "artifact":[100059],
+    "cs_docs":[
+      {
+        "cs_name":"Bags and Pouches Essay.pdf",
+        "description":"This essay discusses the role of bags and pouches in Native American life. A brief mention of the two principal types of bags/pouches is included. The last half of the essay discusses the adaptation to change in Native American life that is expressed through decoration of pouches."
+      },
+      {
+        "cs_name":"Comanche Ration Card Pouch.pdf",
+        "description":"This is a photograph of a ration card pouch from the Comanche Reservation in 1890. Note the combination of standard Native American and non-traditional decoration."
+      },
+      {
+        "cs_name":"Examples of Ration Cards.pdf",
+        "description":"This is a copy of page 76 from the Census of 1890 that shows two ration cards, one from the Western Shoshone Agency in Nevada, the other from the Fort Hall Agency in Idaho. Both are completed and show how the ration cards were used."
+      },
+      {
+        "cs_name":"Pouch and Card.pdf",
+        "description":"This photograph from the Sioux Reservation around 1910 shows a ration card pouch with the accompanying ration card. It is a fine example of the size of the card and the size of the pouch."
+      },
+      {
+        "cs_name":"Ration Card.pdf",
+        "description":"This is a blank ration card of the kind used by the Bureau of Indian Affairs to distribute rations on the reservation. Similar ration cards are used today to distribute \"commodities.”"
+      }
+    ]
+  },
+  {
+    "name":"Repurposed Plane",
+    "artifact":[100092],
+    "cs_docs":[
+      {
+        "cs_name":"Homemade Plane.pdf",
+        "description":"This is a Farm Services Administration photograph that shows an Hispanic farmer from Chamisal, New Mexico holding a hand plane that he has just completed. The plane and the tools used to make it are on display in the photograph."
+      },
+      {
+        "cs_name":"Repurposed Plane Essay.pdf",
+        "description":"This is a description of the repurposed plane in the collection. It also provides some indication of the nature of repurposing tools through example."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Revolutionary War Halberd",
+    "artifact":[100124],
+    "cs_docs":[
+      {
+        "cs_name":"Revolutionary War Halberd.pdf",
+        "description":"Short explanation of a pole-arm known as a halberd, a description of the artifact a[nd suggested uses for using the artifact i[n the classroom]"
+      }
+    ]
+  },
+  {
+    "name":"Roche's Hooping Cough Medicine",
+    "artifact":[100139],
+    "cs_docs":[
+      {
+        "cs_name":"Roches Background Essay MS.pdf",
+        "description":"This is a short essay that discusses the term \"Patent Medicine,\" its origins, and its applications, especially in the late 19th century. It reviews the elements combined to make the \"medicines\" ,and briefly discusses the end of the patent medicine industry beginning with a McCall’s article, the book, The Jungle, and the passage of the Pure Food and Drug Act. This essay is written for the Middle School level."
+      },
+      {
+        "cs_name":"Roches Background Essay E3.pdf",
+        "description":"Essay written at third grade level that introduces the idea of \"fake\" medicines and the law that prevents making it today."
+      },
+      {
+        "cs_name":"Roches Background Essay E5.pdf",
+        "description":"A fifth grade level essay that introduces \"Patent Medicines\" as well as the Pure Food and Drug Act of 1906."
+      },
+      {
+        "cs_name":"Roches Background Essay.pdf",
+        "description":"This is a short essay that discusses the term \"Patent Medicine,\" its origins, and its applications, especially in the late 19th century. It reviews the elements combined to make the \"medicines\" ,and briefly discusses the end of the patent medicine industry beginning with a McCall’s article, the book, The Jungle, and the passage of the Pure Food and Drug Act. This essay is written for grades 9 – 16."
+      },
+      {
+        "cs_name":"Clement Flynn Interview.pdf",
+        "description":"A WPA interview with Mr. Clement Flynn of Chicago, Illinois who describes making \"patent medicines\" for 45 years. He provides the recipe for his version of the patent medicine here."
+      },
+      {
+        "cs_name":"Collier's Magazine - Death Lab.pdf",
+        "description":"This is the June 3, 1905 cover of Collier’s Magazine which contains the start of the muckraking articles \"The Great American Fraud.\" It is important to examine this document closely to see how the elements of death are arranged to form elements of the skull. Library of Congress, Prints and Photographs Division, Accessed, November 1, 2013."
+      },
+      {
+        "cs_name":"Dunnel Interview.pdf",
+        "description":"This is a WPA oral history interview with Mr. Dunnel who lives in the North and dislikes those who live in the South. He comments on the contents of patent medicines The language here is left as Mr. Dunnel talked at the time without annotation."
+      },
+      {
+        "cs_name":"LONESTAR LINIMENT.pdf",
+        "description":"This is an 1886 advertisement for Lone Star Liniment. It claims to be good for man or beast. Ad shows a man rubbing the liniment on a horse’s leg. This is an excellent example of the crossover in patent medicines between veterinarians and medical doctors. It occurred with many liniment dealers. Not all were bad."
+      },
+      {
+        "cs_name":"Wisharts Pine Tree Tar Cordial.pdf",
+        "description":"This is a broadside from Charleston, South Carolina in 1863. It claims that the pine tree tar cordial can cure many illnesses. Special attention needs to be given to the way the ad is written here. It plays on Civil War elements in that it emphasizes Charleston and Beauregard. General Beauregard is the man who commanded the batteries in Charleston that fired on Fort Sumter to start the Civil War. From: Prints and Photographs Division, Library of Congress, Call No.: Port 158, No. 10. Accessed: November 1, 2013"
+      }
+    ]
+  },
+  {
+    "name":"Roy Rogers Toy RR Lantern",
+    "artifact":[100129],
+    "cs_docs":[
+      {
+        "cs_name":"Roy Rogers Lantern.pdf",
+        "description":"A short explanation of Roy Rogers and Dale Evans and their significance as symbols of the 1950s combined with suggested uses for this artifact i[n the classroom]"
+      },
+      {
+        "cs_name":"RoyRogersBackgroundEssayMS.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level"
+      },
+      {
+        "cs_name":"RoyRogersBackgroundEssayE3.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level"
+      },
+      {
+        "cs_name":"RoyRogersBackgroundEssayE5.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level"
+      },
+      {
+        "cs_name":"RoyRogersBackgroundEssay.pdf",
+        "description":"A one-page essay concerning the evolution of toys and their importance. Written at grade level"
+      }
+    ]
+  },
+  {
+    "name":"RR Lanterns",
+    "artifact":[100062],
+    "cs_docs":[
+      {
+        "cs_name":"RR Lanterns Background Essay E3.pdf",
+        "description":"This essay briefly describes the growth and development of the US railway system from the early 1800s through the 1920s. It also quickly traces the necessity for communication along the rails. The essay is written at grade level."
+      },
+      {
+        "cs_name":"RR Lanterns Background Essay E5.pdf",
+        "description":"This essay briefly describes the growth and development of the US railway system from the early 1800s through the 1920s. It also quickly traces the necessity for communication along the rails. The essay is written at grade level."
+      },
+      {
+        "cs_name":"RR Lanterns Background Essay MS.pdf",
+        "description":"This essay briefly describes the growth and development of the US railway system from the early 1800s through the 1920s. It also quickly traces the necessity for communication along the rails. The essay is written at grade level."
+      },
+      {
+        "cs_name":"RR Lanterns Background Essay.pdf",
+        "description":"This essay briefly describes the growth and development of the US railway system from the early 1800s through the 1920s. It also quickly traces the necessity for communication along the rails. The essay is written at grade level."
+      },
+      {
+        "cs_name":"Increase in RR Mileage.pdf",
+        "description":"This chart provides the information on the growth of railroads between 1850 and 1890. It is divided into years and follows the growth in the five regions of the United States."
+      },
+      {
+        "cs_name":"Lanterns and Signalling.pdf",
+        "description":"This chart shows five different-colored railroad lanterns combined with a brief explanation of how they are used. Edited from the website, www.powaystation.org/signals. Used with permission."
+      },
+      {
+        "cs_name":"Lanterns and Their Signals.pdf",
+        "description":"A page taken from the American Railway Manual which demonstrates how lanterns were used to communicate. The drawings show the motions required and are accompanied by a short explanation."
+      },
+      {
+        "cs_name":"Perry Davis Interview.pdf",
+        "description":"Mr. Davis relates how the railroad influenced his life. Students should get a feel for the attraction of railroads and their influence in the society. Mr. Perry started as a section hand on a small railroad and worked his way up to Conductor on a major line. His last monthly paycheck in 1919 brought him $300. In today’s dollars that is $3500 for one month’s work."
+      },
+      {
+        "cs_name":"Railroad Terms.pdf",
+        "description":"This is a list of 13 terms that railroad men and women use. Taken from a WPA Life Histories oral history interview at the end of the Great Depression. This is a great \"For Fun\" exercise."
+      }
+    ]
+  },
+  {
+    "name":"Sacred Buffalo Kachina",
+    "artifact":[100066],
+    "cs_docs":[
+      {
+        "cs_name":"Kachinas Essay.pdf",
+        "description":"An essay that discusses the nature of kachinas in Native American society, including their importance and their different roles."
+      },
+      {
+        "cs_name":"Sacred Buffalo Kachina Essay.pdf",
+        "description":"This essay is in two parts. First it describes the roles of kachina \"dolls\" and their importance in teaching children about Native American religion. Secondly, it provides a description of the Sacred Buffalo Kachina that is the artifact u[nder consideration]"
+      }
+    ]
+  },
+  {
+    "name":"Sacred Heart",
+    "artifact":[100093],
+    "cs_docs":[
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      },
+      {
+        "cs_name":"The Sacred Heart Essay.pdf",
+        "description":"This two paragraph essay describes the importance and meaning of the \"Sacred Heart\" in Catholicism."
+      }
+    ]
+  },
+  {
+    "name":"Saint Isidore",
+    "artifact":[100094],
+    "cs_docs":[
+      {
+        "cs_name":"Characteristics of Renaissance and Medieval Art.pdf",
+        "description":"This one-page essay lists the major characteristics of both Renaissance and Medieval art. The intention here is to provide a background for comparison of bultos and santos with their European counterparts."
+      },
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"Saint Isidore Essay.pdf",
+        "description":"This short essay describes Saint Isidore, the patron saint of farmers and laborers. It also includes a short description of how this saint is typically portrayed."
+      },
+      {
+        "cs_name":"Saint Isidore The Farmer.pdf",
+        "description":"This is a painting that depicts Saint Isidore as a farmer. It contains the standard elements usually associated with him, an angel, and plow drawn by oxen. The painting is of Spanish origin and reflects post-Renaissance art."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      }
+    ]
+  },
+  {
+    "name":"Saint Michael",
+    "artifact":[100095],
+    "cs_docs":[
+      {
+        "cs_name":"Characteristics of Renaissance and Medieval Art.pdf",
+        "description":"This one-page essay lists the major characteristics of both Renaissance and Medieval art. The intention here is to provide a background for comparison of bultos and santos with their European counterparts."
+      },
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"Saint Michael Essay.pdf",
+        "description":"This very short essay introduces the four roles that Saint Michael fills in Catholicism. It emphasizes his role as \"weigher\" of souls."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      },
+      {
+        "cs_name":"Spanish Saint Michael.pdf",
+        "description":"This is a photograph of a 16th century statue of Saint Michael. It is a very good representation of the medieval presentation of this saint."
+      },
+      {
+        "cs_name":"Texas Saint Michael.pdf",
+        "description":"This is a photograph of a 19th century Mexican statue of Saint Michael on display at a mission in Texas. It reflects the changes in representation in the post-Renaissance."
+      }
+    ]
+  },
+  {
+    "name":"Saltillo",
+    "artifact":[100096],
+    "cs_docs":[
+      {
+        "cs_name":"Saltillo Essay.pdf",
+        "description":"This is a very brief essay that explains the meaning of the term, \"Saltillo,\" and defines the characteristics of Saltillo blankets."
+      },
+      {
+        "cs_name":"Textiles - Short Essay.pdf",
+        "description":"This is a one-page essay that quickly reviews the history and evolution of textiles in the American Southwest."
+      }
+    ]
+  },
+  {
+    "name":"San Ildefonso Pot",
+    "artifact":[100097],
+    "cs_docs":[
+      {
+        "cs_name":"San Ildefonso Pottery Essay.pdf",
+        "description":"This is an essay that describes, in general terms, the characteristics of San Ildefonso Pueblo pottery including the type of clay and slip used and the typical designs employed. Featured here is an introduction to Maria Martinez, the most famous San Ildefonso potter"
+      }
+    ]
+  },
+  {
+    "name":"San Ysidro",
+    "artifact":[100098],
+    "cs_docs":[
+      {
+        "cs_name":"Characteristics of Renaissance and Medieval Art.pdf",
+        "description":"This one-page essay lists the major characteristics of both Renaissance and Medieval art. The intention here is to provide a background for comparison of bultos and santos with their European counterparts."
+      },
+      {
+        "cs_name":"Religious Folkart of New Mexico.pdf",
+        "description":"This essay describes the origins and evolution of the unique folk art of the Southwest. Included here are descriptions and short explanations of bultos, santos, reredos, and retablos. Some discussion of the role of these pieces in the daily life of people is included."
+      },
+      {
+        "cs_name":"San Ysidro Essay.pdf",
+        "description":"This is a very short essay that introduces San Isidore the patron saint of farmers and laborers. In the Southwest, he is called San Ysidro, but he is the same saint."
+      },
+      {
+        "cs_name":"Santos - Short Essay.pdf",
+        "description":"This short essay introduces the role of the santos in the religious history of the Southwest. It covers the 200 years from 1700 through 1900."
+      }
+    ]
+  },
+  {
+    "name":"Scissors",
+    "artifact":[100099],
+    "cs_docs":[
+      {
+        "cs_name":"Scissors Essay and Description.pdf",
+        "description":"This essay describes in detail the repurposing of a pair of sheep shears into the scissors under consideration here."
+      },
+      {
+        "cs_name":"Sheep Shears.pdf",
+        "description":"This is a photograph of a pair of sheep shears very similar to the pair used to create the scissors under consideration."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Sinton Milk Bottle",
+    "artifact":[100130],
+    "cs_docs":[
+      {
+        "cs_name":"Sinton Bottle.pdf",
+        "description":"Description of this 1910 glass milk bottle used in home delivery of milk. Description includes suggested uses for this artifact i[n the classroom]"
+      }
+    ]
+  },
+  {
+    "name":"Smoothing Stones",
+    "artifact":[100100],
+    "cs_docs":[
+      {
+        "cs_name":"Maria Martinez Smoothing a Pot.pdf",
+        "description":"This photograph shows San Ildefonso potter, Maria Martinez, and her husband, Julian, making pottery. Ms. Martinez is smoothing a pot while her husband incises a \"wedding pitcher.”"
+      },
+      {
+        "cs_name":"Southwestern Pottery Essay.pdf",
+        "description":"This two-page essay gives a brief description of the history and characteristics of Southwestern, especially Pueblo, pottery. It includes the ancient peoples as well as contemporary potters."
+      },
+      {
+        "cs_name":"Steps in Pottery Making Essay.pdf",
+        "description":"This one-page document gives a brief description of each of the five steps in making Pueblo pottery."
+      }
+    ]
+  },
+  {
+    "name":"Spanish Colonial Stirrup",
+    "artifact":[100103],
+    "cs_docs":[
+      {
+        "cs_name":"Modern Western Stirrup.pdf",
+        "description":"This is a diagram of the parts of a modern western stirrup. It is suggested that it be used in comparison with the Spanish Colonial stirrup under consideration."
+      },
+      {
+        "cs_name":"Stirrup Essay.pdf",
+        "description":"This is a brief, one-page description of the history and evolution of the stirrup for both civil and military use."
+      }
+    ]
+  },
+  {
+    "name":"Spring Shoe",
+    "artifact":[100131],
+    "cs_docs":[
+      {
+        "cs_name":"Kangru Springshu.pdf",
+        "description":"Photograph of a box of \"Kangru Springshus\" from the 1920s"
+      },
+      {
+        "cs_name":"Spring Shoe.pdf",
+        "description":"Description of the artifact u[nder consideration combined with suggested for use of the artifact i[n the classroom.]"
+      }
+    ]
+  },
+  {
+    "name":"Straw Trunk",
+    "artifact":[100104],
+    "cs_docs":[
+      {
+        "cs_name":"Straw Applique Video.pdf",
+        "description":"This is a short (approximately 7 minutes) video produced by the Spanish Colonial Arts Society in Santa Fe that demonstrates the process of straw marquetry."
+      },
+      {
+        "cs_name":"Straw Marquetry Essay.pdf",
+        "description":"This short essay provides a brief description of the history and development of marquetry, the inlay or appliqué of materials as decoration. In this case, the inlay and appliqué of straw in place of gold is discussed"
+      }
+    ]
+  },
+  {
+    "name":"Teddy Bear",
+    "artifact":[100132],
+    "cs_docs":[
+      {
+        "cs_name":"Teddy Bear.pdf",
+        "description":"Description of the Teddy Bear under consideration along with suggested uses for the classroom."
+      },
+      {
+        "cs_name":"Teddy Bear Background Essay E3.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Teddy Bear Background Essay E5.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Teddy Bear Background Essay MS.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Teddy Bear Background Essay.pdf",
+        "description":"A one-page essay concerning the evolution of toys and their importance in society"
+      }
+    ]
+  },
+  {
+    "name":"Three Hopi Clowns",
+    "artifact":[100073],
+    "cs_docs":[
+      {
+        "cs_name":"Hona Clown.pdf",
+        "description":"Photograph of Hopi \"Hona\" clowns participating in a 1912 ceremony."
+      },
+      {
+        "cs_name":"Kachinas Essay.pdf",
+        "description":"An essay that discusses the nature of kachinas in Native American society, including their importance and their different roles."
+      },
+      {
+        "cs_name":"Mudhead Clowns.pdf",
+        "description":"Photograph of Zuni Mudhead Clowns participating in a 1909 procession."
+      },
+      {
+        "cs_name":"Three Hopi Clowns Essay.pdf",
+        "description":"This essay describes the three Hopi clown puppets under consideration as well as introducing the idea of \"clowns\" as part of Native American religion and providing a description of \"Mudhead\" and “Hano\" clowns"
+      }
+    ]
+  },
+  {
+    "name":"Tin Nicho",
+    "artifact":[100105],
+    "cs_docs":[
+      {
+        "cs_name":"19th Century Nicho.pdf",
+        "description":"This is a photograph of an elaborate 19th nicho. It is presented for comparison with the tin nicho under consideration."
+      },
+      {
+        "cs_name":"Creating Tinwork.pdf",
+        "description":"This is the URL for a short video which describes how to make the type of tin work that is exemplified in the artifact u[nder consideration.]"
+      },
+      {
+        "cs_name":"Tin Nicho Essay.pdf",
+        "description":"This essay explains the term, \"nicho,\" and discusses the importance of this type of iconography in the history and folklore of the American Southwest."
+      }
+    ]
+  },
+  {
+    "name":"Tin Toy Tank",
+    "artifact":[100133],
+    "cs_docs":[
+      {
+        "cs_name":"Tin Toy Tank Background Essay E3.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Tin Toy Tank Background Essay E5.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Tin Toy Tank Background Essay MS.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Tin Toy Tank Background Essay.pdf",
+        "description":"A one-page essay concerning the evolution of toys and their importance in society."
+      },
+      {
+        "cs_name":"Tin Toy Tank Formatted.pdf",
+        "description":"A description of the Tin Toy Tank from the 1950s along with suggestions for use of this artifact i[n the classrooom]"
+      }
+    ]
+  },
+  {
+    "name":"Toaster",
+    "artifact":[100063],
+    "cs_docs":[
+      {
+        "cs_name":"Toaster Background Essay E3.pdf",
+        "description":"A short essay on the introduction of electricity and its role in the creation of consumer society. Written at grade level."
+      },
+      {
+        "cs_name":"Toaster Background Essay E5.pdf",
+        "description":"A short essay on the introduction of electricity and its role in the creation of consumer society. Written at grade level."
+      },
+      {
+        "cs_name":"Toaster Background Essay MS.pdf",
+        "description":"A short essay on the introduction of electricity and its role in the creation of consumer society. Written at grade level."
+      },
+      {
+        "cs_name":"Toaster Background Essay.pdf",
+        "description":"This essay provides a short description of the development of electricity and its role in the creation of a consumer society in the United States. There is also a short history of \"toast\" included as the toaster is the prime example of the emerging consumerism in the early 20th century. Essay is written at grade level."
+      },
+      {
+        "cs_name":"Toaster Ad - 1908.pdf",
+        "description":"An advertisement from 1908 showing a woman at a table with the toaster sitting on the table just to her right hand. The toaster is the same General Electric model as the artifact u[nder] consideration"
+      },
+      {
+        "cs_name":"Toaster Ad - 1910.pdf",
+        "description":"This is an advertisement from the General Electric Catalog of Electrically Heated Appliances. To find some measure of comparison with today, you will need to convert the cost of the toaster into today’s dollars. That formula is $4.50 divided by .049. The cost of the toaster in today’s dollars would be $91.84."
+      },
+      {
+        "cs_name":"Toaster Ad - 1913.pdf",
+        "description":"This is an advertisement from the March, 1913 issue of McCall’s Magazine. It lauds the simplicity and efficiency of the device. It also makes reference to the fact that it is \"ornamental\" and that it can be used \"at the table.\" The cost of this toaster in today’s dollars would be $81.00."
+      },
+      {
+        "cs_name":"Toaster Ad - 1922.pdf",
+        "description":"This is an advertisement from the Morning Tulsa Daily World newspaper. A good question to ask here would be, \"Why does the ad mention ‘guarantees’ on the toaster and an iron?\" Possibly, some unreliable appliances have entered the market since 1908? The toaster price of $3.98 equates to $46.00 today."
+      },
+      {
+        "cs_name":"Toaster Information.pdf",
+        "description":"This very short essay discusses the competition among styles of toasters, among which were \"Swingers,\" \"Droppers,\" \"Pop Ups,\" \"Floppers,\" and \"Tippers.\" There is also some factual information concerning the size of the toaster market and its growth"
+      }
+    ]
+  },
+  {
+    "name":"Tom Mix Stetson Hat",
+    "artifact":[100134],
+    "cs_docs":[
+      {
+        "cs_name":"Tom Mix Hat.pdf",
+        "description":"Identification of Tom Mix and his significance combined with suggested uses for this artifact i[n the classroom]"
+      }
+    ]
+  },
+  {
+    "name":"Toy Tool Chest",
+    "artifact":[100135],
+    "cs_docs":[
+      {
+        "cs_name":"Toy Tool Chest BACKGROUND ESSAY E3.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Toy Tool Chest BACKGROUND ESSAY E5.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Toy Tool Chest BACKGROUND ESSAY MS.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Toy Tool Chest BACKGROUND ESSAY.pdf",
+        "description":"A one-page essay concerning the evolution of toys and their importance in society."
+      },
+      {
+        "cs_name":"Toy Tool Chest Formatted.pdf",
+        "description":"A description of the artifact c[ombined with suggestions for its use in the classroom.]"
+      }
+    ]
+  },
+  {
+    "name":"Tut-Tut Car",
+    "artifact":[100137],
+    "cs_docs":[
+      {
+        "cs_name":"Tut-Tut Car BACKGROUND ESSAY E3.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Tut-Tut Car BACKGROUND ESSAY E5.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Tut-Tut Car BACKGROUND ESSAY MS.pdf",
+        "description":"A short essay concerning the evolution of toys and their importance. Written at grade level."
+      },
+      {
+        "cs_name":"Tut-Tut Car BACKGROUND ESSAY.pdf",
+        "description":"A one-page essay concerning the evolution of toys and their importance in society"
+      },
+      {
+        "cs_name":"Tut-Tut Car.pdf",
+        "description":"A descriptionof the artifact c[ombined with suggestions for its use in the classroom.]"
+      }
+    ]
+  },
+  {
+    "name":"Ute Cradleboard",
+    "artifact":[100106],
+    "cs_docs":[
+      {
+        "cs_name":"Cradleboards Essay.pdf",
+        "description":"This essay discusses the almost universal use of cradleboards by Native American nations. It also provides the specific characteristics of Ute cradleboards."
+      },
+      {
+        "cs_name":"Crow Mother and Child.pdf",
+        "description":"This Edward Curtis photograph depicts a Crow mother with her child in a cradleboard. Suggested use would be to compare her cradleboard with the Ute cradleboard under consideration."
+      },
+      {
+        "cs_name":"Pee-A-Rat and Baby.pdf",
+        "description":"This photograph from the end of the 19th century shows a Native American mother with her child in a cradleboard. Suggested use would be to compare it with the Ute cradleboard and the Crow cradleboard"
+      }
+    ]
+  },
+  {
+    "name":"Ute Dress",
+    "artifact":[100057],
+    "cs_docs":[
+      {
+        "cs_name":"Clothing and Dresses.pdf",
+        "description":"This is an essay that discusses the idea of clothing, its uses, and differences according to geography, culture and tradition. The essay includes a standard description of a \"dress.”"
+      },
+      {
+        "cs_name":"Essay - The Ute Dress.pdf",
+        "description":"This is an essay that discusses and describes the \"deer tail\" dress that was common among the Plains Indians in the 19th century. It provides a description of the composition of the dress as well as how these dresses were decorated. The essay includes a discussion of the interaction among the tribes and the borrowing of styles, and decoration that occurred"
+      }
+    ]
+  },
+  {
+    "name":"Washboard",
+    "artifact":[100064],
+    "cs_docs":[
+      {
+        "cs_name":"Washboard Background Essay E3.pdf",
+        "description":"This essay quickly addresses the idea of laundry and washing clothes. It discusses early methods and moves rapidly to the introduction of the washboard in 1833. From there it discusses the washboard industry through the present. Essay is written at grade level."
+      },
+      {
+        "cs_name":"Washboard Background Essay E5.pdf",
+        "description":"This essay quickly addresses the idea of laundry and washing clothes. It discusses early methods and moves rapidly to the introduction of the washboard in 1833. From there it discusses the washboard industry through the present. Essay is written at grade level."
+      },
+      {
+        "cs_name":"Washboard Background Essay MS.pdf",
+        "description":"This essay quickly addresses the idea of laundry and washing clothes. It discusses early methods and moves rapidly to the introduction of the washboard in 1833. From there it discusses the washboard industry through the present. Essay is written at grade level."
+      },
+      {
+        "cs_name":"Washboard Background Essay.pdf",
+        "description":"This essay quickly addresses the idea of laundry and washing clothes. It discusses early methods and moves rapidly to the introduction of the washboard in 1833. From there it discusses the washboard industry through the present. Essay is written at grade level."
+      },
+      {
+        "cs_name":"Child and Washboard.pdf",
+        "description":"Photograph that shows a young girl dressed in an apron, glasses and bonnet supposedly scrubbing an item on a washboard. This is a studio photograph that is staged, however the title indicates that girls were taught early their domestic responsibilities."
+      },
+      {
+        "cs_name":"Child at Washtub.pdf",
+        "description":"Photograph showing an Alaskan Native American child at a washtub hold a washboard. It is suggested that this be used in conjunction with \"Children Playing Like Adults,\" and \"Woman and Washboard\" to give a more realistic idea of washday."
+      },
+      {
+        "cs_name":"Mary Ann Meehan Interview.pdf",
+        "description":"This is an excerpt from the WPA oral history of Mary Ann Meehan, an Irish maid who lived and worked in Brookfield, Massachusetts. In this section, Ms. Meehan describes setting aside certain days of the week to complete housework, including one day designated for laundry."
+      },
+      {
+        "cs_name":"Washboard Advice.pdf",
+        "description":"Excerpt from a manual for homemakers published in 1909 that gives advice concerning the use of washboards. Ms. Shepperd was the Director of Domestic Science in the College of Agriculture at the University of Minnesota."
+      },
+      {
+        "cs_name":"Washboard Patent.pdf",
+        "description":"This is the original Stephen rust patent drawing of the first metal-covered, grooved washboard in the United States. It is recommended that this item be used with the \"Washboard Description\" document which explains the drawing."
+      },
+      {
+        "cs_name":"Washboard Description - Patent.pdf",
+        "description":"This is the written description of the Stephen Rust Patent that was required to be submitted with the drawing."
+      },
+      {
+        "cs_name":"WASHING MACHINES.pdf",
+        "description":"This is a pen and ink drawing of two men washing clothes. One man uses a washtub and washboard. The other is using a laundry bat to beat the clothing. A pot of water is heating in the background. This is one of sixty-six drawings from life in the Union prison camp at Point Lookout, Maryland. All sixty-six drawings are in the Public Domain."
+      },
+      {
+        "cs_name":"WOMAN AND WASHBOARD.pdf",
+        "description":"This is an advertisement for Oberne Hosick Hard Water Soap. It shows a woman (most probably a maid) standing at a well, pumping water into a washtub full of sudsy water. A washboard sits in the washtub. This is a good depiction of the washing process, though it is a romanticized version"
+      }
+    ]
+  },
+  {
+    "name":"Water Drum",
+    "artifact":[100107],
+    "cs_docs":[
+      {
+        "cs_name":"Water Drum Essay.pdf",
+        "description":"A short essay that provides an introduction to the Native American Water Drum and its role and the importance in the Native American Church since 1918."
+      }
+    ]
+  },
+  {
+    "name":"Wedding Moccasin",
+    "artifact":[100109],
+    "cs_docs":[
+      {
+        "cs_name":"A Woman of Isleta Pueblo.pdf",
+        "description":"This photograph shows a woman of Isleta Pueblo in New Mexico carrying water while wearing her wedding moccasins."
+      },
+      {
+        "cs_name":"An Indian Baby Carriage.pdf",
+        "description":"This 1890 photograph shows a Pueblo woman in the common act of carrying her child in a cradleboard, but wearing her wedding moccasins while doing so."
+      },
+      {
+        "cs_name":"Isleta Woman.pdf",
+        "description":"This studio photograph shows a young woman from Isleta Pueblo, New Mexico dressed in her finest for the event. In the photograph, she is wearing her wedding moccasins."
+      },
+      {
+        "cs_name":"Ka Deh U Peh Deh.pdf",
+        "description":"This photograph shows a young Pueblo woman smoothing pottery while wearing her wedding moccasins."
+      },
+      {
+        "cs_name":"Stringing Chili.pdf",
+        "description":"This photograph shows a young Pueblo woman stringing chilis while wearing her wedding moccasins."
+      },
+      {
+        "cs_name":"Tzu-Chey.pdf",
+        "description":"This photograph shows a young Laguna Pueblo woman, Tzu-Chey, carrying water while wearing her wedding moccasins."
+      },
+      {
+        "cs_name":"Wedding Moccasin Essay.pdf",
+        "description":"This is a short essay that describes the presentation of wedding moccasins to Native American (mostly Pueblo) women. The essay uses the Hopi tradition as its example."
+      }
+    ]
+  },
+  {
+    "name":"Wonder Washer",
+    "artifact":[100138],
+    "cs_docs":[
+      {
+        "cs_name":"Wonder Washer Background Essay.pdf",
+        "description":"A one-page essay that provides a short discussion of laundry and the tools used in the process."
+      },
+      {
+        "cs_name":"WASHING MACHINES.pdf",
+        "description":"This is a pen and ink drawing of two men washing clothes. One man uses a washtub and washboard. The other is using a laundry bat to beat the clothing. A pot of water is heating in the background. This is one of sixty-six drawings from life in the Union prison camp at Point Lookout, Maryland. All sixty-six drawings are in the Public Domain."
+      },
+      {
+        "cs_name":"WOMAN AND WASHBOARD.pdf",
+        "description":"This is an advertisement for Oberne Hosick Hard Water Soap. It shows a woman (most probably a maid) standing at a well, pumping water into a washtub full of sudsy water. A washboard sits in the washtub. This is a good depiction of the washing process, though it is a romanticized version."
+      },
+      {
+        "cs_name":"Wonder Washer.pdf",
+        "description":"Description of the artifact c[ombined with suggestions for use of the artifact i[n the classroom]"
+      }
+    ]
+  },
+  {
+    "name":"Wool Cards",
+    "artifact":[100110],
+    "cs_docs":[
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      },
+      {
+        "cs_name":"Wool Cards Essay.pdf",
+        "description":"This essay discusses carding as part of the process of textile making. It also introduces the idea of \"pin count\" and how it affects how the cards are used."
+      }
+    ]
+  },
+  {
+    "name":"Zia Pottery",
+    "artifact":[100111],
+    "cs_docs":[
+      {
+        "cs_name":"Zia Pottery Essay.pdf",
+        "description":"This is an essay that describes, in general terms, the characteristics of Zia Pueblo pottery including the type of clay and slip used and the typical designs employed."
+      }
+    ]
+  },
+  {
+    "name":"Zuni Pottery",
+    "artifact":[100112],
+    "cs_docs":[
+      {
+        "cs_name":"Zuni Pottery Essay.pdf",
+        "description":"This is an essay that describes, in general terms, the characteristics of Zuni Pueblo pottery including the type of clay and slip used and the typical designs employed."
+      }
+    ]
+  },
+  {
+    "name":"Pump Drill",
+    "artifact":[100090],
+    "cs_docs":[
+      {
+        "cs_name":"Indian Drilling Turquoise.pdf",
+        "description":"In this Fred Harvey postcard from the early 20th century a Pueblo artisan is shown using a pump drill to create holes in turquoise stones that will be used for jewelry."
+      },
+      {
+        "cs_name":"Pump Drill Essay.pdf",
+        "description":"This essay discusses the origin and evolution of the pump drill. It also reviews the evolution of the drilling of stones for use in jewelry."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Pump Drill",
+    "artifact":[100091],
+    "cs_docs":[
+      {
+        "cs_name":"Indian Drilling Turquoise.pdf",
+        "description":"In this Fred Harvey postcard from the early 20th century a Pueblo artisan is shown using a pump drill to create holes in turquoise stones that will be used for jewelry."
+      },
+      {
+        "cs_name":"Pump Drill Essay.pdf",
+        "description":"This essay discusses the origin and evolution of the pump drill. It also reviews the evolution of the drilling of stones for use in jewelry."
+      },
+      {
+        "cs_name":"Tools Essay.pdf",
+        "description":"This essay defines tools and discusses the roles and purposes of tools in society. It also introduces and briefly presents the importance of \"repurposing\" tools, especially in frontier societies."
+      }
+    ]
+  },
+  {
+    "name":"Fred Harvey Bottle",
+    "artifact":[100072],
+    "cs_docs":[
+      {
+        "cs_name":"At the Border.pdf",
+        "description":"This is a photograph from the early 20th century that was used to promote tourism in the West. It is a classic example of cultural stereotyping and the giving in to tourists’ demands."
+      },
+      {
+        "cs_name":"Fred Harvey Essay.pdf",
+        "description":"This is an essay which describes entrepreneur Fred Harvey’s contribution to both tourism in the American West and to women’s freedom and independence. It describes the Harvey House system and the emergence of the \"Harvey girls\"."
+      },
+      {
+        "cs_name":"Hopi Eagle Dance.pdf",
+        "description":"This 1920 photograph shows a crowd gathered around several Hopi Eagle Dancers as they perform. The suggested use for this photograph is to open a discussion concerning \"staged authenticity\" in tourism.,"
+      },
+      {
+        "cs_name":"Navajo Silversmith and Daughter.pdf",
+        "description":"This is a postcard from the Fred Harvey Collection that romanticizes both the West and its inhabitants. Conditions for silversmiths were never as depicted here."
+      },
+      {
+        "cs_name":"Tourism and Culture Essay.pdf",
+        "description":"This essay introduces and briefly discusses the potential loss of cultural identity, the emergence of staged authenticity, and the advent of commodification that can all result from tourism. It also introduces the idea that cultural interaction which is built on equality of demand can strengthen culture and society."
+      },
+      {
+        "cs_name":"Tourism Essay.pdf",
+        "description":"This essay introduces the idea that tourism is a \"double-edged sword\" for the destinations involved. While it makes no judgments, it does offer food for thought."
+      }
+    ]
+  },
+  {
+    "name":"Clam Burrows",
+    "artifact":[100046],
+    "cs_docs":[
+      {
+        "cs_name":"Clam Burrows.pdf",
+        "description":"Penitella clam burrows in shale. Clams are present. This is not a fossil, though most people would believe it so, and we have tagged it as such. Suggested use: comparison with fossils in collection"
+      }
+    ]
+  },
+  {
+    "name":"Acoma Pot",
+    "artifact":[
+      100065
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Acoma Olla Essay.pdf",
+        "description":"This background essay locates the Acoma Pueblo and provides a short description of typical Acoma pottery"
+      }
+    ]
+  },
+  {
+    "name":"Adobe Brick Mold",
+    "artifact":[
+      100050
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Adobe Brick Mold Essay.pdf",
+        "description":"This background essay describes the methods and materials required to make adobe bricks"
+      },
+      {
+        "cs_name":"Filling Form with Adobe Mixture.pdf",
+        "description":"This Farm Security Administration photograph shows step three of the adobe brickmaking process"
+      },
+      {
+        "cs_name":"Mixing Soil To Make Adobe Bricks.pdf",
+        "description":"This Farm Security Administration photograph shows step one of the adobe brickmaking process"
+      },
+      {
+        "cs_name":"Placing Mold Over Adobe Mixture.pdf",
+        "description":"This Farm Security Administration photograph shows step two of the adobe brickmaking process"
+      },
+      {
+        "cs_name":"Removing and Stacking Adobe Bricks.pdf",
+        "description":"This Farm Security Administration photograph shows step four of the adobe brickmaking process"
+      }
+    ]
+  },
+  {
+    "name":"Apache Hat",
+    "artifact":[
+      100051
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Apache Hat Essay.pdf",
+        "description":"A short descriptive essay indicating the accepted origin of the term \"Apache Hat.\""
+      },
+      {
+        "cs_name":"Eskimizin Apache Chief.pdf",
+        "description":"Three-quarter portrait photograph of Eskimizin, an Aravaipa Apache Chief, taken in 1890. Eskimizin is wearing a \"Apache Hat\" in the photograph. Eskimizin is important in this instance, as he was one of only a few Apache chiefs who sought peace with European-Americans and Mexicans. He survived the Camp Grant Massacre in 1871 only to be accused of sheltering \"The Apache Kid\" his son-in-law, a renegade long sought after in Arizona and Mexico. He was jailed, but released, and died a broken man in 1890."
+      },
+      {
+        "cs_name":"Geronimo.pdf",
+        "description":"A three-quarter length portrait of Geronimo, seated, with a drawn bow and arrow. The photograph was taken in 1904. Geronimo is wearing an \"Apache Hat\" in the photograph."
+      },
+      {
+        "cs_name":"Pueblo at Taos.pdf",
+        "description":"William Victor Higgins painted this piece in the late 1920s while he was part of the Taos Art Community. It depicts a variety of persons gathered to celebrate the San Geronimo Feast Day at the Taos Pueblo. Significant here are the men in the foreground who are all wearing \"Apache Hats.\" Higgins painted three versions of the scene, all of which contain the same group of men in the foreground."
+      }
+    ]
+  },
+  {
+    "name":"Archimedes Bryozoan",
+    "artifact":[
+      100049
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Archimedes Bryozoan Background Essay E3.pdf",
+        "description":"Short grade-level essay that describes an Archimedes Bryozoan."
+      },
+      {
+        "cs_name":"Archimedes Bryozoan Background Essay E5.pdf",
+        "description":"Short grade-level essay that describes an Archimedes Bryozoan."
+      },
+      {
+        "cs_name":"Archimedes Bryozoan Background Essay MS.pdf",
+        "description":"Short grade-level essay that describes an Archimedes Bryozoan."
+      },
+      {
+        "cs_name":"Archimedes Bryozoan Background Essay.pdf",
+        "description":"Short grade-level essay that describes an Archimedes Bryozoan."
+      },
+      {
+        "cs_name":"Trace Fossil Example.pdf",
+        "description":"Photographic example of a trace fossil"
+      }
+    ]
+  },
+  {
+    "name":"Beaver Capped Pipe",
+    "artifact":[
+      100114
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Beaver Capped Pipe.pdf",
+        "description":"Description of the artifact accompanied by suggestions of how to use the artifact in a classroom"
+      }
+    ]
+  },
+  {
+    "name":"Beaver Hat Frame",
+    "artifact":[
+      100113
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Beaver Hat Frame.pdf",
+        "description":"Description of the artifact accompanied by suggestions of how to use the artifact in a classroom"
+      }
+    ]
+  },
+  {
+    "name":"Bloomer Suit",
+    "artifact":[
+      100115
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Bloomer Suit Description.pdf",
+        "description":"Description of the item and a short discussion of the origin of the \"Bloomer\" outfit"
+      },
+      {
+        "cs_name":"Clothing and Dresses.pdf",
+        "description":"An essay that provides a short background history of clothing, defines the term and places dresses within that definition."
+      }
+    ]
+  },
+  {
+    "name":"Cabasset Helmet",
+    "artifact":[
+      100052
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Burgonet Helmet.pdf",
+        "description":"A photograph of a 1560 German Burgonet Helmet that shows the open face, high crown, wide brim, and protective armoring on the neck and at the front."
+      },
+      {
+        "cs_name":"Conquistadors Essay.pdf",
+        "description":"A brief background essay that describes who the conquistadors were, their motivations, and provides a brief overview of some of their armor."
+      },
+      {
+        "cs_name":"Coronado Muster List.pdf",
+        "description":"This is the list of equipment and materials that Francisco Vasquez Coronado requested for his journey into the American Southwest in 1540. It includes the requests for armor, weapons and the numbers of infantrymen and cavalrymen Coronado felt were needed."
+      }
+    ]
+  },
+  {
+    "name":"Fourth Phase Wearing Blanket",
+    "artifact":[
+      100071
+    ],
+    "cs_docs":[
+      {
+        "cs_name":"Fourth Phase Blanket Essay.pdf",
+        "description":"This brief essay explains the differences between \"Third Phase\" and \"Fourth Phase\" blankets using the artifact under consideration as the example."
+      },
+      {
+        "cs_name":"Textiles - Short Essay.pdf",
+        "description":"This is a one-page essay that quickly reviews the history and evolution of textiles in the American Southwest."
+      }
+    ]
+  },
+  {
+    "name":"Mystery Box",
+    "artifact":[
+      100140
+    ],
+    "cs_docs":[
+      {
+        "cs_link":"www.facebook.com/ArtifactsTeach/",
+        "cs_name":"Join the conversation!"
+      }
+    ]
+  }
+]

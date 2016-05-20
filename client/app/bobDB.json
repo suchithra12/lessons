@@ -1,0 +1,5185 @@
+var bobDB = [
+    {
+        "webgl_sources": 0,
+        "id": 3141,
+        "name": "Wood Wand",
+        "description": "MRM Collection",
+        "uuid": "74aa41ad-5a20-4bfe-9a7c-b3416d3d9db1",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:47:39, 2015-11-12",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 1,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3141/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/74aa41ad-5a20-4bfe-9a7c-b3416d3d9db1/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/74aa41ad-5a20-4bfe-9a7c-b3416d3d9db1/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3141/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3140,
+        "name": "Water Drum",
+        "description": "MRM Collection",
+        "uuid": "58f68b83-f0cd-433a-9d12-c933067315e5",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:45:31, 2015-11-12",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "190.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 2,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3140/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/58f68b83-f0cd-433a-9d12-c933067315e5/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/58f68b83-f0cd-433a-9d12-c933067315e5/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3140/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3139,
+        "name": "Hay Fork",
+        "description": "MRM Collection",
+        "uuid": "1f96dfd3-dec9-4d44-b4ac-dbc289593ac5",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:43:18, 2015-11-12",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "500.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 1,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3139/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1f96dfd3-dec9-4d44-b4ac-dbc289593ac5/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1f96dfd3-dec9-4d44-b4ac-dbc289593ac5/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3139/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3126,
+        "name": "HBC Tobacco Tin 3DSOM TEST",
+        "description": "Rework from an existing BOB Capture file",
+        "uuid": "a9789d20-b64d-4fad-8481-5b0478fa45e7",
+        "status": "ready",
+        "type": "B3D",
+        "created": "23:03:47, 2015-10-29",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 2,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3126/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/a9789d20-b64d-4fad-8481-5b0478fa45e7/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/a9789d20-b64d-4fad-8481-5b0478fa45e7/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3126/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3065,
+        "name": "Dance Dress",
+        "uuid": "00bd5c8b-822e-4780-bc54-b0c8673d7773",
+        "status": "ready",
+        "type": "BSD",
+        "created": "16:39:54, 2015-09-29",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 5,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3065/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/00bd5c8b-822e-4780-bc54-b0c8673d7773/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/00bd5c8b-822e-4780-bc54-b0c8673d7773/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3065/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3061,
+        "name": "Washboard",
+        "description": "Artifacts Teach Collection",
+        "uuid": "b0f97508-1998-4c79-9fff-1e39cd000262",
+        "status": "ready",
+        "type": "BSD",
+        "created": "01:45:00, 2015-09-28",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 9,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3061/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/b0f97508-1998-4c79-9fff-1e39cd000262/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b0f97508-1998-4c79-9fff-1e39cd000262/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3061/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3055,
+        "name": "ET in Flapper Girl dress!",
+        "description": "CSPM Collection\nTEST",
+        "uuid": "8341e7a8-6c14-4622-aa7d-26fb77f126ac",
+        "status": "ready",
+        "type": "BSD",
+        "created": "23:25:56, 2015-09-20",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 7,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3055/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/8341e7a8-6c14-4622-aa7d-26fb77f126ac/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/8341e7a8-6c14-4622-aa7d-26fb77f126ac/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3055/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3053,
+        "name": "Evening Gown w swag",
+        "description": "CSPM Collection\nTEST",
+        "uuid": "be12b27e-caf4-4b3b-855f-d93f1ea5851c",
+        "status": "ready",
+        "type": "BSD",
+        "created": "19:26:12, 2015-09-20",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3053/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/be12b27e-caf4-4b3b-855f-d93f1ea5851c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/be12b27e-caf4-4b3b-855f-d93f1ea5851c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3053/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3051,
+        "name": "Edwardian Dress",
+        "description": "CSPM Collection\nTEST",
+        "uuid": "51ea7b6e-ff4d-454e-a8f4-024816f42eed",
+        "status": "ready",
+        "type": "BSD",
+        "created": "17:56:05, 2015-09-20",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 4,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3051/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/51ea7b6e-ff4d-454e-a8f4-024816f42eed/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/51ea7b6e-ff4d-454e-a8f4-024816f42eed/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3051/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3049,
+        "name": "Civil War Dress",
+        "description": "CSPM Collection\nTEST",
+        "uuid": "88d83487-5a8b-4747-92f4-89569876e36f",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:15:22, 2015-09-20",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3049/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/88d83487-5a8b-4747-92f4-89569876e36f/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/88d83487-5a8b-4747-92f4-89569876e36f/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3049/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3048,
+        "name": "Bloomer Girl",
+        "description": "CSPM Collection\nTEST",
+        "uuid": "ac7cf427-af74-4665-a7fc-8ef1a59310dc",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:11:57, 2015-09-20",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 3,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3048/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/ac7cf427-af74-4665-a7fc-8ef1a59310dc/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/ac7cf427-af74-4665-a7fc-8ef1a59310dc/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3048/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 3037,
+        "name": "Bathing Beauty Dress",
+        "description": "CSPM  Collection\nTEST",
+        "uuid": "8604e8ea-7ce3-4c60-ae9a-0a794c4715a3",
+        "status": "ready",
+        "type": "BSD",
+        "created": "16:30:42, 2015-09-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 9,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/3037/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/8604e8ea-7ce3-4c60-ae9a-0a794c4715a3/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/8604e8ea-7ce3-4c60-ae9a-0a794c4715a3/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/3037/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2981,
+        "name": "Civil War Era Prosthetic",
+        "description": "Private Collection",
+        "uuid": "81641285-4ebd-45af-85f6-64446d1a5a63",
+        "status": "ready",
+        "type": "BSD",
+        "created": "05:40:04, 2015-07-11",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 9,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2981/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/81641285-4ebd-45af-85f6-64446d1a5a63/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/81641285-4ebd-45af-85f6-64446d1a5a63/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2981/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2980,
+        "name": "Springing Shoe",
+        "description": "Private Collection",
+        "uuid": "79460d83-097d-4134-998e-5e1d7e5d61ed",
+        "status": "ready",
+        "type": "BSD",
+        "created": "14:39:58, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 15,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2980/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/79460d83-097d-4134-998e-5e1d7e5d61ed/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/79460d83-097d-4134-998e-5e1d7e5d61ed/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2980/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2979,
+        "name": "Lakeside Vacuum",
+        "description": "Private Collection",
+        "uuid": "c94be80a-f53b-441d-bd81-7472b04c4df0",
+        "status": "ready",
+        "type": "BSD",
+        "created": "14:36:28, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2979/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/c94be80a-f53b-441d-bd81-7472b04c4df0/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/c94be80a-f53b-441d-bd81-7472b04c4df0/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2979/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2978,
+        "name": "Magneto Electric Machine for Nervous Disease c.1850's",
+        "description": "Private Collection",
+        "uuid": "4a4161de-35e8-48b3-a923-eca07fe31e9d",
+        "status": "ready",
+        "type": "BSD",
+        "created": "05:21:50, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2978/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/4a4161de-35e8-48b3-a923-eca07fe31e9d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/4a4161de-35e8-48b3-a923-eca07fe31e9d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2978/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2977,
+        "name": "Wonder Washer",
+        "description": "Private Collection",
+        "uuid": "edb04211-ca60-4f64-ae5d-0b977d3ecacb",
+        "status": "ready",
+        "type": "BSD",
+        "created": "05:10:26, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 20,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2977/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/edb04211-ca60-4f64-ae5d-0b977d3ecacb/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/edb04211-ca60-4f64-ae5d-0b977d3ecacb/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2977/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2974,
+        "name": "Revolutionary War Era Mystery Box",
+        "description": "Private Collection",
+        "uuid": "75e65eb5-9c67-47e7-8d39-51bbf53857a3",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:23:40, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2974/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/75e65eb5-9c67-47e7-8d39-51bbf53857a3/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/75e65eb5-9c67-47e7-8d39-51bbf53857a3/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2974/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2973,
+        "name": "Revolutionary War Canteen",
+        "description": "Private Collection",
+        "uuid": "7db5dc4a-b94d-45fd-9dc6-c7b9f55f5598",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:17:57, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2973/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/7db5dc4a-b94d-45fd-9dc6-c7b9f55f5598/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/7db5dc4a-b94d-45fd-9dc6-c7b9f55f5598/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2973/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2972,
+        "name": "Spanish Colonial Stirrup",
+        "description": "Private Collection",
+        "uuid": "6211300e-a430-459a-aae1-df4a2147004d",
+        "status": "ready",
+        "type": "BSD",
+        "created": "00:53:20, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 13,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2972/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6211300e-a430-459a-aae1-df4a2147004d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6211300e-a430-459a-aae1-df4a2147004d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2972/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2971,
+        "name": "Morion Helmet",
+        "description": "Private Collection",
+        "uuid": "978d9c16-9cd0-4642-b9f9-60d2b6d30dc9",
+        "status": "ready",
+        "type": "BSD",
+        "created": "00:50:07, 2015-07-10",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 15,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2971/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/978d9c16-9cd0-4642-b9f9-60d2b6d30dc9/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/978d9c16-9cd0-4642-b9f9-60d2b6d30dc9/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2971/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2970,
+        "name": "Conquistador Breast Plate Armor New Mexico",
+        "description": "Private Collection",
+        "uuid": "5b61298d-71b9-4663-b747-31e553fef3f5",
+        "status": "ready",
+        "type": "BSD",
+        "created": "05:32:09, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2970/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/5b61298d-71b9-4663-b747-31e553fef3f5/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5b61298d-71b9-4663-b747-31e553fef3f5/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2970/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2969,
+        "name": "Andrew Jackson Dueling Pistol",
+        "description": "Private Collection",
+        "uuid": "a14139a2-f304-4cef-ac34-83ae5bfc4be8",
+        "status": "ready",
+        "type": "BSD",
+        "created": "04:17:47, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 19,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2969/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/a14139a2-f304-4cef-ac34-83ae5bfc4be8/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/a14139a2-f304-4cef-ac34-83ae5bfc4be8/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2969/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2968,
+        "name": "American Colonial Gooswing Axe",
+        "description": "Private Collection",
+        "uuid": "d13d4e42-d03a-4855-a830-b35d5071b620",
+        "status": "ready",
+        "type": "BDF",
+        "created": "04:09:53, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2968/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/d13d4e42-d03a-4855-a830-b35d5071b620/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/d13d4e42-d03a-4855-a830-b35d5071b620/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2968/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2967,
+        "name": "Ruxton,Tobin,St.Vrain,Medina, Mountain Man Guns",
+        "description": "Private Collection",
+        "uuid": "d8cca9fa-b069-49b8-916b-2722ae706590",
+        "status": "ready",
+        "type": "BDF",
+        "created": "04:07:45, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 15,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2967/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/d8cca9fa-b069-49b8-916b-2722ae706590/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/d8cca9fa-b069-49b8-916b-2722ae706590/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2967/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2966,
+        "name": "Beaver Pipe HBC?",
+        "description": "Private Collection",
+        "uuid": "5f45355f-ca82-4dcc-8e36-c2cad7a0c946",
+        "status": "ready",
+        "type": "BDF",
+        "created": "03:58:20, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 13,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2966/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/5f45355f-ca82-4dcc-8e36-c2cad7a0c946/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5f45355f-ca82-4dcc-8e36-c2cad7a0c946/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2966/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2965,
+        "name": "Ft. Orange Clay Pipe",
+        "description": "Private Collection",
+        "uuid": "a3efd2ee-bb57-4a83-a8ab-3e1d8aaf3c15",
+        "status": "ready",
+        "type": "BDF",
+        "created": "03:56:24, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 14,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2965/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/a3efd2ee-bb57-4a83-a8ab-3e1d8aaf3c15/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/a3efd2ee-bb57-4a83-a8ab-3e1d8aaf3c15/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2965/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2964,
+        "name": "Lewis and Clark Era Compass and Pouch",
+        "description": "Private Collection",
+        "uuid": "c48686ef-a2e1-405c-93b5-0f09f025529c",
+        "status": "ready",
+        "type": "BDF",
+        "created": "03:22:07, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 9,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2964/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/c48686ef-a2e1-405c-93b5-0f09f025529c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/c48686ef-a2e1-405c-93b5-0f09f025529c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2964/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2963,
+        "name": "Mississippi Estate Appraisal (Slaves)",
+        "description": "Private Collection",
+        "uuid": "cffbac5f-bf5a-40a1-9375-6a2f338ca13f",
+        "status": "ready",
+        "type": "BDF",
+        "created": "03:19:55, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 5,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2963/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/cffbac5f-bf5a-40a1-9375-6a2f338ca13f/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/cffbac5f-bf5a-40a1-9375-6a2f338ca13f/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2963/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2962,
+        "name": "American Revolutionary War Halberd",
+        "description": "Private Collection",
+        "uuid": "b7980fa4-0cdc-401b-a575-3b893bbf7d36",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:13:58, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "300.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 7,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2962/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/b7980fa4-0cdc-401b-a575-3b893bbf7d36/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b7980fa4-0cdc-401b-a575-3b893bbf7d36/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2962/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2961,
+        "name": "Grizzly or Buffalo Fur Trapper Gloves",
+        "description": "Private Collection",
+        "uuid": "1af33880-6202-4868-a867-9b5614bbf441",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:02:15, 2015-07-09",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 21,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2961/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1af33880-6202-4868-a867-9b5614bbf441/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1af33880-6202-4868-a867-9b5614bbf441/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2961/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2960,
+        "name": "Sioux Cheyenne ? Men's Shirt",
+        "description": "Private Collection",
+        "uuid": "9d67d9ab-dcc6-4688-85b2-73c67c470da1",
+        "status": "ready",
+        "type": "BSD",
+        "created": "04:29:32, 2015-07-08",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 43,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2960/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/9d67d9ab-dcc6-4688-85b2-73c67c470da1/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/9d67d9ab-dcc6-4688-85b2-73c67c470da1/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2960/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2959,
+        "name": "Beaver Top Hat Mold",
+        "description": "Private Collection",
+        "uuid": "8f16187d-8fb4-42d5-9cfa-f68701ec4812",
+        "status": "ready",
+        "type": "BSD",
+        "created": "03:59:49, 2015-07-08",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 10,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2959/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/8f16187d-8fb4-42d5-9cfa-f68701ec4812/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/8f16187d-8fb4-42d5-9cfa-f68701ec4812/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2959/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2957,
+        "name": "Hudson Bay Tobacco Tin",
+        "description": "Private Collection",
+        "uuid": "a2ef23ee-c225-49c0-bfeb-1e8e441bc089",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:19:52, 2015-07-08",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "100.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2957/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/a2ef23ee-c225-49c0-bfeb-1e8e441bc089/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/a2ef23ee-c225-49c0-bfeb-1e8e441bc089/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2957/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2956,
+        "name": "Cactus Picker",
+        "description": "Private Collection",
+        "uuid": "656c74d5-02b0-4718-a93f-7804c5ac2edd",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:11:05, 2015-07-08",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "100.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2956/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/656c74d5-02b0-4718-a93f-7804c5ac2edd/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/656c74d5-02b0-4718-a93f-7804c5ac2edd/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2956/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2955,
+        "name": "Conestoga Wagon Jack",
+        "description": "Private Collection",
+        "uuid": "04545e4a-7df1-480c-aa3c-3558fe5d4732",
+        "status": "ready",
+        "type": "BSD",
+        "created": "01:14:20, 2015-07-08",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 13,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2955/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/04545e4a-7df1-480c-aa3c-3558fe5d4732/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/04545e4a-7df1-480c-aa3c-3558fe5d4732/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2955/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2954,
+        "name": "HBC Kettle",
+        "description": "Private Collection",
+        "uuid": "6d00ca8f-0f96-4aba-8d91-c146fc62a46e",
+        "status": "ready",
+        "type": "BSD",
+        "created": "17:42:18, 2015-07-07",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2954/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6d00ca8f-0f96-4aba-8d91-c146fc62a46e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6d00ca8f-0f96-4aba-8d91-c146fc62a46e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2954/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2942,
+        "name": "Van Briggle Vase",
+        "description": "CSPM Collection",
+        "uuid": "bdb20d06-54a5-4f6f-900c-93091444b3a6",
+        "status": "ready",
+        "type": "B3D",
+        "created": "23:27:47, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "220.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2942/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/bdb20d06-54a5-4f6f-900c-93091444b3a6/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/bdb20d06-54a5-4f6f-900c-93091444b3a6/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2942/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2938,
+        "name": "Civil War Belts",
+        "description": "CSPM Collection",
+        "uuid": "4cb55a57-a914-42d5-b9fb-fcf7f2388500",
+        "status": "ready",
+        "type": "BDF",
+        "created": "18:36:54, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 14,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2938/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/4cb55a57-a914-42d5-b9fb-fcf7f2388500/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/4cb55a57-a914-42d5-b9fb-fcf7f2388500/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2938/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2937,
+        "name": "Cloverdale Milk Bottle",
+        "description": "CSPM Collection",
+        "uuid": "fdb0fce6-bc19-4d24-8fd2-925d4364807a",
+        "status": "ready",
+        "type": "BSD",
+        "created": "18:34:43, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2937/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/fdb0fce6-bc19-4d24-8fd2-925d4364807a/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/fdb0fce6-bc19-4d24-8fd2-925d4364807a/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2937/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2935,
+        "name": "Beater",
+        "description": "CSPM Collection",
+        "uuid": "1ff624c8-c514-4a62-b1e8-37aa29ef998e",
+        "status": "ready",
+        "type": "BSD",
+        "created": "17:23:19, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2935/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1ff624c8-c514-4a62-b1e8-37aa29ef998e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1ff624c8-c514-4a62-b1e8-37aa29ef998e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2935/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2932,
+        "name": "Cough Cold Syrup",
+        "description": "CSPM Collection",
+        "uuid": "6387711e-58b7-4466-986c-160596b8955f",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:22:06, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 4,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2932/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6387711e-58b7-4466-986c-160596b8955f/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6387711e-58b7-4466-986c-160596b8955f/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2932/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2931,
+        "name": "Lunch Box",
+        "description": "CSPM Collection",
+        "uuid": "93834596-d6ef-48a9-a0ac-0f7884ee9916",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:18:11, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 4,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2931/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/93834596-d6ef-48a9-a0ac-0f7884ee9916/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/93834596-d6ef-48a9-a0ac-0f7884ee9916/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2931/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2928,
+        "name": "Tool Chest Toy",
+        "description": "CSPM Collection",
+        "uuid": "fade4267-260c-404d-bf13-6687dbe41d73",
+        "status": "ready",
+        "type": "BSD",
+        "created": "05:54:07, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 3,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2928/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/fade4267-260c-404d-bf13-6687dbe41d73/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/fade4267-260c-404d-bf13-6687dbe41d73/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2928/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2923,
+        "name": "Roy Rodgers Toy Lantern",
+        "description": "CSPM Collection",
+        "uuid": "3ec1a8db-db07-4cd9-aa25-2d34f39a5c04",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:54:32, 2015-06-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2923/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/3ec1a8db-db07-4cd9-aa25-2d34f39a5c04/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/3ec1a8db-db07-4cd9-aa25-2d34f39a5c04/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2923/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2922,
+        "name": "RR Lantern",
+        "description": "CSPM Collection",
+        "uuid": "84cbe704-93c2-4d23-871d-ee62f0947863",
+        "status": "ready",
+        "type": "BSD",
+        "created": "21:53:29, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 7,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2922/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/84cbe704-93c2-4d23-871d-ee62f0947863/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/84cbe704-93c2-4d23-871d-ee62f0947863/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2922/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2921,
+        "name": "Lantern Slide Projector",
+        "description": "CSPM Collection",
+        "uuid": "369a9450-cdb8-4696-b807-c13891200ae8",
+        "status": "ready",
+        "type": "BSD",
+        "created": "21:50:18, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2921/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/369a9450-cdb8-4696-b807-c13891200ae8/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/369a9450-cdb8-4696-b807-c13891200ae8/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2921/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2919,
+        "name": "Tom Mix Hat",
+        "description": "CSPM Collection",
+        "uuid": "7d61bd84-0e98-454f-a316-1810f427bb3e",
+        "status": "ready",
+        "type": "BSD",
+        "created": "19:50:27, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2919/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/7d61bd84-0e98-454f-a316-1810f427bb3e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/7d61bd84-0e98-454f-a316-1810f427bb3e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2919/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2918,
+        "name": "WWI Toy Tank",
+        "description": "CSPM Collection",
+        "uuid": "5ef02e26-7079-4c63-b12a-d3cc6da45f9d",
+        "status": "ready",
+        "type": "BSD",
+        "created": "19:44:10, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2918/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/5ef02e26-7079-4c63-b12a-d3cc6da45f9d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5ef02e26-7079-4c63-b12a-d3cc6da45f9d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2918/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2917,
+        "name": "Opthalmophantome",
+        "description": "CSPM Collection",
+        "uuid": "5ed04964-b3c6-4ce0-924d-bb1096df7cd8",
+        "status": "ready",
+        "type": "BSD",
+        "created": "17:58:47, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2917/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/5ed04964-b3c6-4ce0-924d-bb1096df7cd8/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5ed04964-b3c6-4ce0-924d-bb1096df7cd8/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2917/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2916,
+        "name": "\"Hooping\" Cough Syrup",
+        "description": "CSPM Collection",
+        "uuid": "27fe3e86-5d67-4cea-b9eb-8987efbc8e5c",
+        "status": "ready",
+        "type": "BSD",
+        "created": "17:53:12, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 4,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2916/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/27fe3e86-5d67-4cea-b9eb-8987efbc8e5c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/27fe3e86-5d67-4cea-b9eb-8987efbc8e5c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2916/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2915,
+        "name": "Vivian Espinoza Spur",
+        "description": "CSPM Collection",
+        "uuid": "1b40ee81-a7d4-4862-b8f0-affc8c4a28fe",
+        "status": "ready",
+        "type": "BSD",
+        "created": "16:19:53, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 3,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2915/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1b40ee81-a7d4-4862-b8f0-affc8c4a28fe/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1b40ee81-a7d4-4862-b8f0-affc8c4a28fe/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2915/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2914,
+        "name": "TutTut Toy Car",
+        "description": "CSPM Collection",
+        "uuid": "c66b35cc-e695-4161-a466-e3e4dfa74a16",
+        "status": "ready",
+        "type": "BSD",
+        "created": "16:09:53, 2015-06-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2914/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/c66b35cc-e695-4161-a466-e3e4dfa74a16/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/c66b35cc-e695-4161-a466-e3e4dfa74a16/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2914/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2905,
+        "name": "Boston to NY Post Road Marker",
+        "description": "CSPM Collection",
+        "uuid": "edbac6c0-46e2-4e21-b9ae-225ecee10e69",
+        "status": "ready",
+        "type": "B3D",
+        "created": "23:56:58, 2015-06-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "590.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 7,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2905/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/edbac6c0-46e2-4e21-b9ae-225ecee10e69/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/edbac6c0-46e2-4e21-b9ae-225ecee10e69/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2905/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2898,
+        "name": "Teddy Bear",
+        "description": "CSPM Collection",
+        "uuid": "954025a7-c5e4-4390-8609-8dea3f321ce2",
+        "status": "ready",
+        "type": "BSD",
+        "created": "22:28:28, 2015-06-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 5,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2898/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/954025a7-c5e4-4390-8609-8dea3f321ce2/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/954025a7-c5e4-4390-8609-8dea3f321ce2/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2898/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2897,
+        "name": "Sinton Milk",
+        "description": "CSPM Collection",
+        "uuid": "e93923f7-207b-4a5f-907a-d5623735a1cc",
+        "status": "ready",
+        "type": "BSD",
+        "created": "22:25:18, 2015-06-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 5,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2897/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/e93923f7-207b-4a5f-907a-d5623735a1cc/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/e93923f7-207b-4a5f-907a-d5623735a1cc/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2897/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2891,
+        "name": "Toaster",
+        "description": "CSPM Collection",
+        "uuid": "03b940ab-4335-488b-bc15-792d6bdadcbe",
+        "status": "ready",
+        "type": "BSD",
+        "created": "17:04:13, 2015-06-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2891/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/03b940ab-4335-488b-bc15-792d6bdadcbe/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/03b940ab-4335-488b-bc15-792d6bdadcbe/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2891/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2888,
+        "name": "Murray Pill Box",
+        "description": "CSPM Collection",
+        "uuid": "ed8983b3-f390-4e0f-8f07-56c53543b06b",
+        "status": "ready",
+        "type": "BSD",
+        "created": "16:54:28, 2015-06-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 9,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2888/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/ed8983b3-f390-4e0f-8f07-56c53543b06b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/ed8983b3-f390-4e0f-8f07-56c53543b06b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2888/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2878,
+        "name": "Gas Pump Toy",
+        "description": "CSPM Collection",
+        "uuid": "a0455df0-98cf-44c4-9259-f7949ca83aad",
+        "status": "ready",
+        "type": "BSD",
+        "created": "03:18:48, 2015-06-16",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2878/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/a0455df0-98cf-44c4-9259-f7949ca83aad/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/a0455df0-98cf-44c4-9259-f7949ca83aad/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2878/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2875,
+        "name": "Toy Bank",
+        "description": "CSPM Collection",
+        "uuid": "0b3066ea-290f-4c63-9227-10a100b291bb",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:24:31, 2015-06-16",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 4,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2875/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/0b3066ea-290f-4c63-9227-10a100b291bb/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/0b3066ea-290f-4c63-9227-10a100b291bb/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2875/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2794,
+        "name": "Valentineian II Ancient Roman Coin",
+        "description": "Private Collection",
+        "uuid": "4493a468-075e-4961-8755-39e545b96988",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:54:26, 2015-06-12",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "90.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2794/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/4493a468-075e-4961-8755-39e545b96988/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/4493a468-075e-4961-8755-39e545b96988/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2794/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2793,
+        "name": "Constantine II Ancient Roman Coin",
+        "description": "Private Collection",
+        "uuid": "6a66b21a-fd98-489d-b665-761f3ec76e39",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:52:12, 2015-06-12",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "80.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 4,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2793/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6a66b21a-fd98-489d-b665-761f3ec76e39/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6a66b21a-fd98-489d-b665-761f3ec76e39/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2793/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2791,
+        "name": "Our Lady of Guadalupe",
+        "description": "MRM Collection",
+        "uuid": "15c6c183-4c25-4a82-90e8-6a57e6b84edb",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:49:04, 2015-06-12",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "101.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 2,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2791/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/15c6c183-4c25-4a82-90e8-6a57e6b84edb/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/15c6c183-4c25-4a82-90e8-6a57e6b84edb/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2791/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2673,
+        "name": "Adobe Brick Mold",
+        "description": "MRM Collection",
+        "uuid": "c7fd235f-6793-4ec7-a80e-ec6d5b04ee4d",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:47:42, 2015-06-07",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "300.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 12,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2673/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/c7fd235f-6793-4ec7-a80e-ec6d5b04ee4d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/c7fd235f-6793-4ec7-a80e-ec6d5b04ee4d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2673/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2672,
+        "name": "Ketchum Grenade Civil War",
+        "description": "Private Collection",
+        "uuid": "52b9ece1-7cd2-4bee-abb0-0d3139d5af5c",
+        "status": "ready",
+        "type": "B3D",
+        "created": "16:41:46, 2015-06-07",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "250.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2672/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/52b9ece1-7cd2-4bee-abb0-0d3139d5af5c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/52b9ece1-7cd2-4bee-abb0-0d3139d5af5c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2672/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2671,
+        "name": "Moccasin",
+        "description": "CSPM Collection",
+        "uuid": "b42b0815-b80c-463c-a244-09d6e7a9cd74",
+        "status": "ready",
+        "type": "B3D",
+        "created": "04:13:25, 2015-06-07",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2671/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/b42b0815-b80c-463c-a244-09d6e7a9cd74/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b42b0815-b80c-463c-a244-09d6e7a9cd74/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2671/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2664,
+        "name": "Miners Candlestick",
+        "description": "CSPM Collection",
+        "uuid": "e0f8cd03-88d4-4cbe-a439-cc2adfd54ddb",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:53:24, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "485.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 42,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2664/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/e0f8cd03-88d4-4cbe-a439-cc2adfd54ddb/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/e0f8cd03-88d4-4cbe-a439-cc2adfd54ddb/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2664/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2658,
+        "name": "Ear Trumpet",
+        "description": "Private Collection",
+        "uuid": "4c516964-31b3-4b44-a62c-6e526d1f3195",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:35:16, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "250.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2658/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/4c516964-31b3-4b44-a62c-6e526d1f3195/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/4c516964-31b3-4b44-a62c-6e526d1f3195/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2658/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2657,
+        "name": "Ghost Shrimp Fossil",
+        "description": "Dinosaur Ridge Collection",
+        "uuid": "9d64ca6b-f9a6-42f9-8e27-48c6f0b2fa02",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:32:32, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "300.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 12,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2657/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/9d64ca6b-f9a6-42f9-8e27-48c6f0b2fa02/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/9d64ca6b-f9a6-42f9-8e27-48c6f0b2fa02/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2657/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2656,
+        "name": "Clam Burrow Fossil",
+        "description": "Dinosaur Ridge Collection",
+        "uuid": "07e25c05-82a0-42d6-9e4c-3e7cd1a3c05d",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:29:52, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "250.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 7,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2656/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/07e25c05-82a0-42d6-9e4c-3e7cd1a3c05d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/07e25c05-82a0-42d6-9e4c-3e7cd1a3c05d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2656/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2655,
+        "name": "Femur Fossil",
+        "description": "Dinosaur Ridge Collection",
+        "uuid": "95e082d9-5f06-4f0e-ad5b-8461e8803c97",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:27:53, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "300.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2655/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/95e082d9-5f06-4f0e-ad5b-8461e8803c97/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/95e082d9-5f06-4f0e-ad5b-8461e8803c97/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2655/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2654,
+        "name": "Feather Fossil",
+        "description": "Dinosaur Ridge Collection",
+        "uuid": "b424cabc-d435-4045-a575-83523a710835",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:26:31, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "190.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 9,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2654/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/b424cabc-d435-4045-a575-83523a710835/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b424cabc-d435-4045-a575-83523a710835/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2654/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2653,
+        "name": "Waywiser",
+        "description": "Private Collection",
+        "uuid": "946328b0-bb5b-4f25-b930-2457d7d65d31",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:23:37, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "250.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2653/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/946328b0-bb5b-4f25-b930-2457d7d65d31/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/946328b0-bb5b-4f25-b930-2457d7d65d31/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2653/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2652,
+        "name": "Coprolite (Turtle)",
+        "description": "Dinosaur Ridge Collection",
+        "uuid": "1e48851a-db13-4b2b-bfdf-904ba03991da",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:21:55, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "250.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 10,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2652/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1e48851a-db13-4b2b-bfdf-904ba03991da/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1e48851a-db13-4b2b-bfdf-904ba03991da/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2652/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2651,
+        "name": "Ammonite Cluster Fossil",
+        "description": "Dinosaur Ridge Collection",
+        "uuid": "2d7c258c-a3e4-4cc8-8355-64eff80a53ed",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:18:34, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "390.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 12,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2651/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/2d7c258c-a3e4-4cc8-8355-64eff80a53ed/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/2d7c258c-a3e4-4cc8-8355-64eff80a53ed/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2651/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2650,
+        "name": "Bugle ",
+        "description": "Private Collection",
+        "uuid": "e53c5a54-e0d6-4f41-bd5f-07cfd64e650d",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:15:48, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "250.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2650/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/e53c5a54-e0d6-4f41-bd5f-07cfd64e650d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/e53c5a54-e0d6-4f41-bd5f-07cfd64e650d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2650/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2649,
+        "name": "Cartridge Pack Civil War",
+        "description": "Private Collection",
+        "uuid": "e6caf689-8ae3-452a-b985-624b44ac077f",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:12:44, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 9,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2649/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/e6caf689-8ae3-452a-b985-624b44ac077f/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/e6caf689-8ae3-452a-b985-624b44ac077f/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2649/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2647,
+        "name": "Sputum Cup",
+        "description": "CSPM Collection",
+        "uuid": "ebe7abcc-71d9-4a28-a666-424db0e0ebd5",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:05:18, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 10,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2647/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/ebe7abcc-71d9-4a28-a666-424db0e0ebd5/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/ebe7abcc-71d9-4a28-a666-424db0e0ebd5/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2647/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2646,
+        "name": "Fossil Trout",
+        "description": "Private Collection",
+        "uuid": "617939fa-4623-45ba-a32b-97a6f456e26a",
+        "status": "ready",
+        "type": "BDF",
+        "created": "02:43:33, 2015-06-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 90,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2646/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/617939fa-4623-45ba-a32b-97a6f456e26a/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/617939fa-4623-45ba-a32b-97a6f456e26a/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2646/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2641,
+        "name": "Drop Spindle",
+        "description": "Private Collection",
+        "uuid": "b494f4ad-cae6-44fb-8f94-27bbe05cdf96",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:27:14, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2641/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/b494f4ad-cae6-44fb-8f94-27bbe05cdf96/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b494f4ad-cae6-44fb-8f94-27bbe05cdf96/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2641/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2640,
+        "name": "Beaver Top Hat",
+        "description": "CSPM Collection",
+        "uuid": "38c3646f-9cff-479e-ab2a-c4c0fe153102",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:24:42, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2640/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/38c3646f-9cff-479e-ab2a-c4c0fe153102/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/38c3646f-9cff-479e-ab2a-c4c0fe153102/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2640/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2639,
+        "name": "Davis Level",
+        "description": "Private Collection",
+        "uuid": "1d8b7893-b610-416a-9da7-7625e124484e",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:22:12, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "152.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 12,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2639/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1d8b7893-b610-416a-9da7-7625e124484e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1d8b7893-b610-416a-9da7-7625e124484e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2639/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2638,
+        "name": "Patent Medicine Bottle",
+        "description": "CSPM Collection",
+        "uuid": "14784f00-cad4-406f-b4f3-b755373c817b",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:20:25, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2638/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/14784f00-cad4-406f-b4f3-b755373c817b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/14784f00-cad4-406f-b4f3-b755373c817b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2638/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2637,
+        "name": "American Axe",
+        "description": "CSPM Collection",
+        "uuid": "6434aa5c-4b02-4d23-b0d9-34b76a89b92b",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:18:25, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "400.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 12,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2637/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6434aa5c-4b02-4d23-b0d9-34b76a89b92b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6434aa5c-4b02-4d23-b0d9-34b76a89b92b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2637/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2636,
+        "name": "Crucible",
+        "description": "Private Collection",
+        "uuid": "71d0350d-4bac-4b24-9f77-bdbe6eacb8d4",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:16:21, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 6,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2636/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/71d0350d-4bac-4b24-9f77-bdbe6eacb8d4/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/71d0350d-4bac-4b24-9f77-bdbe6eacb8d4/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2636/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2635,
+        "name": "Shadow Gee",
+        "description": "Private Collection",
+        "uuid": "2c703af7-5177-47a1-bcc6-8b758d99f9ff",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:14:24, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 19,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2635/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/2c703af7-5177-47a1-bcc6-8b758d99f9ff/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/2c703af7-5177-47a1-bcc6-8b758d99f9ff/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2635/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2634,
+        "name": "Scorifier",
+        "description": "Private Collection",
+        "uuid": "1726b3d8-dd19-4a5a-87b3-f49cf2bbca0b",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:12:55, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "528.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 25,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2634/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1726b3d8-dd19-4a5a-87b3-f49cf2bbca0b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1726b3d8-dd19-4a5a-87b3-f49cf2bbca0b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2634/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2633,
+        "name": "Union Mini Ball Civil War",
+        "description": "Private Collection",
+        "uuid": "51d84b3a-c47b-4536-b6f0-536d104e99e0",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:10:11, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "90.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2633/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/51d84b3a-c47b-4536-b6f0-536d104e99e0/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/51d84b3a-c47b-4536-b6f0-536d104e99e0/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2633/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2632,
+        "name": "Union Cartridge Box Civil War",
+        "description": "Private Collection",
+        "uuid": "2606f12b-f121-46ab-b481-f1e278935a3d",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:08:01, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 31,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2632/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/2606f12b-f121-46ab-b481-f1e278935a3d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/2606f12b-f121-46ab-b481-f1e278935a3d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2632/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2628,
+        "name": "Worm Tool and Mini Ball Civil War",
+        "description": "Private Collection",
+        "uuid": "8eed344b-8a00-425f-9fff-6ac9b5dbfdb0",
+        "status": "ready",
+        "type": "B3D",
+        "created": "19:01:40, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "400.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 7,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2628/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/8eed344b-8a00-425f-9fff-6ac9b5dbfdb0/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/8eed344b-8a00-425f-9fff-6ac9b5dbfdb0/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2628/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2627,
+        "name": "Paper Artillery Fuse Civil War",
+        "description": "Private Collection",
+        "uuid": "6c1104ff-9dec-4855-b7ae-2b13e9ffcd75",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:59:26, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "528.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2627/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6c1104ff-9dec-4855-b7ae-2b13e9ffcd75/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6c1104ff-9dec-4855-b7ae-2b13e9ffcd75/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2627/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2626,
+        "name": "Cut Spherical Case Round Civil War",
+        "description": "Private Collection",
+        "uuid": "678a3a68-dafa-4277-8bd8-c0014ebd1c33",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:57:54, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 160,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2626/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/678a3a68-dafa-4277-8bd8-c0014ebd1c33/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/678a3a68-dafa-4277-8bd8-c0014ebd1c33/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2626/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2625,
+        "name": "Artillery Round 12lb Civil War",
+        "description": "Private Collection",
+        "uuid": "2cbbf86c-0cbd-4a3b-8549-18d50491cd5a",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:55:01, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 190,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2625/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/2cbbf86c-0cbd-4a3b-8549-18d50491cd5a/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/2cbbf86c-0cbd-4a3b-8549-18d50491cd5a/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2625/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2624,
+        "name": "Kettle",
+        "description": "CSPM Collection",
+        "uuid": "31b483ac-c975-46c7-bbbc-6606b483a300",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:52:38, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "490.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 10,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2624/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/31b483ac-c975-46c7-bbbc-6606b483a300/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/31b483ac-c975-46c7-bbbc-6606b483a300/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2624/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2623,
+        "name": "Carbide Lamp",
+        "description": "CSPM Collection",
+        "uuid": "37cb6a1f-cea3-40e5-aea1-ad572d7efe1e",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:50:02, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 14,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2623/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/37cb6a1f-cea3-40e5-aea1-ad572d7efe1e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/37cb6a1f-cea3-40e5-aea1-ad572d7efe1e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2623/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2620,
+        "name": "Fossil Fish large",
+        "description": "Private Collection",
+        "uuid": "4872f7e1-85e2-4c30-bbe7-65e1493148c7",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:36:24, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2620/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/4872f7e1-85e2-4c30-bbe7-65e1493148c7/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/4872f7e1-85e2-4c30-bbe7-65e1493148c7/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2620/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2614,
+        "name": "Fossil Fish small",
+        "description": "Private Collection",
+        "uuid": "29aab8a7-fb0b-45ce-80f1-9e0f3d4b9d92",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:26:18, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 23,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2614/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/29aab8a7-fb0b-45ce-80f1-9e0f3d4b9d92/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/29aab8a7-fb0b-45ce-80f1-9e0f3d4b9d92/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2614/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2613,
+        "name": "Miners Candlestick II",
+        "description": "Private Collection",
+        "uuid": "690e9414-f815-49bf-9dc0-656b3291da4e",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:23:40, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "270.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 17,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2613/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/690e9414-f815-49bf-9dc0-656b3291da4e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/690e9414-f815-49bf-9dc0-656b3291da4e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2613/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2611,
+        "name": "Toy Bank",
+        "description": "CSPM Collection",
+        "uuid": "91959ff5-eb9d-41d9-993a-f56e162990e5",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:18:49, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "250.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 29,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2611/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/91959ff5-eb9d-41d9-993a-f56e162990e5/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/91959ff5-eb9d-41d9-993a-f56e162990e5/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2611/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2610,
+        "name": "Candle Mold",
+        "description": "CSPM Collection",
+        "uuid": "f0ed9d90-4131-4c29-9cb3-bcac187917e7",
+        "status": "ready",
+        "type": "B3D",
+        "created": "18:14:49, 2015-06-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "291.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 34,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2610/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/f0ed9d90-4131-4c29-9cb3-bcac187917e7/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/f0ed9d90-4131-4c29-9cb3-bcac187917e7/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2610/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2577,
+        "name": "Ox Yoke",
+        "description": "MRM Collection",
+        "uuid": "ff62d2c2-d0f2-4c93-9551-2cdd98fd21d2",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:24:50, 2015-04-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "500.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 7,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2577/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/ff62d2c2-d0f2-4c93-9551-2cdd98fd21d2/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/ff62d2c2-d0f2-4c93-9551-2cdd98fd21d2/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2577/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2573,
+        "name": "Drum",
+        "description": "MRM Collection",
+        "uuid": "f6c7c05b-407e-4f37-b09b-a3d5db185a4a",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:16:25, 2015-04-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "300.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 5,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2573/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/f6c7c05b-407e-4f37-b09b-a3d5db185a4a/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/f6c7c05b-407e-4f37-b09b-a3d5db185a4a/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2573/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2572,
+        "name": "Flower Wand",
+        "description": "MRM Collection",
+        "uuid": "06ac4662-08db-45f7-bd63-ddfabfa4cddd",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:14:31, 2015-04-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "100.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 3,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2572/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/06ac4662-08db-45f7-bd63-ddfabfa4cddd/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/06ac4662-08db-45f7-bd63-ddfabfa4cddd/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2572/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2561,
+        "name": "Navajo Pipe Bag",
+        "description": "MRM Collection",
+        "uuid": "6d65c892-4a9f-4c42-b19d-e6320599b78e",
+        "status": "ready",
+        "type": "BDF",
+        "created": "02:07:30, 2015-04-23",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 29,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2561/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6d65c892-4a9f-4c42-b19d-e6320599b78e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6d65c892-4a9f-4c42-b19d-e6320599b78e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2561/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2560,
+        "name": "Bead Drill",
+        "description": "MRM Collection",
+        "uuid": "024262be-b460-4e78-845b-4367d32e9be2",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:00:32, 2015-04-23",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 19,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2560/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/024262be-b460-4e78-845b-4367d32e9be2/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/024262be-b460-4e78-845b-4367d32e9be2/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2560/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2556,
+        "name": "Jingle Dress",
+        "description": "MRM Collection",
+        "uuid": "1fd081bb-beb2-4648-9d5c-8385249fbc86",
+        "status": "ready",
+        "type": "BSD",
+        "created": "00:31:24, 2015-04-23",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 28,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2556/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/1fd081bb-beb2-4648-9d5c-8385249fbc86/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1fd081bb-beb2-4648-9d5c-8385249fbc86/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2556/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2555,
+        "name": "China Poblana Dress",
+        "description": "MRM Collection",
+        "uuid": "46fabea1-9035-4341-9e53-e0d3ca7d1673",
+        "status": "ready",
+        "type": "BSD",
+        "created": "00:29:09, 2015-04-23",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 384,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2555/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/46fabea1-9035-4341-9e53-e0d3ca7d1673/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/46fabea1-9035-4341-9e53-e0d3ca7d1673/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2555/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2520,
+        "name": "Kit Carson Blanket",
+        "description": "MRM Collection",
+        "uuid": "72ebc709-d01d-48cc-83fd-ae10650fc356",
+        "status": "ready",
+        "type": "BDF",
+        "created": "22:19:40, 2015-04-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 348,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2520/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/72ebc709-d01d-48cc-83fd-ae10650fc356/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/72ebc709-d01d-48cc-83fd-ae10650fc356/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2520/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2519,
+        "name": "Saltillo",
+        "description": "MRM Collection",
+        "uuid": "95acb7d3-5f22-48c0-9a30-d44aac8f31bf",
+        "status": "ready",
+        "type": "BDF",
+        "created": "22:15:55, 2015-04-06",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 27,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2519/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/95acb7d3-5f22-48c0-9a30-d44aac8f31bf/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/95acb7d3-5f22-48c0-9a30-d44aac8f31bf/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2519/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2493,
+        "name": "Miner's Leather Hard Hat",
+        "description": "CSPM Collection",
+        "uuid": "14247f6d-7878-4175-ade7-8c33605ca172",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:19:46, 2015-04-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "488.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 244,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2493/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/14247f6d-7878-4175-ade7-8c33605ca172/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/14247f6d-7878-4175-ade7-8c33605ca172/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2493/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2492,
+        "name": "Chamber Pot",
+        "description": "CSPM Collection",
+        "uuid": "10b819db-3c11-4dd7-b4ac-61172ac55a87",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:17:11, 2015-04-05",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "552.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 191,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2492/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/10b819db-3c11-4dd7-b4ac-61172ac55a87/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/10b819db-3c11-4dd7-b4ac-61172ac55a87/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2492/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2486,
+        "name": "American Civl War Bayonet",
+        "description": "Private Collection",
+        "uuid": "49113fc7-fc1b-409e-9dd4-d81784ca510b",
+        "status": "ready",
+        "type": "B3D",
+        "created": "04:02:05, 2015-03-30",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "220.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 10,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2486/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/49113fc7-fc1b-409e-9dd4-d81784ca510b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/49113fc7-fc1b-409e-9dd4-d81784ca510b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2486/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2484,
+        "name": "San Ysidro Labrador",
+        "description": "MRM Collection\nACTIVE LINK IN USE FOR MARKETING",
+        "uuid": "904a2e7e-efcf-4e51-a9c7-e8c36daf5791",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:10:56, 2015-03-29",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "300.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 463,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2484/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/904a2e7e-efcf-4e51-a9c7-e8c36daf5791/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/904a2e7e-efcf-4e51-a9c7-e8c36daf5791/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2484/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2483,
+        "name": "Hand Plane (Manufactured)",
+        "description": "MRM Collection",
+        "uuid": "cc1db7b9-9dc7-4646-b140-a9f37c3bfb19",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:56:26, 2015-03-29",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 23,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2483/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/cc1db7b9-9dc7-4646-b140-a9f37c3bfb19/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/cc1db7b9-9dc7-4646-b140-a9f37c3bfb19/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2483/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2482,
+        "name": "Hopi Pot",
+        "description": "MRM Collection",
+        "uuid": "002dbe8e-1242-4b0d-9016-2bbf230769c6",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:52:05, 2015-03-29",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2482/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/002dbe8e-1242-4b0d-9016-2bbf230769c6/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/002dbe8e-1242-4b0d-9016-2bbf230769c6/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2482/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2481,
+        "name": "Fourth Phase Wearing Blanket",
+        "description": "MRM Collection",
+        "uuid": "36939c54-9fbe-4d4a-948f-781f1d6f7d1c",
+        "status": "ready",
+        "type": "BDF",
+        "created": "02:48:37, 2015-03-29",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 19,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2481/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/36939c54-9fbe-4d4a-948f-781f1d6f7d1c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/36939c54-9fbe-4d4a-948f-781f1d6f7d1c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2481/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2478,
+        "name": "Plains Indian Dress",
+        "description": "MRM Collection",
+        "uuid": "5059defd-4181-4f91-b510-8415d14128ab",
+        "status": "ready",
+        "type": "BSD",
+        "created": "02:35:38, 2015-03-29",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 30,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2478/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/5059defd-4181-4f91-b510-8415d14128ab/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5059defd-4181-4f91-b510-8415d14128ab/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2478/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2475,
+        "name": "Fred Harvey Bottle",
+        "description": "MRM Collection",
+        "uuid": "5d94cf3c-a7a5-410f-8fb2-fd0bd23c7f8c",
+        "status": "ready",
+        "type": "BSD",
+        "created": "20:22:05, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2475/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/5d94cf3c-a7a5-410f-8fb2-fd0bd23c7f8c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5d94cf3c-a7a5-410f-8fb2-fd0bd23c7f8c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2475/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2474,
+        "name": "Bead Drill",
+        "description": "MRM Collection",
+        "uuid": "e11aa192-e38a-4349-8282-aae13869f16d",
+        "status": "ready",
+        "type": "B3D",
+        "created": "20:18:58, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "190.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 21,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2474/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/e11aa192-e38a-4349-8282-aae13869f16d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/e11aa192-e38a-4349-8282-aae13869f16d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2474/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2470,
+        "name": "Acoma Pot",
+        "description": "MRM Collection",
+        "uuid": "7edeeda3-b147-4013-88bd-da45a43fab65",
+        "status": "ready",
+        "type": "BSD",
+        "created": "18:41:58, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 14,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2470/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/7edeeda3-b147-4013-88bd-da45a43fab65/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/7edeeda3-b147-4013-88bd-da45a43fab65/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2470/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2469,
+        "name": "Crow Maiden Armbands",
+        "description": "MRM Collection",
+        "uuid": "8be2747d-765c-4128-8bf1-b5f16d05ad5b",
+        "status": "ready",
+        "type": "BDF",
+        "created": "18:31:48, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 18,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2469/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/8be2747d-765c-4128-8bf1-b5f16d05ad5b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/8be2747d-765c-4128-8bf1-b5f16d05ad5b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2469/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2468,
+        "name": "Matachines Mitre",
+        "description": "MRM Collection",
+        "uuid": "8d0c1a4a-ce0e-4968-b2ec-df648bfbcc51",
+        "status": "ready",
+        "type": "BSD",
+        "created": "18:27:50, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 33,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2468/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/8d0c1a4a-ce0e-4968-b2ec-df648bfbcc51/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/8d0c1a4a-ce0e-4968-b2ec-df648bfbcc51/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2468/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2466,
+        "name": "Wedding Moccacin",
+        "description": "MRM Collection",
+        "uuid": "5dd4494e-45e2-4b24-a104-62ff362bf41c",
+        "status": "ready",
+        "type": "B3D",
+        "created": "15:50:56, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 14,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2466/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/5dd4494e-45e2-4b24-a104-62ff362bf41c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5dd4494e-45e2-4b24-a104-62ff362bf41c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2466/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2465,
+        "name": "Ute Cradle Board",
+        "description": "MRM Collection",
+        "uuid": "fb397ba1-488c-4cb8-9231-85c594decfd5",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:37:59, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 177,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2465/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/fb397ba1-488c-4cb8-9231-85c594decfd5/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/fb397ba1-488c-4cb8-9231-85c594decfd5/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2465/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2464,
+        "name": "Apache Men's Hat",
+        "description": "MRM Collection\nACTIVE LINK USED FOR MARKETING - DO NOT DELETE WITHOUT PERMISSION",
+        "uuid": "ffa41707-1a7b-47fc-bc14-9812f0c5df71",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:35:35, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 207,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2464/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/ffa41707-1a7b-47fc-bc14-9812f0c5df71/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/ffa41707-1a7b-47fc-bc14-9812f0c5df71/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2464/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2462,
+        "name": "Conquistador Helmet",
+        "description": "Private Collection - Jim and Mary Dale Gordon",
+        "uuid": "986b8373-d57b-4692-b7c9-72be2fbbf5dd",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:29:30, 2015-03-26",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 15,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2462/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/986b8373-d57b-4692-b7c9-72be2fbbf5dd/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/986b8373-d57b-4692-b7c9-72be2fbbf5dd/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2462/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2452,
+        "name": "Eye Dazzler",
+        "description": "MRM Collection",
+        "uuid": "1229f93a-52ad-41d3-bbd2-d5382d92a562",
+        "status": "ready",
+        "type": "BDF",
+        "created": "02:10:59, 2015-03-23",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2452/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/1229f93a-52ad-41d3-bbd2-d5382d92a562/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/1229f93a-52ad-41d3-bbd2-d5382d92a562/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2452/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2447,
+        "name": "San Ildefonso Pot",
+        "description": "MRM Collection",
+        "uuid": "b963be73-0e48-492f-b43e-46230b1763ae",
+        "status": "ready",
+        "type": "B3D",
+        "created": "01:59:05, 2015-03-22",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "190.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 15,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2447/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/b963be73-0e48-492f-b43e-46230b1763ae/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b963be73-0e48-492f-b43e-46230b1763ae/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2447/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2438,
+        "name": "Hand Plane - retooled",
+        "description": "MRM Collection",
+        "uuid": "f62843f1-4550-4cde-a7d3-e8886a33eac2",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:00:35, 2015-03-18",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "190.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 21,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2438/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/f62843f1-4550-4cde-a7d3-e8886a33eac2/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/f62843f1-4550-4cde-a7d3-e8886a33eac2/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2438/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2433,
+        "name": "Mimbres Bowl",
+        "description": "MRM Collection",
+        "uuid": "b3444301-517f-4670-8950-1a9de6c33c56",
+        "status": "ready",
+        "type": "B3D",
+        "created": "02:58:20, 2015-03-11",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "190.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 21,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2433/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/b3444301-517f-4670-8950-1a9de6c33c56/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b3444301-517f-4670-8950-1a9de6c33c56/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2433/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2376,
+        "name": "Kachina ",
+        "description": "MRM Collection",
+        "uuid": "84578858-6f8a-468c-994b-cc6a303167d1",
+        "status": "ready",
+        "type": "B3D",
+        "created": "05:04:36, 2015-02-02",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 65,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2376/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/84578858-6f8a-468c-994b-cc6a303167d1/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/84578858-6f8a-468c-994b-cc6a303167d1/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2376/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2363,
+        "name": "Reservation Ration Card Pouch",
+        "description": "MRM Collection",
+        "uuid": "50e43245-2d49-417a-9912-6eefa32eb1da",
+        "status": "ready",
+        "type": "BDF",
+        "created": "19:17:38, 2015-01-25",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 27,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2363/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/50e43245-2d49-417a-9912-6eefa32eb1da/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/50e43245-2d49-417a-9912-6eefa32eb1da/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2363/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2357,
+        "name": "Spanish Straw Inlay Chest",
+        "description": "MRM Collection",
+        "uuid": "f75c7232-ed1f-4bc2-8f11-d3a4bbfb17ba",
+        "status": "ready",
+        "type": "B3D",
+        "created": "07:22:22, 2015-01-25",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "500.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 20,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2357/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/f75c7232-ed1f-4bc2-8f11-d3a4bbfb17ba/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/f75c7232-ed1f-4bc2-8f11-d3a4bbfb17ba/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2357/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2356,
+        "name": "Cowhide Ladle",
+        "description": "MRM Collection",
+        "uuid": "9b49adbb-5d02-4dc9-b6f6-a6bce39504e5",
+        "status": "ready",
+        "type": "BSD",
+        "created": "05:57:46, 2015-01-25",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 18,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2356/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/9b49adbb-5d02-4dc9-b6f6-a6bce39504e5/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/9b49adbb-5d02-4dc9-b6f6-a6bce39504e5/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2356/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2355,
+        "name": "Cochiti Pot",
+        "description": "MRM Collection",
+        "uuid": "ac41b615-b8d9-40ac-8641-a503792ad1bd",
+        "status": "ready",
+        "type": "BSD",
+        "created": "05:50:24, 2015-01-25",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 23,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2355/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/ac41b615-b8d9-40ac-8641-a503792ad1bd/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/ac41b615-b8d9-40ac-8641-a503792ad1bd/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2355/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2345,
+        "name": "Paiute Winnowing Basket",
+        "description": "MRM Collection",
+        "uuid": "14c4f929-419c-4949-9e0d-717c0d69c695",
+        "status": "ready",
+        "type": "BSD",
+        "created": "23:51:19, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 34,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2345/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/14c4f929-419c-4949-9e0d-717c0d69c695/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/14c4f929-419c-4949-9e0d-717c0d69c695/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2345/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2344,
+        "name": "Our Lady of Solitude",
+        "description": "MRM Collection",
+        "uuid": "a17d5d9a-0c25-4db9-bda6-a8b889e4f0ec",
+        "status": "ready",
+        "type": "BSD",
+        "created": "23:47:47, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2344/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/a17d5d9a-0c25-4db9-bda6-a8b889e4f0ec/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/a17d5d9a-0c25-4db9-bda6-a8b889e4f0ec/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2344/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2343,
+        "name": "Stamped Tin Nicho",
+        "description": "MRM Collection",
+        "uuid": "27ce2415-7ebd-4dd1-811a-3726be952653",
+        "status": "ready",
+        "type": "BSD",
+        "created": "23:32:47, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 22,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2343/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/27ce2415-7ebd-4dd1-811a-3726be952653/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/27ce2415-7ebd-4dd1-811a-3726be952653/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2343/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2342,
+        "name": "JR Spur",
+        "description": "MRM Collection",
+        "uuid": "c3445f5f-d520-4c81-b9bd-9e3a9dc8c284",
+        "status": "ready",
+        "type": "BSD",
+        "created": "23:27:11, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 33,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2342/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/c3445f5f-d520-4c81-b9bd-9e3a9dc8c284/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/c3445f5f-d520-4c81-b9bd-9e3a9dc8c284/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2342/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2337,
+        "name": "Native American Olla",
+        "description": "CSPM Collection",
+        "uuid": "44977a60-2fa3-4b22-b29b-a93090e1d83a",
+        "status": "ready",
+        "type": "B3D",
+        "created": "07:04:38, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "290.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 475,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2337/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/44977a60-2fa3-4b22-b29b-a93090e1d83a/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/44977a60-2fa3-4b22-b29b-a93090e1d83a/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2337/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2334,
+        "name": "Navajo Dress",
+        "description": "MRM Collection",
+        "uuid": "f08fd33b-3a63-4e15-9f7e-d3e197e0281e",
+        "status": "ready",
+        "type": "BSD",
+        "created": "04:01:33, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 22,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2334/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/f08fd33b-3a63-4e15-9f7e-d3e197e0281e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/f08fd33b-3a63-4e15-9f7e-d3e197e0281e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2334/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2332,
+        "name": "Wool Cards",
+        "description": "MRM Collection",
+        "uuid": "921c309b-8501-43d9-9212-7b6fa4794e6c",
+        "status": "ready",
+        "type": "BSD",
+        "created": "03:56:45, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 17,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2332/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/921c309b-8501-43d9-9212-7b6fa4794e6c/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/921c309b-8501-43d9-9212-7b6fa4794e6c/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2332/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2329,
+        "name": "Zuni Mickey Ring",
+        "description": "MRM Collection",
+        "uuid": "0271239d-7eb1-45f4-897c-9f114e242d2d",
+        "status": "ready",
+        "type": "BSD",
+        "created": "01:54:45, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 19,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2329/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/0271239d-7eb1-45f4-897c-9f114e242d2d/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/0271239d-7eb1-45f4-897c-9f114e242d2d/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2329/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2328,
+        "name": "Sheep Shears",
+        "description": "MRM Collection",
+        "uuid": "82b2db4f-9442-4a79-9aae-e519806082a7",
+        "status": "ready",
+        "type": "BSD",
+        "created": "01:38:51, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 32,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2328/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/82b2db4f-9442-4a79-9aae-e519806082a7/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/82b2db4f-9442-4a79-9aae-e519806082a7/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2328/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2326,
+        "name": "Sacred Heart",
+        "description": "MRM Collection",
+        "uuid": "f69b585a-6bdb-4d86-bfc5-4e1840fa6cef",
+        "status": "ready",
+        "type": "BDF",
+        "created": "01:24:19, 2015-01-19",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 30,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2326/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/f69b585a-6bdb-4d86-bfc5-4e1840fa6cef/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/f69b585a-6bdb-4d86-bfc5-4e1840fa6cef/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2326/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2310,
+        "name": "Zuni Pot",
+        "description": "MRM Collection",
+        "uuid": "39bf3f75-3ba2-40f1-a4bd-ca4cf3f44dfb",
+        "status": "ready",
+        "type": "BSD",
+        "created": "21:27:08, 2015-01-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 25,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2310/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/39bf3f75-3ba2-40f1-a4bd-ca4cf3f44dfb/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/39bf3f75-3ba2-40f1-a4bd-ca4cf3f44dfb/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2310/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2309,
+        "name": "Maria Smoothing Stones",
+        "description": "MRM Collection",
+        "uuid": "b0f6f32e-74ed-4ebd-8112-95ec4da913a6",
+        "status": "ready",
+        "type": "BSD",
+        "created": "21:24:56, 2015-01-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 16,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2309/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/b0f6f32e-74ed-4ebd-8112-95ec4da913a6/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b0f6f32e-74ed-4ebd-8112-95ec4da913a6/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2309/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2308,
+        "name": "JL Spurs",
+        "description": "MRM Collection",
+        "uuid": "c8f19e7b-89b8-4e99-915b-c184c4189292",
+        "status": "ready",
+        "type": "BSD",
+        "created": "20:00:49, 2015-01-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 24,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2308/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/c8f19e7b-89b8-4e99-915b-c184c4189292/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/c8f19e7b-89b8-4e99-915b-c184c4189292/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2308/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2306,
+        "name": "Hopi Clown Puppets",
+        "description": "MRM Collection",
+        "uuid": "cd231278-1cf3-42fb-9e56-4d2a1c7c8e4b",
+        "status": "ready",
+        "type": "BSD",
+        "created": "19:53:18, 2015-01-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 20,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2306/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/cd231278-1cf3-42fb-9e56-4d2a1c7c8e4b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/cd231278-1cf3-42fb-9e56-4d2a1c7c8e4b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2306/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2297,
+        "name": "Kachina Cape",
+        "description": "MRM Collection",
+        "uuid": "77bd5e32-b1df-4461-ad73-10d6731d9081",
+        "status": "ready",
+        "type": "BSD",
+        "created": "03:53:29, 2015-01-17",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 21,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2297/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/77bd5e32-b1df-4461-ad73-10d6731d9081/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/77bd5e32-b1df-4461-ad73-10d6731d9081/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2297/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2295,
+        "name": "Easter Procession",
+        "description": "MRM Collection",
+        "uuid": "932ee702-e974-4c58-8ee7-99930b9a7c51",
+        "status": "ready",
+        "type": "BDF",
+        "created": "15:22:02, 2015-01-16",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 46,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2295/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/932ee702-e974-4c58-8ee7-99930b9a7c51/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/932ee702-e974-4c58-8ee7-99930b9a7c51/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2295/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2293,
+        "name": "Wearing Blanket",
+        "description": "MRM Collection",
+        "uuid": "93676207-eca6-4254-ad98-2560bcb9bf85",
+        "status": "ready",
+        "type": "BSD",
+        "created": "19:15:20, 2015-01-15",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 190,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2293/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/93676207-eca6-4254-ad98-2560bcb9bf85/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/93676207-eca6-4254-ad98-2560bcb9bf85/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2293/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2292,
+        "name": "Zia Pot",
+        "description": "MRM Collection",
+        "uuid": "a2dae9ef-5a21-4ebc-8ab0-fdc535322c9e",
+        "status": "ready",
+        "type": "BSD",
+        "created": "17:03:28, 2015-01-15",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 20,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2292/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/a2dae9ef-5a21-4ebc-8ab0-fdc535322c9e/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/a2dae9ef-5a21-4ebc-8ab0-fdc535322c9e/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2292/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2291,
+        "name": "San Isidore the Husbandman",
+        "description": "MRM Collection",
+        "uuid": "15661d5d-4ba0-4c03-984c-b059fbe020d4",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:48:22, 2015-01-15",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 19,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2291/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/15661d5d-4ba0-4c03-984c-b059fbe020d4/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/15661d5d-4ba0-4c03-984c-b059fbe020d4/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2291/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2290,
+        "name": "Our Lady of Sorrows",
+        "description": "MRM Collection",
+        "uuid": "6d556023-edd8-4f01-affa-eb09fef5ae23",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:42:37, 2015-01-15",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 8,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2290/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/6d556023-edd8-4f01-affa-eb09fef5ae23/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/6d556023-edd8-4f01-affa-eb09fef5ae23/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2290/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2286,
+        "name": "St Michael",
+        "description": "MRM Collection",
+        "uuid": "fa61b99b-bf8a-48a4-8103-3ea8c037b55b",
+        "status": "ready",
+        "type": "BSD",
+        "created": "03:24:59, 2015-01-15",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 45,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2286/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/fa61b99b-bf8a-48a4-8103-3ea8c037b55b/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/fa61b99b-bf8a-48a4-8103-3ea8c037b55b/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2286/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2284,
+        "name": "Christo with messengers",
+        "description": "MRM Collection",
+        "uuid": "9d739c0d-8e86-40b7-8ed6-fe87499264de",
+        "status": "ready",
+        "type": "BSD",
+        "created": "15:40:31, 2015-01-14",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 23,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2284/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/9d739c0d-8e86-40b7-8ed6-fe87499264de/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/9d739c0d-8e86-40b7-8ed6-fe87499264de/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2284/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2281,
+        "name": "Corn Mother (Hopi) Ladle",
+        "description": "MRM Collection",
+        "uuid": "b1b96009-cfa3-4079-8c2b-e47c8afef3e4",
+        "status": "ready",
+        "type": "BSD",
+        "created": "16:17:34, 2015-01-13",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 22,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2281/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/492/assets/b1b96009-cfa3-4079-8c2b-e47c8afef3e4/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/b1b96009-cfa3-4079-8c2b-e47c8afef3e4/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2281/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2276,
+        "name": "Civil War Coin Test",
+        "description": "Coin Test 1 image",
+        "uuid": "eef41bb4-1fc7-4c9a-8dbf-0867a98acec7",
+        "status": "ready",
+        "type": "BDF",
+        "created": "21:16:55, 2014-12-31",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 11,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2276/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/eef41bb4-1fc7-4c9a-8dbf-0867a98acec7/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/eef41bb4-1fc7-4c9a-8dbf-0867a98acec7/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2276/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2232,
+        "name": "Paris Art",
+        "description": "Paris Art (Painting) Test 3 SuperZoom",
+        "uuid": "e71af745-d7b8-4563-86d1-9ad14b69c273",
+        "status": "ready",
+        "type": "BDF",
+        "created": "03:34:56, 2014-12-02",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "1",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 18,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2232/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/e71af745-d7b8-4563-86d1-9ad14b69c273/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/e71af745-d7b8-4563-86d1-9ad14b69c273/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2232/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2124,
+        "name": "Archimedes Fossil",
+        "description": "Dino Ridge Collection",
+        "uuid": "5e61d3d3-04d2-4a18-beec-c0fa426eef00",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:25:25, 2014-10-01",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "220.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": 5,
+        "number_views": 15,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2124/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/5e61d3d3-04d2-4a18-beec-c0fa426eef00/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/5e61d3d3-04d2-4a18-beec-c0fa426eef00/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2124/download"
+            }
+        }
+    },
+    {
+        "webgl_sources": 0,
+        "id": 2120,
+        "name": "Copper Tea Kettel",
+        "description": "Private Collection",
+        "uuid": "7c51abea-d188-4def-917d-cf956826bfb4",
+        "status": "ready",
+        "type": "B3D",
+        "created": "03:12:11, 2014-10-01",
+        "permissions": 0,
+        "model_units": "mm",
+        "model_scale": "472.000000",
+        "scene_ambient": 1,
+        "scene_diffuse": 1,
+        "scene_specular": 1,
+        "min_tilt_angle": -90,
+        "number_views": 22,
+        "links": {
+            "thumbnail": {
+                "href": "https://bob.bigobjectbase.com/obj/2120/resources/thumbnails/image_1.png"
+            },
+            "view": {
+                "href": "https://bob.bigobjectbase.com/#/accounts/128/assets/7c51abea-d188-4def-917d-cf956826bfb4/detail"
+            },
+            "iframe": {
+                "href": "https://bob.bigobjectbase.com/assets/7c51abea-d188-4def-917d-cf956826bfb4/view/iframe"
+            },
+            "api_download": {
+                "href": "https://bob.bigobjectbase.com/api/assets/2120/download"
+            }
+        }
+    }
+]

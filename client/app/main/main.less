@@ -1,0 +1,188 @@
+.thing-form {
+  margin: 20px 0;
+}
+
+#banner {
+    border-bottom: none;
+    margin-top: -20px;
+}
+
+#banner h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.hero-unit {
+    position: relative;
+    padding: 30px 15px;
+    color: #F5F5F5;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    background: #4393B9;
+}
+
+.searchOptions {
+    padding:10px;
+    margin-bottom:15px;
+    line-height:30px;
+    background: #dcba5f;
+    border: 2px solid #ab7d3c;
+
+    span {
+      display: inline-block;
+      padding: 0 10px 0 10px;
+    }
+
+    span:first-child {
+      padding: 0 30px 0 0px;
+    }
+
+    select{
+      position:relative;
+      top:-5px;
+      width:26%;
+    }
+}
+
+.artifactBox{
+    border: 2px solid #ab7d3c;
+    background: #FFF;
+    padding:0px;
+    margin:0 15px 15px 0;
+    width:193px;
+
+    img {
+      cursor: pointer;
+      height:113px;
+    }
+
+    li {
+      position:relative;
+    }
+
+    li button {
+      display: inline-block;
+      width: 40px;
+    }
+
+    li span {
+      display: inline-block;
+      width: 130px;
+      padding-left: 10px;
+      height: 28px;
+      line-height: 13px;
+      padding-top: 3px;
+      cursor: default;
+    }
+
+    li:last-child {
+        background: #dcba5f;
+        padding: 10px;
+    }
+
+    li input{
+      cursor: pointer;
+    }
+}
+
+.artifactBox:nth-child(3n){
+  margin-right:0px;
+}
+
+.artifactBox:nth-child(3){}
+
+.lesson-header {
+    padding:10px;
+    line-height:30px;
+    background: #dcba5f;
+    border: 2px solid #ab7d3c;
+    border-bottom: none;
+    margin: 0px;
+
+    input, textarea {
+        width:100%;
+        border: 2px solid #ab7d3c;
+        font-size: 60%;
+    }
+}
+
+.lessonBox{
+    border: 2px solid #ab7d3c;
+    border-bottom: none;
+    background: #FFF;
+
+    ul{
+        height:398px; 
+        overflow: auto;
+    }
+
+    li{
+        border-bottom:2px solid #d1d0cf;
+        padding: 0px 10px;
+        height: 40px;
+        line-height: 40px;
+
+        img {
+          width: 38px;
+          height: 38px;
+        }
+        span {
+          position: relative;
+          top: 13px;
+          cursor: pointer;
+        }
+        span:first-child{
+          width: 225px;
+          top: 0px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          cursor: default;
+        }
+    }
+}
+
+.lessonButtons {
+    position:relative;
+    background:#FFF;
+    border: 2px solid #ab7d3c;
+    padding:10px;
+
+    .lessonButtonsPopover {
+      display: inline-block;
+      background: transparent;
+      position:absolute; 
+      width: 63.5px; 
+      height:25px;
+      cursor: not-allowed;
+    }
+    .lessonButtonsPopover:nth-child(2) {
+      left: 78px;
+    }
+    .lessonButtonsPopover:nth-child(3) {
+      left: 145px;
+    }
+    .lessonButtonsPopover:nth-child(4) {
+      left: 212px;
+    }
+
+    button{
+      margin-bottom:5px;
+      width: 63.5px;
+      cursor: pointer;
+    }
+    a{
+      font-size: 130%;
+    }
+}
+
+select.selectedTag option, select.selectedCollection option  {
+    text-transform: capitalize;
+}
+
+.tutorialBackground{
+  background: url('../assets/images/tutorialBackground.png') no-repeat;
+  width: 941px;
+  height: 300px;
+}

@@ -1,0 +1,28 @@
+<body>
+<param name="rotateX" value="0"/>
+<param name="rotateY" value="2"/>
+<param name="model" value="100030h.123"/>
+<param name="width" value="800"/>
+<param name="height" value="600"/>
+<param name="resizeToStage" value="true"/>
+<param name="noModelHighRes" value="100030h_ext.123"/>
+<param name="controls" value="3dsom_controls.swf"/>
+<param name="background" value="3dsom_backdrop.swf"/>
+<param name="measureUnits" value="mm"/>
+<param name="modelScale" value="350.0000"/>
+
+<param name="objectRegionMap" value="100030h_hot.png"/>
+<hotregion><col>ff0000</col>
+<text>
+What are the coils for?
+</text></hotregion>
+<hotregion><col>ff00</col>
+<text>
+Why is this hole here?
+</text></hotregion>
+<hotregion><col>ff</col>
+<text>
+What do you think this is made of?
+</text></hotregion>
+
+</body>

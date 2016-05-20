@@ -1,0 +1,55 @@
+<div class="wrapper">
+
+<div ng-include="'components/header/header.html'"></div>
+
+<script>
+  sb_contact_form('initialize',{
+    company: 'sourcesandsolutions',
+    height: '400px',
+    position: 'top',
+    locale: 'en',
+    captcha: 'true',
+    forwarding_address_id: ''
+  });
+</script>
+
+<style type="text/css">
+  #sb-overlay.sb-modal.sb-fade.in { top: 42%; }
+</style>
+
+<div class="container support_docs">
+  <div class="row">
+    <!-- <section class="col-lg-8 col-md-8">
+      <h3><a href="#" data-controls-modal="sb-overlay">Create a Support Ticket</a></h3>
+    </section> -->
+    <section class="col-lg-8 col-md-8">
+      <div ng-repeat="video in supportVideos">
+        <h3>{{video.title}}</h3>
+        <video-box></video-box>
+      </div>
+    </section>
+    <section class="col-lg-4 col-md-4">
+      <h3>DOCUMENTS</h3>
+      <ul class="document_list">
+        <li><a target="_blank" href="/help_page_pdfs/K-5ArtifactWorksheet.pdf">K – 5 Artifact Worksheet<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/K-5LanguageArtsStandardQuestions.pdf">K-5 Language Arts Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/MiddleSchool-LanguageArts-StandardQuestions.pdf">Middle School - Language Arts - Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/MiddleSchool-SS-StandardQuestions.pdf">Middle School - SS - Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/MiddleSchoolArtifactAnalysisWorksheet.pdf">Middle School Artifact Analysis Worksheet<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/MiddleSchoolMathArtifactsWorksheet.pdf">Middle School Math Artifacts Worksheet<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/MiddleSchoolScienceStandardQuestions.pdf">Middle School Science Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/MiddleSchoolStandardQuestions.pdf">Middle School Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/SecondaryArtifactsAnalysisWorksheet.pdf">Secondary Artifacts Analysis Worksheet<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/SecondaryLanguageArtsAnalysisQuestions.pdf">Secondary Language Arts Analysis Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/SecondaryMathStandardQuestions.pdf">Secondary Math Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/SecondaryScienceStandardQuestions.pdf">Secondary Science Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/SecondarySocialStudiesStandardQuestions.pdf">Secondary Social Studies Standard Questions<a></li>
+        <li><a target="_blank" href="/help_page_pdfs/StandardAnalysisQuestionsforAllArtifacts.pdf">Standard Analysis Questions for All Artifacts<a></li>
+      </ul>
+    </section>
+  </div>
+</div>
+
+<div ng-include="'components/footer/footer.html'"></div>
+
+</div>

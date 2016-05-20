@@ -1,0 +1,33 @@
+<body>
+<param name="rotateX" value="0"/>
+<param name="rotateY" value="2"/>
+<param name="model" value="100003h.123"/>
+<param name="width" value="800"/>
+<param name="height" value="600"/>
+<param name="resizeToStage" value="true"/>
+<param name="noModelHighRes" value="100003h_ext.123"/>
+<param name="controls" value="3dsom_controls.swf"/>
+<param name="background" value="3dsom_backdrop.swf"/>
+<param name="measureUnits" value="in"/>
+<param name="modelScale" value="22.5000"/>
+
+<param name="objectRegionMap" value="100003h_hot.png"/>
+<hotregion><col>ff0000</col>
+<text>
+What do you suppose this piece was used for? 
+
+</text></hotregion>
+<hotregion><col>ff00</col>
+<text>
+What do you think the top of this hat is made of? How much protection do you think it really offered?  
+</text></hotregion>
+<hotregion><col>ff</col>
+<text>
+What is this?  What is it's purpose?
+</text></hotregion>
+<hotregion><col>ffff</col>
+<text>
+What is this? What purpose could it have served?
+</text></hotregion>
+
+</body>

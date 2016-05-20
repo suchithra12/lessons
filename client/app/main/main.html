@@ -1,0 +1,66 @@
+<div class="wrapper">
+
+<div ng-include="'components/header/header.html'"></div>
+
+<div class="container">
+  <!-- <h1>Artifacts:</h1> -->
+  <h2>Select artifacts and create lesson</h2>
+  <h3 class="searchOptions">
+    <span>Search Options:</span>
+    <span>Collection</span>
+    <select class="selectedCollection" ng-model="selectedCollection" ng-options="collect for collect in collections | filter: uppercase" ng-change="showValue();">
+      <option value="">All</option>
+    </select>
+    <span>Tags</span>
+    <select class="selectedTag" ng-model="selectedTag" ng-options="tag for tag in artifactTags | filter: uppercase" ng-change="showValue();">
+      <option value="">All</option>
+    </select>
+  </h3>
+  <div class="row">
+    <section class="clearfix col-lg-8 col-md-8">
+      <ul class="artifactBox pull-left" ng-repeat="artifact in artifacts | filter: selectedTag | filter: selectedCollection">
+        <li><img ng-class="{'disabled': artifact.addedToLesson}" ng-click="viewArtifact()" ng-src="https://bob.bigobjectbase.com/obj/{{artifact.image_id}}/resources/thumbnails/image_1.png" width="100%"></li>
+        <li class="clearfix">
+          <input class="pull-left" ng-disabled="artifact.addedToLesson" ng-model="artifact.addedToLesson" type="checkbox">
+          <!-- <span ng-show="artifact.addedToLesson" ng-class="{'popoverOverlay': artifact.addedToLesson}" popover="TEXT HERE" popover-placement="right" popover-trigger="mouseenter"></span> -->
+          <span ng-class="{'disabled': artifact.addedToLesson}" class="pull-left" uib-popover-template="templateUrl" popover-placement="right" popover-trigger="mouseenter">{{artifact.name}}</span>
+        </li>
+      </ul>
+    </section>
+    <section class="col-lg-4 col-md-4">
+      <form name="lessonForm">
+        <h3 class="lesson-header" ng-class="{ 'has-error' : lessonForm.name.$invalid && !lessonForm.name.$pristine }">Lesson Name:
+          <textarea name="name" ng-model="lesson.title" ng-maxlength="512" required></textarea>
+          <p ng-show="lessonForm.name.$invalid && !lessonForm.name.$pristine && !lessonForm.name.$error.maxlength && !isDuplicateName()" class="help-block">Lesson name is required.</p>
+          <p ng-show="lessonForm.name.$error.maxlength" class="help-block">Lesson name is too long.</p>
+          <p ng-show="isDuplicateName() && lesson.title !== $root.lesson.title" class="help-block">Lesson name already exists. {{$root.lesson.title}}, {{lesson.title}}</p>
+        </h3>
+        <div class="lessonBox">
+          <ul ng-class="{ 'has-error' : lessonForm.$invalid || artifactsNotValid()}">
+            <li ng-repeat="artifact in artifacts" ng-show="artifact.addedToLesson" class="clearfix">
+              <span class="pull-left"><img class="pull-left" ng-src="https://bob.bigobjectbase.com/obj/{{artifact.image_id}}/resources/thumbnails/image_1.png">{{artifact.name}}</span>
+              <span class="glyphicon glyphicon-trash pull-right" aria-hidden="true" ng-click="artifact.addedToLesson=false"></span>
+            </li>
+          </ul>
+        </div>
+        <div class="lessonButtons">
+          <div ng-show="disableButtons() && !lesson._id" class="lessonButtonsPopover" uib-popover="ARTIFACT(s) AND LESSON NAME REQUIRED TO SAVE A LESSON" popover-placement="top" popover-append-to-body="true" popover-trigger="mouseenter"></div>
+          <div ng-show="disableButtons() && !lesson._id" class="lessonButtonsPopover" uib-popover="ARTIFACT(s) AND LESSON NAME REQUIRED TO SAVE A LESSON" popover-placement="top" popover-append-to-body="true" popover-trigger="mouseenter"></div>
+          <div ng-show="disableButtons() && !lesson._id" class="lessonButtonsPopover" uib-popover="ARTIFACT(s) AND LESSON NAME REQUIRED TO SAVE A LESSON" popover-placement="top" popover-append-to-body="true" popover-trigger="mouseenter"></div>
+          <div ng-show="disableButtons() && !lesson._id" class="lessonButtonsPopover" uib-popover="ARTIFACT(s) AND LESSON NAME REQUIRED TO SAVE A LESSON" popover-placement="top" popover-append-to-body="true" popover-trigger="mouseenter"></div>
+          <div>
+            <button ng-disabled="disableButtons()" type="button" class="button" ng-click="saveLesson();">Save</button>
+            <button ng-disabled="!lesson._id" type="button" class="button" ng-click="viewLesson();">View</button>
+            <button ng-disabled="!lesson._id" type="button" class="button btn-danger" ng-click="deleteLesson();">Delete</button>
+            <button ng-disabled="disableButtons()" type="button" class="button btn-reset" ng-click="resetLesson()">Reset</button>
+          </div>
+          <div class="clearfix"><a class="pull-right" href="/lessons">View other lessons</a></div>
+        </div>
+      </form>
+    </section>
+  </div>
+</div>
+
+<div ng-include="'components/footer/footer.html'"></div>
+
+</div>

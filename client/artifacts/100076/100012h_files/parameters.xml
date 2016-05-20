@@ -1,0 +1,32 @@
+<body>
+<param name="rotateX" value="0"/>
+<param name="rotateY" value="2"/>
+<param name="model" value="100012h.123"/>
+<param name="width" value="800"/>
+<param name="height" value="600"/>
+<param name="resizeToStage" value="true"/>
+<param name="noModelHighRes" value="100012h_ext.123"/>
+<param name="controls" value="3dsom_controls.swf"/>
+<param name="background" value="3dsom_backdrop.swf"/>
+<param name="measureUnits" value="mm"/>
+<param name="modelScale" value="290.0000"/>
+
+<param name="objectRegionMap" value="100012h_hot.png"/>
+<hotregion><col>ff0000</col>
+<text>
+Trade beads hand strung with cotton thread.  
+</text></hotregion>
+<hotregion><col>ff00</col>
+<text>
+This mark identifies the object in the collection at the Colorado Springs Pioneer Museum.  The Currator takes great care to ensure the collections is easily accessable and in a constant state of preservation.  Using digital models helps ensure the collections safety while allowing a larger audience to view the object.  Thanks Artifacts Teach!
+</text></hotregion>
+<hotregion><col>ff</col>
+<text>
+What could these designs mean, or represent?
+</text></hotregion>
+<hotregion><col>ffff</col>
+<text>
+Notice the lace
+</text></hotregion>
+
+</body>

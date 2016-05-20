@@ -1,0 +1,5 @@
+<div class="clearfix videoBox">
+  <iframe ng-if="iframeURL" class="pull-left" width="400" height="300" ng-src="{{iframeURL}}" frameborder="0" allowFullScreen="true"></iframe> 
+  <p ng-if="!iframeURL">Coming Soon!</p>
+  <div class="pull-left" ng-repeat="v in video.videos" ng-click="setiframe();">{{v.name}}</div>
+</div>

@@ -1,0 +1,26 @@
+<!-- <header class="hero-unit" id="banner">
+  <div class="container">
+    <h1>Artifacts Teach Dashboard</h1>
+  </div>
+</header> -->
+
+<toast></toast>
+
+<div ng-class="{'serverActive': serverActive}"></div>
+
+<div class="wrapper-header" ng-class="{signinHeader: !isLoggedIn()}" ng-controller="HeaderCtrl">
+    <nav class="clearfix">
+      <ul class="nav pull-left">
+        <li ng-show="isLoggedIn()" ng-class="{'nav-path-selected': artifactsActive}"><a href="/">Artifacts</a></li>
+        <li ng-show="isLoggedIn()" ng-class="{'nav-path-selected': isActive('/lessons')}"><a class="" href="/lessons">Lessons</a></li>
+        <!-- <li ng-show="isLoggedIn()" ng-class="{'nav-path-selected': isActive('/support')}" ng-click="showTutorialViewer();"><a class="" href="#">Help</a></li> -->
+        <li ng-show="isLoggedIn()" ng-class="{'nav-path-selected': isActive('/support')}"><a class="" href="/support">Help</a></li>
+        <li ng-hide="isLoggedIn()" ng-class="{'nav-path-selected': isActive('/signup')}"><a href="/signup">Sign up</a></li>
+        <li ng-hide="isLoggedIn()" ng-class="{'nav-path-selected': isActive('/login')}"><a href="/login">Login</a></li>
+      </ul>
+      <ul class="header-links pull-right" ng-show="isLoggedIn()">
+        <li><a href="#" ng-click="logout();">Logout</a></li> 
+        <li ng-if="!legit()"><a href="/settings"> | My Account</a></li> 
+      </ul>
+    </nav>
+</div>

@@ -1,0 +1,42 @@
+<body>
+<param name="rotateX" value="0"/>
+<param name="rotateY" value="2"/>
+<param name="model" value="100011h.123"/>
+<param name="width" value="800"/>
+<param name="height" value="600"/>
+<param name="resizeToStage" value="true"/>
+<param name="noModelHighRes" value="100011h_ext.123"/>
+<param name="controls" value="3dsom_controls.swf"/>
+<param name="background" value="3dsom_backdrop.swf"/>
+<param name="measureUnits" value="mm"/>
+<param name="modelScale" value="290.0000"/>
+
+<param name="objectRegionMap" value="100011h_hot.png"/>
+<hotregion><col>ff0000</col>
+<text>
+Justrite
+Made in U.S.A
+
+</text></hotregion>
+<hotregion><col>ff00</col>
+<text>
+Off Switch...how did this device work?
+</text></hotregion>
+<hotregion><col>ff</col>
+<text>
+Water was placed inside this lid...why?
+</text></hotregion>
+<hotregion><col>ffff</col>
+<text>
+What are these for?  Were there more parts to this? Did it connect to something else?  What could it be?
+</text></hotregion>
+<hotregion><col>ff00ff</col>
+<text>
+This is where the flame exited the device
+</text></hotregion>
+<hotregion><col>ffff00</col>
+<text>
+What was this part for?  Do research the answer and report the answer back to your teacher.
+</text></hotregion>
+
+</body>

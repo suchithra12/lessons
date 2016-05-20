@@ -1,0 +1,32 @@
+<body>
+<param name="rotateX" value="0"/>
+<param name="rotateY" value="2"/>
+<param name="model" value="100024h.123"/>
+<param name="width" value="800"/>
+<param name="height" value="600"/>
+<param name="resizeToStage" value="true"/>
+<param name="noModelHighRes" value="100024h_ext.123"/>
+<param name="controls" value="3dsom_controls.swf"/>
+<param name="background" value="3dsom_backdrop.swf"/>
+<param name="measureUnits" value="mm"/>
+<param name="modelScale" value="340.0000"/>
+
+<param name="objectRegionMap" value="100024h_hot.png"/>
+<hotregion><col>ff0000</col>
+<text>
+This was hand made.  How did they do that?
+</text></hotregion>
+<hotregion><col>ff00</col>
+<text>
+This must have been hard to make.
+</text></hotregion>
+<hotregion><col>ff</col>
+<text>
+A blacksmith made this
+</text></hotregion>
+<hotregion><col>ffff</col>
+<text>
+Why is the back just as important as the front?
+</text></hotregion>
+
+</body>

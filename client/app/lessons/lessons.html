@@ -1,0 +1,30 @@
+<div class="wrapper">
+
+<div ng-include="'components/header/header.html'"></div>
+
+<div class="container">
+  <h2>My Lessons</h2>
+  <ul class="lessonList">
+    <li ng-if="lessons.length === 0">No lessons - to add one visit "<a href="/artifacts">Artifacts</a>" or <a ng-click="showTutorialViewer()" href="#">view this tutorial</a>.</li>
+    <li ng-if="lessons.length > 0" ng-repeat="lesson in lessons" class="clearfix">
+      <div class="pull-left">{{lesson.title}}</div>
+      <div class="pull-right">
+        <button type="button" class="button" ng-click="editLesson()">Edit</button>
+        <button type="button" class="button" ng-click="viewLesson()">View</button>
+        <button type="button" class="button btn-danger" ng-click="deleteLesson();">Delete</button>
+      </div>
+    </li>
+  </ul>
+  <br>
+  <div class="pull-right" ng-if="!purchaseDone">
+    <button class="btn btn-primary" ng-click="purchase()" ng-if="!purchaseClick">Purchase</button>
+    <button class="btn" ng-if="purchaseClick">Purchase</button>
+  </div>
+  <div class="text-center" ng-if="purchaseDone">
+    Transaction successful.
+  </div>
+</div>
+
+<div ng-include="'components/footer/footer.html'"></div>
+
+</div>
