@@ -18,6 +18,6 @@ module.exports = {
     uri:    process.env.MONGOLAB_URI ||
             process.env.MONGOHQ_URL ||
             process.env.OPENSHIFT_MONGODB_DB_URL+process.env.OPENSHIFT_APP_NAME ||
-            'mongodb://localhost/artifactsteachapp'
+            'mongodb://heroku_app37250104:91rdcsl3u00bbun1i04em3nhb8@ds045001.mongolab.com:45001/heroku_app37250104'
   }
 };
