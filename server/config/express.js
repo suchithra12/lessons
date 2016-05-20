@@ -41,14 +41,14 @@ module.exports = function(app) {
     store: new mongoStore({ mongoose_connection: mongoose.connection })
   }));
   
-  if ('production' === env) {
-    // app.use(favicon(path.join(config.root, 'public', 'favicon.ico')));
-    app.use(express.static(path.join(config.root, 'public')));
-    app.set('appPath', config.root + '/public');
-    app.use(morgan('dev'));
-  }
+  // if ('production' === env) {
+  //   // app.use(favicon(path.join(config.root, 'public', 'favicon.ico')));
+  //   app.use(express.static(path.join(config.root, 'public')));
+  //   app.set('appPath', config.root + '/public');
+  //   app.use(morgan('dev'));
+  // }
 
-  if ('development' === env || 'test' === env) {
+  if ('production' === env || 'development' === env || 'test' === env) {
     app.use(require('connect-livereload')());
     app.use(express.static(path.join(config.root, '.tmp')));
     app.use(express.static(path.join(config.root, 'client')));

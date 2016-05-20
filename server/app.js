@@ -18,7 +18,7 @@ mongoose.connect(config.mongo.uri, config.mongo.options);
 // Populate DB with sample data
 if(config.seedDB) { require('./config/seed'); }
 
-path.join(__dirname, 'app/public/index.html')
+path.join(__dirname, '/app/public/index.html')
 
 // Setup server
 var app = express();
