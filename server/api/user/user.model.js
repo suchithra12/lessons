@@ -21,7 +21,10 @@ var UserSchema = new Schema({
   twitter: {},
   google: {},
   github: {},
-  stripe_cust_id: String
+  stripe_cust_id: String,
+  stripe_payment_date: Date,
+  recursive: { type: Boolean, default: true},
+  created_at: Date
 });
 
 /**

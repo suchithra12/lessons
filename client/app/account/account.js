@@ -23,5 +23,9 @@ angular.module('artifactsteachAppApp')
       .when('/reset/:token', {
         templateUrl: 'app/account/forgot/reset.html',
         controller: 'ForgotCtrl'
+      })
+      .when('/accRenewal', {
+        templateUrl: 'app/account/renewal/renewal.html',
+        controller: 'RenewalCtrl'
       });
   });

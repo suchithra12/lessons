@@ -21,6 +21,19 @@ angular.module('artifactsteachAppApp')
       return deferred.promise;      
     };
 
+    lessonService.deleteAcc = function(){
+      var deferred = $q.defer();
+      
+      $http.get('/api/pay/deleteAccount/'+currentUser._id).success(function(response) {
+        deferred.resolve(response);
+      }).
+      error(function(err) {
+        deferred.reject(err);
+      });
+
+      return deferred.promise;      
+    };
+
 
     lessonService.getLessons = function(){
       var deferred = $q.defer();

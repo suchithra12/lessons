@@ -20,7 +20,8 @@
       </ul>
       <ul class="header-links pull-right" ng-show="isLoggedIn()">
         <li><a href="#" ng-click="logout();">Logout</a></li> 
-        <li ng-if="!legit()"><a href="/settings"> | My Account</a></li> 
+        <li ng-if="!legit()"><a href="/settings"> | My Account</a></li>
+        <li ng-if="!isStripeAcc()"><a href="" ng-click="deleteAccount()"> | Delete Account</a></li> 
       </ul>
     </nav>
 </div>

@@ -37,6 +37,12 @@ angular.module('artifactsteachAppApp')
 
     }
 
+    $scope.deleteAccount = function(){
+      lessonService.deleteAcc().then(function(response) {
+
+          });
+    }
+
 
     $scope.editLesson = function(){
       window.location.href = "/" + this.lesson._id;

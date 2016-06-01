@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('artifactsteachAppApp')
-  .factory('Auth', function Auth($location, $rootScope, $http, User, $cookieStore, $q) {
+  .factory('Auth', function Auth($timeout, $location, $rootScope, $http, User, $cookieStore, $q) {
     var currentUser = {};
     if($cookieStore.get('token')) {
       currentUser = User.get();
@@ -26,6 +26,7 @@ angular.module('artifactsteachAppApp')
         }).
         success(function(data) {
           $cookieStore.put('token', data.token);
+          $cookieStore.put('stripeCustId', data.stripe_cust_id);
           currentUser = User.get();
           deferred.resolve(data);
           return cb();
@@ -46,6 +47,7 @@ angular.module('artifactsteachAppApp')
        */
       logout: function() {
         $cookieStore.remove('token');
+        $cookieStore.remove('stripeCustId')
         //$cookieStore.remove('firstLogin');
         currentUser = {};
       },
@@ -181,6 +183,30 @@ angular.module('artifactsteachAppApp')
        */
       getToken: function() {
         return $cookieStore.get('token');
+      },
+
+      /**
+       * Get Expire date
+       */
+      getExpdate: function(cb) {
+        var callAtTimeout=function(){
+          console.log("In service")
+          // var today = new Date(); 
+          // var todayDateOnly = new Date(today.getFullYear(),today.getMonth(),today.getDate());
+          // var d = new Date(currentUser.created_at); 
+          // var dDateOnly = new Date(d.getFullYear(),d.getMonth(),d.getDate());
+          // dDateOnly = new Date(dDateOnly.getTime() + 30*24*60*60*1000);
+          // cb(dDateOnly.getTime() >= todayDateOnly.getTime());
+
+
+          //----------------- Demo ----------------------
+          var today = new Date(); 
+          var todayDateOnly = new Date(today);
+          var d = new Date(currentUser.created_at); 
+          var dDateOnly = new Date(d.getTime() + (2 * 60 * 1000));
+          cb(dDateOnly.getTime() >= todayDateOnly.getTime());
+        }
+        $timeout(callAtTimeout,1000);
       }
 
     };

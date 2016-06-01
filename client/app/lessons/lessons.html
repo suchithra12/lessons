@@ -16,13 +16,6 @@
     </li>
   </ul>
   <br>
-  <div class="pull-right" ng-if="!purchaseDone">
-    <button class="btn btn-primary" ng-click="purchase()" ng-if="!purchaseClick">Purchase</button>
-    <button class="btn" ng-if="purchaseClick">Purchase</button>
-  </div>
-  <div class="text-center" ng-if="purchaseDone">
-    Transaction successful.
-  </div>
 </div>
 
 <div ng-include="'components/footer/footer.html'"></div>

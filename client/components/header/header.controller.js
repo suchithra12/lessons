@@ -1,7 +1,9 @@
 'use strict';
 
 angular.module('artifactsteachAppApp')
-  .controller('HeaderCtrl', function ($rootScope, $scope, $location, $uibModal, $cookieStore, $log, Auth) {
+  .controller('HeaderCtrl', function (lessonService, $rootScope, $scope, $location, $uibModal, $cookieStore, $log, Auth) {
+
+    console.log("0000000000")
 
     if($rootScope.tutorialViewer){
       $rootScope.tutorialViewer.close()
@@ -30,6 +32,16 @@ angular.module('artifactsteachAppApp')
     $scope.legit = function(){
       // || $scope.getCurrentUser().provider == 'google';
       return $scope.getCurrentUser().provider == 'facebook';
+    }
+    console.log($cookieStore.get('stripeCustId') == undefined || $cookieStore.get('stripeCustId') == 'undefined')
+    $scope.isStripeAcc = function(){
+      return ($cookieStore.get('stripeCustId') == undefined || $cookieStore.get('stripeCustId') == 'undefined')
+    }
+
+    $scope.deleteAccount = function(){
+      lessonService.deleteAcc().then(function(response) {
+        $cookieStore.remove('stripeCustId');
+      });
     }
 
     $scope.logout = function() {
